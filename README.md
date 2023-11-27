@@ -68,6 +68,12 @@ This will save the data in CSV format in a file called raw-data.csv
 
 ### Clean the data and create a JSON copy
 
+```sh
+python3 clean_the_data.py
+```
+
 The original CSV file won't be overwritten or deleted. There will be a new file with cleaned plane names and a JSON file.
 
 The original plane names have special characters that I wanted to remove.
+
+[Page Top](#contents)
