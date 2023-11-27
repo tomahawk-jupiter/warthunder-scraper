@@ -1,0 +1,1090 @@
+plane_name,nation,rank,battle_rating,max_speed,turn_time,climb_rate,wing_rip_speed,combat_flap_rip_speed,image_url
+A-10A,USA,VI,10.0,642,29.0,25.3,874,N/A,https://wiki.warthunder.com/images/thumb/0/08/GarageImage_A-10A.jpg/800px-GarageImage_A-10A.jpg
+A-10A Late,USA,VII,10.3,642,29.0,25.3,874,N/A,https://wiki.warthunder.com/images/thumb/a/a6/GarageImage_A-10A_Late.jpg/800px-GarageImage_A-10A_Late.jpg
+A-1H,USA,IV,6.3,587,23.0,15.5,797,364,https://wiki.warthunder.com/images/thumb/b/bf/GarageImage_A-1H.jpg/800px-GarageImage_A-1H.jpg
+A-20G-25,USA,II,3.0,510,34.0,10.1,696,428,https://wiki.warthunder.com/images/thumb/d/d1/GarageImage_A-20G-25.jpg/800px-GarageImage_A-20G-25.jpg
+A-26B-10,USA,IV,5.0,576,30.0,12.0,718,507,https://wiki.warthunder.com/images/thumb/0/09/GarageImage_A-26B-10.jpg/800px-GarageImage_A-26B-10.jpg
+A-26B-50,USA,IV,5.3,569,28.0,11.4,718,507,https://wiki.warthunder.com/images/thumb/3/3c/GarageImage_A-26B-50.jpg/800px-GarageImage_A-26B-50.jpg
+A-26C-45,USA,IV,5.3,569,28.0,11.4,718,507,https://wiki.warthunder.com/images/thumb/1/16/GarageImage_A-26C-45.jpg/800px-GarageImage_A-26C-45.jpg
+A-26C-45DT,USA,IV,5.3,569,28.0,11.4,718,507,https://wiki.warthunder.com/images/thumb/f/fb/GarageImage_A-26C-45DT.jpg/800px-GarageImage_A-26C-45DT.jpg
+A-36,USA,II,3.0,589,22.3,13.1,855,650,https://wiki.warthunder.com/images/thumb/6/6c/GarageImage_A-36.jpg/800px-GarageImage_A-36.jpg
+A-4B,USA,VI,8.7,"1,065",37.0,42.0,1167,592,https://wiki.warthunder.com/images/thumb/c/c5/GarageImage_A-4B.jpg/800px-GarageImage_A-4B.jpg
+A-4E Early,USA,VI,8.7,"1,081",37.0,40.0,1167,592,https://wiki.warthunder.com/images/thumb/d/d8/GarageImage_A-4E_Early.jpg/800px-GarageImage_A-4E_Early.jpg
+A-6E TRAM,USA,VII,10.3,___,__._,__._,"1,322",N/A,https://wiki.warthunder.com/images/thumb/c/c7/GarageImage_A-6E_TRAM.jpg/800px-GarageImage_A-6E_TRAM.jpg
+A-7D,USA,VII,10.3,"1,123",35.0,55.0,1254,484,https://wiki.warthunder.com/images/thumb/1/10/GarageImage_A-7D.jpg/800px-GarageImage_A-7D.jpg
+A-7E,USA,VII,10.7,"1,123",35.0,55.0,"1,254",484,https://wiki.warthunder.com/images/thumb/6/67/GarageImage_A-7E.jpg/800px-GarageImage_A-7E.jpg
+A-7K,USA,VII,11.0,___,__._,__._,"1,254",484,https://wiki.warthunder.com/images/thumb/0/05/GarageImage_A-7K.jpg/800px-GarageImage_A-7K.jpg
+A2D-1,USA,V,7.0,796,25.0,34.4,875,428,https://wiki.warthunder.com/images/thumb/7/74/GarageImage_A2D-1.jpg/800px-GarageImage_A2D-1.jpg
+▃A6M2,USA,III,3.7,510,17.0,13.3,660,484,https://wiki.warthunder.com/images/thumb/4/47/GarageImage_A6M2_%28USA%29.jpg/800px-GarageImage_A6M2_%28USA%29.jpg
+AD-2,USA,IV,5.7,593,21.0,17.0,797,N/A,https://wiki.warthunder.com/images/thumb/c/cc/GarageImage_AD-2.jpg/800px-GarageImage_AD-2.jpg
+AD-4,USA,IV,6.0,587,23.0,15.5,797,365,https://wiki.warthunder.com/images/thumb/f/f2/GarageImage_AD-4.jpg/800px-GarageImage_AD-4.jpg
+AM-1,USA,IV,5.7,589,22.0,14.2,805,420,https://wiki.warthunder.com/images/thumb/e/e7/GarageImage_AM-1.jpg/800px-GarageImage_AM-1.jpg
+AU-1,USA,IV,5.7,638,22.0,19.0,885,388,https://wiki.warthunder.com/images/thumb/1/18/GarageImage_AU-1.jpg/800px-GarageImage_AU-1.jpg
+AV-8A,USA,VI,9.7,"1,156",32.0,87.0,1191,N/A,https://wiki.warthunder.com/images/thumb/d/d7/GarageImage_AV-8A.jpg/800px-GarageImage_AV-8A.jpg
+AV-8C,USA,VI,9.7,"1,152",32.0,87.0,1191,N/A,https://wiki.warthunder.com/images/thumb/2/28/GarageImage_AV-8C.jpg/800px-GarageImage_AV-8C.jpg
+B-10B,USA,I,1.3,343,21.0,7.7,564,328,https://wiki.warthunder.com/images/thumb/a/ae/GarageImage_B-10B.jpg/800px-GarageImage_B-10B.jpg
+B-17E,USA,III,4.7,510,36.0,7.2,516,383,https://wiki.warthunder.com/images/thumb/a/ac/GarageImage_B-17E.jpg/800px-GarageImage_B-17E.jpg
+B-17E/L,USA,III,5.0,510,36.0,7.2,516,383,https://wiki.warthunder.com/images/thumb/b/b3/GarageImage_B-17EL.jpg/800px-GarageImage_B-17EL.jpg
+B-17G-60-VE,USA,IV,5.3,510,36.0,4.6,516,383,https://wiki.warthunder.com/images/thumb/7/7f/GarageImage_B-17G-60-VE.jpg/800px-GarageImage_B-17G-60-VE.jpg
+B-18A,USA,I,1.3,375,21.0,7.7,580,333,https://wiki.warthunder.com/images/thumb/2/26/GarageImage_B-18A.jpg/800px-GarageImage_B-18A.jpg
+B-24D-25-CO,USA,IV,5.7,494,38.0,4.6,600,N/A,https://wiki.warthunder.com/images/thumb/d/d6/GarageImage_B-24D-25-CO.jpg/800px-GarageImage_B-24D-25-CO.jpg
+B-25J-1,USA,II,4.0,444,31.0,7.7,591,382,https://wiki.warthunder.com/images/thumb/c/c2/GarageImage_B-25J-1.jpg/800px-GarageImage_B-25J-1.jpg
+B-25J-20,USA,II,4.0,444,31.0,7.7,591,382,https://wiki.warthunder.com/images/thumb/a/ae/GarageImage_B-25J-20.jpg/800px-GarageImage_B-25J-20.jpg
+B-26B,USA,III,4.7,491,34.0,5.6,568,382,https://wiki.warthunder.com/images/thumb/0/0c/GarageImage_B-26B.jpg/800px-GarageImage_B-26B.jpg
+B-29A-BN,USA,IV,7.3,641,32.0,6.5,609,332,https://wiki.warthunder.com/images/thumb/a/a5/GarageImage_B-29A-BN.jpg/800px-GarageImage_B-29A-BN.jpg
+B-34,USA,II,3.3,539,27.0,12.0,633,328,https://wiki.warthunder.com/images/thumb/3/3d/GarageImage_B-34.jpg/800px-GarageImage_B-34.jpg
+B-57A,USA,V,8.3,946,58.0,32.0,990,498,https://wiki.warthunder.com/images/thumb/3/36/GarageImage_B-57A.jpg/800px-GarageImage_B-57A.jpg
+B-57B,USA,V,8.3,963,55.0,28.5,990,498,https://wiki.warthunder.com/images/thumb/4/40/GarageImage_B-57B.jpg/800px-GarageImage_B-57B.jpg
+▃Bf 109 F-4,USA,III,4.0,665,19.0,20.0,790,437,https://wiki.warthunder.com/images/thumb/9/99/GarageImage_Bf_109_F-4_%28USA%29.jpg/800px-GarageImage_Bf_109_F-4_%28USA%29.jpg
+BF2C-1,USA,I,1.0,411,13.3,14.2,600,N/A,https://wiki.warthunder.com/images/thumb/9/97/GarageImage_BF2C-1.jpg/800px-GarageImage_BF2C-1.jpg
+Bong's P-38J-15,USA,IV,4.3,693,21.5,19.6,790,565,https://wiki.warthunder.com/images/thumb/4/4f/GarageImage_Bong%27s_P-38J-15.jpg/800px-GarageImage_Bong%27s_P-38J-15.jpg
+P-47M-1-RE,USA,IV,5.7,760,24.0,15.9,885,498,https://wiki.warthunder.com/images/thumb/5/53/GarageImage_Bostwick%27s_P-47M-1-RE.jpg/800px-GarageImage_Bostwick%27s_P-47M-1-RE.jpg
+BTD-1,USA,III,4.0,553,27.0,9.1,885,365,https://wiki.warthunder.com/images/thumb/2/2e/GarageImage_BTD-1.jpg/800px-GarageImage_BTD-1.jpg
+F-100D,USA,VI,9.3,"1,433",40.0,105.0,1361,620,https://wiki.warthunder.com/images/thumb/8/82/GarageImage_F-100D.jpg/800px-GarageImage_F-100D.jpg
+F-104A,USA,VI,9.3,"2,149",32.0,235.0,"1,527",N/A,https://wiki.warthunder.com/images/thumb/4/40/GarageImage_F-104A.jpg/800px-GarageImage_F-104A.jpg
+F-104C,USA,VI,9.3,"2,142",34.0,235.0,"1,527",N/A,https://wiki.warthunder.com/images/thumb/1/12/GarageImage_F-104C.jpg/800px-GarageImage_F-104C.jpg
+F-105D,USA,VII,10.0,"2,167",28.0,175.0,"1,575",N/A,https://wiki.warthunder.com/images/thumb/9/97/GarageImage_F-105D.jpg/800px-GarageImage_F-105D.jpg
+F-111A,USA,VII,10.3,___,__._,__._,0,___,https://wiki.warthunder.com/images/thumb/e/ed/GarageImage_F-111A.jpg/800px-GarageImage_F-111A.jpg
+F-14A Early,USA,VIII,11.7,"2,221",24.0,203.8,"1,555",~5,https://wiki.warthunder.com/images/thumb/0/01/GarageImage_F-14A_Early.jpg/800px-GarageImage_F-14A_Early.jpg
+F-14B,USA,VIII,12.0,"2,215",24.0,224.8,"1,555",~5,https://wiki.warthunder.com/images/thumb/b/b5/GarageImage_F-14B.jpg/800px-GarageImage_F-14B.jpg
+F-16A,USA,VIII,12.0,"2,156",19.8,305.0,"1,555",-,https://wiki.warthunder.com/images/thumb/8/8b/GarageImage_F-16A.jpg/800px-GarageImage_F-16A.jpg
+F-16A ADF,USA,VIII,12.0,"2,146",19.8,295.0,"1,555",N/A,https://wiki.warthunder.com/images/thumb/6/68/GarageImage_F-16A_ADF.jpg/800px-GarageImage_F-16A_ADF.jpg
+F-16C,USA,VIII,12.3,"2,170",19.5,300.0,"1,555",-,https://wiki.warthunder.com/images/thumb/9/9c/GarageImage_F-16C.jpg/800px-GarageImage_F-16C.jpg
+F-4C Phantom II,USA,VII,10.0,"2,288",26.0,172.0,1458,N/A,https://wiki.warthunder.com/images/thumb/1/1f/GarageImage_F-4C_Phantom_II.jpg/800px-GarageImage_F-4C_Phantom_II.jpg
+F-4E Phantom II,USA,VII,11.0,"2,140",26.0,190.0,1458,"1,458",https://wiki.warthunder.com/images/thumb/a/a5/GarageImage_F-4E_Phantom_II.jpg/800px-GarageImage_F-4E_Phantom_II.jpg
+F-4J Phantom II,USA,VII,11.3,"2,139",26.0,184.5,1458,-,https://wiki.warthunder.com/images/thumb/1/1c/GarageImage_F-4J_Phantom_II.jpg/800px-GarageImage_F-4J_Phantom_II.jpg
+F-4S Phantom II,USA,VII,11.3,"2,140",26.0,185.0,1458,"1,458",https://wiki.warthunder.com/images/thumb/6/69/GarageImage_F-4S_Phantom_II.jpg/800px-GarageImage_F-4S_Phantom_II.jpg
+F-5A,USA,VII,10.3,"1,443",27.0,133.6,1458,926,https://wiki.warthunder.com/images/thumb/4/47/GarageImage_F-5A.jpg/800px-GarageImage_F-5A.jpg
+F-5C,USA,VII,10.3,"1,443",27.0,133.6,1458,926,https://wiki.warthunder.com/images/thumb/9/9f/GarageImage_F-5C.jpg/800px-GarageImage_F-5C.jpg
+F-5E,USA,VII,10.7,"1,777",26.0,149.1,1458,"1,018",https://wiki.warthunder.com/images/thumb/9/9d/GarageImage_F-5E.jpg/800px-GarageImage_F-5E.jpg
+F-80A-5,USA,V,7.0,882,23.0,23.6,990,535,https://wiki.warthunder.com/images/thumb/8/87/GarageImage_F-80A-5.jpg/800px-GarageImage_F-80A-5.jpg
+F-80C-10,USA,V,7.7,903,24.0,25.2,990,535,https://wiki.warthunder.com/images/thumb/6/60/GarageImage_F-80C-10.jpg/800px-GarageImage_F-80C-10.jpg
+F-82E,USA,IV,5.3,742,27.0,18.7,854,650,https://wiki.warthunder.com/images/thumb/e/e3/GarageImage_F-82E.jpg/800px-GarageImage_F-82E.jpg
+F-84B-26,USA,V,7.0,948,31.0,22.0,1044.75,527,https://wiki.warthunder.com/images/thumb/a/a5/GarageImage_F-84B-26.jpg/800px-GarageImage_F-84B-26.jpg
+F-84F,USA,V,8.3,"1,102",28.0,38.0,1187,533,https://wiki.warthunder.com/images/thumb/0/03/GarageImage_F-84F.jpg/800px-GarageImage_F-84F.jpg
+F-84G-21-RE,USA,V,7.7,985,28.0,36.2,1044.75,527,https://wiki.warthunder.com/images/thumb/0/0c/GarageImage_F-84G-21-RE.jpg/800px-GarageImage_F-84G-21-RE.jpg
+F-86A-5,USA,V,8.3,"1,093",24.0,38.1,"1,118",590,https://wiki.warthunder.com/images/thumb/d/d3/GarageImage_F-86A-5.jpg/800px-GarageImage_F-86A-5.jpg
+F-86F-2,USA,VI,9.0,"1,106",24.0,46.7,"1,170",590,https://wiki.warthunder.com/images/thumb/8/80/GarageImage_F-86F-2.jpg/800px-GarageImage_F-86F-2.jpg
+F-86F-25,USA,V,8.7,"1,106",24.0,46.7,"1,170",590,https://wiki.warthunder.com/images/thumb/6/60/GarageImage_F-86F-25.jpg/800px-GarageImage_F-86F-25.jpg
+F-86F-35,USA,V,8.7,"1,106",24.0,46.7,"1,170",590,https://wiki.warthunder.com/images/thumb/a/a0/GarageImage_F-86F-35.jpg/800px-GarageImage_F-86F-35.jpg
+F-89B,USA,V,7.0,"1,011",28.0,49.4,920,554,https://wiki.warthunder.com/images/thumb/4/43/GarageImage_F-89B.jpg/800px-GarageImage_F-89B.jpg
+F-89D,USA,V,7.0,"1,022",33.0,38.9,920,554,https://wiki.warthunder.com/images/thumb/3/33/GarageImage_F-89D.jpg/800px-GarageImage_F-89D.jpg
+F-8E,USA,VII,10.3,"2,110",29.0,131.4,"1,555","1,070",https://wiki.warthunder.com/images/thumb/3/3d/GarageImage_F-8E.jpg/800px-GarageImage_F-8E.jpg
+F11F-1,USA,VI,9.0,"1,213",35.0,74.0,1458,N/A,https://wiki.warthunder.com/images/thumb/7/7b/GarageImage_F11F-1.jpg/800px-GarageImage_F11F-1.jpg
+F2A-1,USA,I,2.0,504,18.2,10.9,761,437,https://wiki.warthunder.com/images/thumb/9/99/GarageImage_F2A-1.jpg/800px-GarageImage_F2A-1.jpg
+F2A-3,USA,II,2.3,518,17.6,16.4,761,437,https://wiki.warthunder.com/images/thumb/8/8e/GarageImage_F2A-3.jpg/800px-GarageImage_F2A-3.jpg
+F2G-1,USA,IV,6.0,706,21.0,20.0,885,382,https://wiki.warthunder.com/images/thumb/9/94/GarageImage_F2G-1.jpg/800px-GarageImage_F2G-1.jpg
+F2H-2,USA,V,7.3,933,26.0,27.4,994,503,https://wiki.warthunder.com/images/thumb/9/9c/GarageImage_F2H-2.jpg/800px-GarageImage_F2H-2.jpg
+F3D-1,USA,V,7.0,846,30.0,18.8,932,443,https://wiki.warthunder.com/images/thumb/0/0d/GarageImage_F3D-1.jpg/800px-GarageImage_F3D-1.jpg
+F3F-2,USA,I,1.3,425,13.0,15.6,810,N/A,https://wiki.warthunder.com/images/thumb/3/39/GarageImage_F3F-2.jpg/800px-GarageImage_F3F-2.jpg
+F3H-2,USA,VI,9.3,"1,163",28.0,72.0,1360,833,https://wiki.warthunder.com/images/thumb/c/c0/GarageImage_F3H-2.jpg/800px-GarageImage_F3H-2.jpg
+F4D-1,USA,VI,9.0,"1,145",22.0,122.0,"1,283","1,283",https://wiki.warthunder.com/images/thumb/e/e9/GarageImage_F4D-1.jpg/800px-GarageImage_F4D-1.jpg
+F4F-3,USA,II,2.3,518,18.9,15.1,826,420,https://wiki.warthunder.com/images/thumb/f/fa/GarageImage_F4F-3.jpg/800px-GarageImage_F4F-3.jpg
+F4F-4,USA,II,3.0,517,19.9,14.0,826,420,https://wiki.warthunder.com/images/thumb/3/39/GarageImage_F4F-4.jpg/800px-GarageImage_F4F-4.jpg
+F4U-1A,USA,II,2.7,683,24.0,12.3,885,388,https://wiki.warthunder.com/images/thumb/e/e7/GarageImage_F4U-1A.jpg/800px-GarageImage_F4U-1A.jpg
+F4U-1A (USMC),USA,II,3.0,689,21.0,12.3,885,388,https://wiki.warthunder.com/images/thumb/b/b3/GarageImage_F4U-1A_%28USMC%29.jpg/800px-GarageImage_F4U-1A_%28USMC%29.jpg
+F4U-1C,USA,IV,4.7,667,22.0,16.4,885,388,https://wiki.warthunder.com/images/thumb/c/c6/GarageImage_F4U-1C.jpg/800px-GarageImage_F4U-1C.jpg
+F4U-1D,USA,II,3.0,672,22.0,15.2,885,388,https://wiki.warthunder.com/images/thumb/6/62/GarageImage_F4U-1D.jpg/800px-GarageImage_F4U-1D.jpg
+F4U-4,USA,III,4.7,711,20.0,18.5,885,388,https://wiki.warthunder.com/images/thumb/d/d2/GarageImage_F4U-4.jpg/800px-GarageImage_F4U-4.jpg
+F4U-4B,USA,IV,5.7,697,20.0,19.0,885,388,https://wiki.warthunder.com/images/thumb/f/ff/GarageImage_F4U-4B.jpg/800px-GarageImage_F4U-4B.jpg
+F4U-4B VMF-214,USA,IV,5.7,697,20.0,19.0,885,388,https://wiki.warthunder.com/images/thumb/2/22/GarageImage_F4U-4B_VMF-214.jpg/800px-GarageImage_F4U-4B_VMF-214.jpg
+F6F-5,USA,II,3.3,647,20.5,12.6,803,487,https://wiki.warthunder.com/images/thumb/8/80/GarageImage_F6F-5.jpg/800px-GarageImage_F6F-5.jpg
+F6F-5N,USA,III,4.3,629,21.0,11.8,803,487,https://wiki.warthunder.com/images/thumb/f/fe/GarageImage_F6F-5N.jpg/800px-GarageImage_F6F-5N.jpg
+F7F-1,USA,IV,6.3,688,25.0,25.0,835.14,455,https://wiki.warthunder.com/images/thumb/0/00/GarageImage_F7F-1.jpg/800px-GarageImage_F7F-1.jpg
+F7F-3,USA,IV,6.3,708,25.0,25.5,835.14,455,https://wiki.warthunder.com/images/thumb/e/ea/GarageImage_F7F-3.jpg/800px-GarageImage_F7F-3.jpg
+F8F-1,USA,III,5.0,708,19.0,25.2,827,616,https://wiki.warthunder.com/images/thumb/7/7d/GarageImage_F8F-1.jpg/800px-GarageImage_F8F-1.jpg
+F8F-1B,USA,IV,6.3,708,19.0,24.8,827,616,https://wiki.warthunder.com/images/thumb/7/7d/GarageImage_F8F-1B.jpg/800px-GarageImage_F8F-1B.jpg
+F8U-2,USA,VI,10.0,"2,038",28.0,137.0,"1,555","1,070",https://wiki.warthunder.com/images/thumb/e/e5/GarageImage_F8U-2.jpg/800px-GarageImage_F8U-2.jpg
+F9F-2,USA,V,8.0,926,27.0,26.5,1000,572,https://wiki.warthunder.com/images/thumb/e/ef/GarageImage_F9F-2.jpg/800px-GarageImage_F9F-2.jpg
+F9F-5,USA,V,8.3,972,27.0,24.4,1000,581,https://wiki.warthunder.com/images/thumb/0/07/GarageImage_F9F-5.jpg/800px-GarageImage_F9F-5.jpg
+F9F-8,USA,V,8.3,"1,041",32.0,29.1,1127,N/A,https://wiki.warthunder.com/images/thumb/6/64/GarageImage_F9F-8.jpg/800px-GarageImage_F9F-8.jpg
+FJ-4B,USA,VI,8.7,"1,090",31.0,35.0,1166,600,https://wiki.warthunder.com/images/thumb/6/69/GarageImage_FJ-4B.jpg/800px-GarageImage_FJ-4B.jpg
+FJ-4B VMF-232,USA,VI,8.7,"1,090",31.0,35.0,1166,600,https://wiki.warthunder.com/images/thumb/1/19/GarageImage_FJ-4B_VMF-232.jpg/800px-GarageImage_FJ-4B_VMF-232.jpg
+▃Fw 190 A-8,USA,IV,5.0,652,22.8,14.1,912,N/A,https://wiki.warthunder.com/images/thumb/1/13/GarageImage_Fw_190_A-8_%28USA%29.jpg/800px-GarageImage_Fw_190_A-8_%28USA%29.jpg
+Galer's F3F-2,USA,I,1.3,425,13.0,15.6,810,N/A,https://wiki.warthunder.com/images/thumb/7/7e/GarageImage_Galer%27s_F3F-2.jpg/800px-GarageImage_Galer%27s_F3F-2.jpg
+▃Ki-43-II,USA,II,2.7,558,15.0,15.3,661,416,https://wiki.warthunder.com/images/thumb/5/56/GarageImage_Ki-43-II_%28USA%29.jpg/800px-GarageImage_Ki-43-II_%28USA%29.jpg
+▃Ki-61-Ib,USA,II,3.7,587,20.3,11.0,850,292,https://wiki.warthunder.com/images/thumb/c/c5/GarageImage_Ki-61-Ib_%28USA%29.jpg/800px-GarageImage_Ki-61-Ib_%28USA%29.jpg
+␠Kingcobra,USA,III,4.0,663,23.0,21.7,887,378,https://wiki.warthunder.com/images/thumb/d/dc/GarageImage_Kingcobra_%28USA%29.jpg/800px-GarageImage_Kingcobra_%28USA%29.jpg
+⋠P-47M-1-RE,USA,IV,5.7,760,24.0,15.9,885,498,https://wiki.warthunder.com/images/thumb/7/7d/GarageImage_Lanovski%27s_P-47M-1-RE.jpg/800px-GarageImage_Lanovski%27s_P-47M-1-RE.jpg
+OS2U-1,USA,I,1.0,296,33.1,6.8,405,337,https://wiki.warthunder.com/images/thumb/d/de/GarageImage_OS2U-1.jpg/800px-GarageImage_OS2U-1.jpg
+OS2U-3,USA,I,1.0,292,33.1,14.1,405,337,https://wiki.warthunder.com/images/thumb/e/e5/GarageImage_OS2U-3.jpg/800px-GarageImage_OS2U-3.jpg
+P-26A-33,USA,I,1.0,377,18.0,12.0,508,N/A,https://wiki.warthunder.com/images/thumb/d/d7/GarageImage_P-26A-33.jpg/800px-GarageImage_P-26A-33.jpg
+P-26A-34,USA,I,1.0,377,18.0,12.0,508,N/A,https://wiki.warthunder.com/images/thumb/d/d2/GarageImage_P-26A-34.jpg/800px-GarageImage_P-26A-34.jpg
+P-26A-34 M2,USA,I,1.0,377,18.0,12.0,508,N/A,https://wiki.warthunder.com/images/thumb/9/96/GarageImage_P-26A-34_M2.jpg/800px-GarageImage_P-26A-34_M2.jpg
+P-26B-35,USA,I,1.0,377,18.0,12.0,508,N/A,https://wiki.warthunder.com/images/thumb/c/c4/GarageImage_P-26B-35.jpg/800px-GarageImage_P-26B-35.jpg
+P-36A,USA,I,1.3,504,17.3,10.6,681,488,https://wiki.warthunder.com/images/thumb/5/5d/GarageImage_P-36A.jpg/800px-GarageImage_P-36A.jpg
+P-36C,USA,I,1.7,501,17.0,10.6,770,488,https://wiki.warthunder.com/images/thumb/2/2b/GarageImage_P-36C.jpg/800px-GarageImage_P-36C.jpg
+○P-36C,USA,I,1.7,501,17.0,10.6,770,488,https://wiki.warthunder.com/images/thumb/a/ad/GarageImage_P-36C_%28TheRussianBadger%29.jpg/800px-GarageImage_P-36C_%28TheRussianBadger%29.jpg
+P-36G,USA,II,2.7,501,17.0,10.6,770,488,https://wiki.warthunder.com/images/thumb/4/4c/GarageImage_P-36G.jpg/800px-GarageImage_P-36G.jpg
+P-38E,USA,II,3.0,635,23.0,13.5,790,565,https://wiki.warthunder.com/images/thumb/d/d8/GarageImage_P-38E.jpg/800px-GarageImage_P-38E.jpg
+P-38G-1,USA,II,3.3,660,22.0,18.0,790,565,https://wiki.warthunder.com/images/thumb/4/4a/GarageImage_P-38G-1.jpg/800px-GarageImage_P-38G-1.jpg
+P-38J-15,USA,III,4.3,693,21.5,19.6,790,565,https://wiki.warthunder.com/images/thumb/b/b7/GarageImage_P-38J-15.jpg/800px-GarageImage_P-38J-15.jpg
+P-38K,USA,IV,5.3,724,20.0,24.0,790,565,https://wiki.warthunder.com/images/thumb/2/2d/GarageImage_P-38K.jpg/800px-GarageImage_P-38K.jpg
+P-38L-5-LO,USA,III,4.7,690,22.0,19.3,790,565,https://wiki.warthunder.com/images/thumb/b/b9/GarageImage_P-38L-5-LO.jpg/800px-GarageImage_P-38L-5-LO.jpg
+P-39N-0,USA,II,2.7,641,18.0,14.9,886,426,https://wiki.warthunder.com/images/thumb/4/45/GarageImage_P-39N-0.jpg/800px-GarageImage_P-39N-0.jpg
+P-39Q-5,USA,II,2.7,602,18.0,14.4,886,426,https://wiki.warthunder.com/images/thumb/e/eb/GarageImage_P-39Q-5.jpg/800px-GarageImage_P-39Q-5.jpg
+P-400,USA,II,2.0,576,22.0,9.7,886,400,https://wiki.warthunder.com/images/thumb/d/da/GarageImage_P-400.jpg/800px-GarageImage_P-400.jpg
+P-40C,USA,II,2.3,561,19.0,12.0,795,595,https://wiki.warthunder.com/images/thumb/2/25/GarageImage_P-40C.jpg/800px-GarageImage_P-40C.jpg
+P-40E-1,USA,II,2.7,560,21.0,10.6,819,595,https://wiki.warthunder.com/images/thumb/e/ed/GarageImage_P-40E-1.jpg/800px-GarageImage_P-40E-1.jpg
+P-40E-1 TD,USA,II,2.7,560,21.0,10.6,819,595,https://wiki.warthunder.com/images/thumb/d/de/GarageImage_P-40E-1_TD.jpg/800px-GarageImage_P-40E-1_TD.jpg
+P-40F-10,USA,II,2.7,615,20.0,11.2,819,595,https://wiki.warthunder.com/images/thumb/5/55/GarageImage_P-40F-10.jpg/800px-GarageImage_P-40F-10.jpg
+P-43A-1,USA,II,2.7,566,19.0,13.6,760,426,https://wiki.warthunder.com/images/thumb/2/20/GarageImage_P-43A-1.jpg/800px-GarageImage_P-43A-1.jpg
+P-47D-22-RE,USA,III,3.7,695,25.0,10.0,885,498,https://wiki.warthunder.com/images/thumb/6/6c/GarageImage_P-47D-22-RE.jpg/800px-GarageImage_P-47D-22-RE.jpg
+P-47D-25,USA,III,4.3,700,25.0,10.6,885,498,https://wiki.warthunder.com/images/thumb/c/c6/GarageImage_P-47D-25.jpg/800px-GarageImage_P-47D-25.jpg
+P-47D-28,USA,III,5.0,714,23.0,14.1,885,498,https://wiki.warthunder.com/images/thumb/4/43/GarageImage_P-47D-28.jpg/800px-GarageImage_P-47D-28.jpg
+P-47N-15,USA,III,4.7,750,30.0,14.0,950,495,https://wiki.warthunder.com/images/thumb/b/bf/GarageImage_P-47N-15.jpg/800px-GarageImage_P-47N-15.jpg
+P-51,USA,III,3.3,631,20.0,13.1,855,650,https://wiki.warthunder.com/images/thumb/3/36/GarageImage_P-51.jpg/800px-GarageImage_P-51.jpg
+P-51A,USA,II,3.0,668,20.0,15.7,855,652,https://wiki.warthunder.com/images/thumb/5/51/GarageImage_P-51A.jpg/800px-GarageImage_P-51A.jpg
+P-51C-10,USA,II,3.7,708,21.0,16.2,853,676,https://wiki.warthunder.com/images/thumb/e/e4/GarageImage_P-51C-10.jpg/800px-GarageImage_P-51C-10.jpg
+P-51D-10,USA,IV,4.3,710,22.0,18.9,901,644,https://wiki.warthunder.com/images/thumb/9/9a/GarageImage_P-51D-10.jpg/800px-GarageImage_P-51D-10.jpg
+P-51D-20-NA,USA,IV,4.3,710,22.0,18.9,901,644,https://wiki.warthunder.com/images/thumb/4/40/GarageImage_P-51D-20-NA.jpg/800px-GarageImage_P-51D-20-NA.jpg
+P-51D-30,USA,IV,5.0,721,20.0,22.7,910,644,https://wiki.warthunder.com/images/thumb/c/cd/GarageImage_P-51D-30.jpg/800px-GarageImage_P-51D-30.jpg
+P-51D-5,USA,III,4.3,698,23.0,18.0,855,644,https://wiki.warthunder.com/images/thumb/1/1c/GarageImage_P-51D-5.jpg/800px-GarageImage_P-51D-5.jpg
+P-51H-5-NA,USA,IV,6.3,776,19.0,18.2,887,651,https://wiki.warthunder.com/images/thumb/9/91/GarageImage_P-51H-5-NA.jpg/800px-GarageImage_P-51H-5-NA.jpg
+P-59A,USA,IV,5.7,690,20.0,19.5,845,495,https://wiki.warthunder.com/images/thumb/1/14/GarageImage_P-59A.jpg/800px-GarageImage_P-59A.jpg
+P-61A-11,USA,III,3.7,582,30.0,11.2,642,340,https://wiki.warthunder.com/images/thumb/f/f9/GarageImage_P-61A-11.jpg/800px-GarageImage_P-61A-11.jpg
+P-61C-1,USA,III,4.0,692,25.0,16.0,726,340,https://wiki.warthunder.com/images/thumb/4/43/GarageImage_P-61C-1.jpg/800px-GarageImage_P-61C-1.jpg
+P-63A-10,USA,III,4.0,650,23.0,22.2,887,378,https://wiki.warthunder.com/images/thumb/b/b7/GarageImage_P-63A-10.jpg/800px-GarageImage_P-63A-10.jpg
+P-63A-5,USA,III,3.3,640,21.0,19.6,887,378,https://wiki.warthunder.com/images/thumb/4/40/GarageImage_P-63A-5.jpg/800px-GarageImage_P-63A-5.jpg
+P-63C-5,USA,III,4.0,663,23.0,21.7,887,378,https://wiki.warthunder.com/images/thumb/3/34/GarageImage_P-63C-5.jpg/800px-GarageImage_P-63C-5.jpg
+PB4Y-2,USA,III,5.3,404,38.0,3.5,599,N/A,https://wiki.warthunder.com/images/thumb/b/b2/GarageImage_PB4Y-2.jpg/800px-GarageImage_PB4Y-2.jpg
+PBJ-1H,USA,III,3.7,451,37.0,7.7,611,382,https://wiki.warthunder.com/images/thumb/9/93/GarageImage_PBJ-1H.jpg/800px-GarageImage_PBJ-1H.jpg
+PBJ-1J,USA,III,3.7,457,36.0,7.7,591,382,https://wiki.warthunder.com/images/thumb/f/f5/GarageImage_PBJ-1J.jpg/800px-GarageImage_PBJ-1J.jpg
+"PBM-1 ""Mariner""",USA,I,2.0,346,29.0,6.0,388.88,498,https://wiki.warthunder.com/images/thumb/0/09/GarageImage_PBM-1_%22Mariner%22.jpg/800px-GarageImage_PBM-1_%22Mariner%22.jpg
+"PBM-3 ""Mariner""",USA,II,3.0,349,34.0,4.9,405,333,https://wiki.warthunder.com/images/thumb/4/46/GarageImage_PBM-3_%22Mariner%22.jpg/800px-GarageImage_PBM-3_%22Mariner%22.jpg
+PBY-5 Catalina,USA,I,1.3,288,28.0,4.8,405,-,https://wiki.warthunder.com/images/thumb/6/6c/GarageImage_PBY-5_Catalina.jpg/800px-GarageImage_PBY-5_Catalina.jpg
+PBY-5A Catalina,USA,I,1.7,282,30.0,5.1,405,-,https://wiki.warthunder.com/images/thumb/8/8f/GarageImage_PBY-5A_Catalina.jpg/800px-GarageImage_PBY-5A_Catalina.jpg
+PV-2D,USA,III,3.7,478,28.0,12.0,601,326,https://wiki.warthunder.com/images/thumb/d/d3/GarageImage_PV-2D.jpg/800px-GarageImage_PV-2D.jpg
+Rasmussen's P-36A,USA,I,1.3,504,17.3,10.6,681,488,https://wiki.warthunder.com/images/thumb/a/a0/GarageImage_Rasmussen%27s_P-36A.jpg/800px-GarageImage_Rasmussen%27s_P-36A.jpg
+SB2C-1C,USA,II,3.0,450,23.0,6.1,656,503,https://wiki.warthunder.com/images/thumb/7/70/GarageImage_SB2C-1C.jpg/800px-GarageImage_SB2C-1C.jpg
+SB2C-4,USA,II,3.7,459,23.0,6.1,656,503,https://wiki.warthunder.com/images/thumb/b/b2/GarageImage_SB2C-4.jpg/800px-GarageImage_SB2C-4.jpg
+SB2U-2,USA,I,1.0,360,22.0,6.2,740,-,https://wiki.warthunder.com/images/thumb/2/2f/GarageImage_SB2U-2.jpg/800px-GarageImage_SB2U-2.jpg
+SB2U-3,USA,I,1.7,360,22.0,6.2,740,N/A,https://wiki.warthunder.com/images/thumb/5/50/GarageImage_SB2U-3.jpg/800px-GarageImage_SB2U-3.jpg
+SBD-3,USA,I,2.0,439,25.5,9.8,740,490,https://wiki.warthunder.com/images/thumb/e/ef/GarageImage_SBD-3.jpg/800px-GarageImage_SBD-3.jpg
+SOC-1,USA,I,1.3,___,__._,__._,0,___,https://wiki.warthunder.com/images/thumb/9/95/GarageImage_SOC-1.jpg/800px-GarageImage_SOC-1.jpg
+▃Spitfire LF Mk IXc,USA,IV,5.7,690,14.8,31.8,774,N/A,https://wiki.warthunder.com/images/thumb/8/89/GarageImage_Spitfire_LF_Mk_IXc_%28USA%29.jpg/800px-GarageImage_Spitfire_LF_Mk_IXc_%28USA%29.jpg
+TBD-1,USA,I,1.0,312,19.0,6.1,431,212,https://wiki.warthunder.com/images/thumb/1/13/GarageImage_TBD-1.jpg/800px-GarageImage_TBD-1.jpg
+TBF-1C,USA,I,1.7,432,30.0,5.1,612,N/A,https://wiki.warthunder.com/images/thumb/c/ce/GarageImage_TBF-1C.jpg/800px-GarageImage_TBF-1C.jpg
+Thach's F2A-1,USA,I,2.0,504,18.2,10.9,761,437,https://wiki.warthunder.com/images/thumb/7/73/GarageImage_Thach%27s_F2A-1.jpg/800px-GarageImage_Thach%27s_F2A-1.jpg
+XA-38,USA,IV,3.7,616,28.0,11.4,714,333,https://wiki.warthunder.com/images/thumb/0/04/GarageImage_XA-38.jpg/800px-GarageImage_XA-38.jpg
+XF5F,USA,III,2.3,574,21.0,9.7,722,465,https://wiki.warthunder.com/images/thumb/d/d9/GarageImage_XF5F.jpg/800px-GarageImage_XF5F.jpg
+XP-38G,USA,II,3.3,660,22.0,18.0,790,565,https://wiki.warthunder.com/images/thumb/5/55/GarageImage_XP-38G.jpg/800px-GarageImage_XP-38G.jpg
+XP-50,USA,III,4.0,680,19.0,20.0,745,465,https://wiki.warthunder.com/images/thumb/f/ff/GarageImage_XP-50.jpg/800px-GarageImage_XP-50.jpg
+XP-55,USA,III,4.3,628,29.2,18.6,900,523,https://wiki.warthunder.com/images/thumb/8/8d/GarageImage_XP-55.jpg/800px-GarageImage_XP-55.jpg
+YP-38,USA,II,3.0,635,23.0,13.5,790,566,https://wiki.warthunder.com/images/thumb/0/09/GarageImage_YP-38.jpg/800px-GarageImage_YP-38.jpg
+Ar 196 A-3,Germany,I,1.3,320,21.0,7.0,570,498,https://wiki.warthunder.com/images/thumb/7/73/GarageImage_Ar_196_A-3.jpg/800px-GarageImage_Ar_196_A-3.jpg
+Ar 234 B-2,Germany,V,6.3,742,28.5,28.5,1000,527,https://wiki.warthunder.com/images/thumb/a/a3/GarageImage_Ar_234_B-2.jpg/800px-GarageImage_Ar_234_B-2.jpg
+Ar 234 C-3,Germany,V,7.3,857,29.0,28.5,1000,527,https://wiki.warthunder.com/images/thumb/6/6a/GarageImage_Ar_234_C-3.jpg/800px-GarageImage_Ar_234_C-3.jpg
+Bf 109 B-1,Germany,I,1.3,465,22.0,10.2,790,387,https://wiki.warthunder.com/images/thumb/b/b4/GarageImage_Bf_109_B-1.jpg/800px-GarageImage_Bf_109_B-1.jpg
+Bf 109 E-1,Germany,II,2.3,570,20.0,17.8,790,477,https://wiki.warthunder.com/images/thumb/e/e1/GarageImage_Bf_109_E-1.jpg/800px-GarageImage_Bf_109_E-1.jpg
+Bf 109 E-3,Germany,II,2.3,570,20.0,17.8,790,477,https://wiki.warthunder.com/images/thumb/d/d5/GarageImage_Bf_109_E-3.jpg/800px-GarageImage_Bf_109_E-3.jpg
+Bf 109 E-4,Germany,II,3.0,580,21.0,17.8,790,487,https://wiki.warthunder.com/images/thumb/a/ad/GarageImage_Bf_109_E-4.jpg/800px-GarageImage_Bf_109_E-4.jpg
+Bf 109 E-7/U2,Germany,II,3.0,580,21.0,17.8,790,487,https://wiki.warthunder.com/images/thumb/c/ce/GarageImage_Bf_109_E-7_U2.jpg/800px-GarageImage_Bf_109_E-7_U2.jpg
+Bf 109 F-1,Germany,II,2.7,614,18.0,20.0,790,437,https://wiki.warthunder.com/images/thumb/1/1f/GarageImage_Bf_109_F-1.jpg/800px-GarageImage_Bf_109_F-1.jpg
+Bf 109 F-2,Germany,II,3.0,614,18.0,20.0,790,437,https://wiki.warthunder.com/images/thumb/1/1d/GarageImage_Bf_109_F-2.jpg/800px-GarageImage_Bf_109_F-2.jpg
+Bf 109 F-4,Germany,III,4.0,665,19.0,20.0,790,437,https://wiki.warthunder.com/images/thumb/c/cf/GarageImage_Bf_109_F-4.jpg/800px-GarageImage_Bf_109_F-4.jpg
+Bf 109 F-4/trop,Germany,III,4.0,658,19.0,20.0,790,437,https://wiki.warthunder.com/images/thumb/1/13/GarageImage_Bf_109_F-4trop.jpg/800px-GarageImage_Bf_109_F-4trop.jpg
+Bf 109 G-10,Germany,IV,5.7,692,19.0,21.8,790,437,https://wiki.warthunder.com/images/thumb/2/22/GarageImage_Bf_109_G-10.jpg/800px-GarageImage_Bf_109_G-10.jpg
+Bf 109 G-14,Germany,IV,5.3,674,20.0,21.8,790,437,https://wiki.warthunder.com/images/thumb/4/49/GarageImage_Bf_109_G-14.jpg/800px-GarageImage_Bf_109_G-14.jpg
+Bf 109 G-2,Germany,III,4.3,696,19.0,23.1,790,437,https://wiki.warthunder.com/images/thumb/6/6b/GarageImage_Bf_109_G-2.jpg/800px-GarageImage_Bf_109_G-2.jpg
+Bf 109 G-2/trop,Germany,IV,4.3,682,19.0,23.1,790,437,https://wiki.warthunder.com/images/thumb/4/44/GarageImage_Bf_109_G-2trop.jpg/800px-GarageImage_Bf_109_G-2trop.jpg
+Bf 109 G-6,Germany,IV,4.7,668,20.0,19.5,790,437,https://wiki.warthunder.com/images/thumb/9/9c/GarageImage_Bf_109_G-6.jpg/800px-GarageImage_Bf_109_G-6.jpg
+Bf 109 K-4,Germany,IV,5.7,720,19.0,23.8,790,437,https://wiki.warthunder.com/images/thumb/d/dd/GarageImage_Bf_109_K-4.jpg/800px-GarageImage_Bf_109_K-4.jpg
+Bf 109 Z-1,Germany,IV,4.7,712,23.0,20.5,790,437,https://wiki.warthunder.com/images/thumb/9/94/GarageImage_Bf_109_Z-1.jpg/800px-GarageImage_Bf_109_Z-1.jpg
+Bf 110 C-6,Germany,II,3.0,545,23.0,10.8,715,467,https://wiki.warthunder.com/images/thumb/2/26/GarageImage_Bf_110_C-6.jpg/800px-GarageImage_Bf_110_C-6.jpg
+Bf 110 C-7,Germany,II,2.7,560,22.0,10.9,715,467,https://wiki.warthunder.com/images/thumb/9/97/GarageImage_Bf_110_C-7.jpg/800px-GarageImage_Bf_110_C-7.jpg
+Bf 110 F-2,Germany,II,3.0,570,24.0,10.9,745,467,https://wiki.warthunder.com/images/thumb/e/ea/GarageImage_Bf_110_F-2.jpg/800px-GarageImage_Bf_110_F-2.jpg
+Bf 110 G-2,Germany,III,3.7,595,24.0,13.1,745,467,https://wiki.warthunder.com/images/thumb/7/74/GarageImage_Bf_110_G-2.jpg/800px-GarageImage_Bf_110_G-2.jpg
+Bf 110 G-4,Germany,III,3.7,591,25.0,12.5,745,467,https://wiki.warthunder.com/images/thumb/a/a8/GarageImage_Bf_110_G-4.jpg/800px-GarageImage_Bf_110_G-4.jpg
+BV 138 C-1,Germany,I,1.7,283,39.0,2.2,405,N/A,https://wiki.warthunder.com/images/thumb/c/c7/GarageImage_BV_138_C-1.jpg/800px-GarageImage_BV_138_C-1.jpg
+BV 155 B-1,Germany,III,3.7,695,17.2,13.8,730,438,https://wiki.warthunder.com/images/thumb/6/68/GarageImage_BV_155_B-1.jpg/800px-GarageImage_BV_155_B-1.jpg
+BV 238,Germany,II,3.7,421,30.0,3.0,546,401,https://wiki.warthunder.com/images/thumb/e/ee/GarageImage_BV_238.jpg/800px-GarageImage_BV_238.jpg
+▀C. 200 serie 3,Germany,I,2.3,504,16.0,18.0,845,535,https://wiki.warthunder.com/images/thumb/5/52/GarageImage_C._200_serie_3.jpg/800px-GarageImage_C._200_serie_3.jpg
+▀C. 200 serie 7,Germany,I,2.3,504,16.0,16.0,845,535,https://wiki.warthunder.com/images/thumb/4/4f/GarageImage_C._200_serie_7.jpg/800px-GarageImage_C._200_serie_7.jpg
+▀C. 202,Germany,I,3.0,602,19.0,15.8,845,535,https://wiki.warthunder.com/images/thumb/6/60/GarageImage_C._202.jpg/800px-GarageImage_C._202.jpg
+◄CL-13A Mk 5,Germany,VI,9.0,"1,114",24.0,49.3,"1,170",590,https://wiki.warthunder.com/images/thumb/1/18/GarageImage_CL-13A_Mk_5_%28Germany%29.jpg/800px-GarageImage_CL-13A_Mk_5_%28Germany%29.jpg
+◄CL-13B Mk.6,Germany,VI,9.3,"1,122",21.5,62.5,"1,170",590,https://wiki.warthunder.com/images/thumb/7/73/GarageImage_CL-13B_Mk.6_%28Germany%29.jpg/800px-GarageImage_CL-13B_Mk.6_%28Germany%29.jpg
+▀CR.42,Germany,I,1.3,429,19.2,17.2,578,N/A,https://wiki.warthunder.com/images/thumb/9/97/GarageImage_CR.42.jpg/800px-GarageImage_CR.42.jpg
+Do 17 E-1,Germany,I,1.0,357,33.0,4.8,640,498,https://wiki.warthunder.com/images/thumb/4/49/GarageImage_Do_17_E-1.jpg/800px-GarageImage_Do_17_E-1.jpg
+Do 17 Z-2,Germany,I,1.7,407,34.0,10.2,620,480,https://wiki.warthunder.com/images/thumb/0/0c/GarageImage_Do_17_Z-2.jpg/800px-GarageImage_Do_17_Z-2.jpg
+Do 17 Z-7,Germany,I,1.3,448,34.0,10.0,620,480,https://wiki.warthunder.com/images/thumb/6/61/GarageImage_Do_17_Z-7.jpg/800px-GarageImage_Do_17_Z-7.jpg
+Do 217 E-2,Germany,III,4.7,482,31.0,8.0,0,N/A,https://wiki.warthunder.com/images/thumb/3/35/GarageImage_Do_217_E-2.jpg/800px-GarageImage_Do_217_E-2.jpg
+Do 217 E-4,Germany,III,4.7,482,31.0,8.0,0,N/A,https://wiki.warthunder.com/images/thumb/d/db/GarageImage_Do_217_E-4.jpg/800px-GarageImage_Do_217_E-4.jpg
+Do 217 J-1,Germany,I,2.0,469,33.0,5.9,0,N/A,https://wiki.warthunder.com/images/thumb/d/d8/GarageImage_Do_217_J-1.jpg/800px-GarageImage_Do_217_J-1.jpg
+Do 217 J-2,Germany,I,2.3,469,33.0,5.9,700,N/A,https://wiki.warthunder.com/images/thumb/f/fe/GarageImage_Do_217_J-2.jpg/800px-GarageImage_Do_217_J-2.jpg
+Do 217 K-1,Germany,IV,4.7,515,30.0,12.8,0,N/A,https://wiki.warthunder.com/images/thumb/a/a8/GarageImage_Do_217_K-1.jpg/800px-GarageImage_Do_217_K-1.jpg
+Do 217 M-1,Germany,IV,4.7,560,30.0,10.0,0,N/A,https://wiki.warthunder.com/images/thumb/d/dc/GarageImage_Do_217_M-1.jpg/800px-GarageImage_Do_217_M-1.jpg
+Do 217 N-1,Germany,II,2.7,515,27.7,6.8,700,N/A,https://wiki.warthunder.com/images/thumb/e/e9/GarageImage_Do_217_N-1.jpg/800px-GarageImage_Do_217_N-1.jpg
+Do 217 N-2,Germany,II,2.7,515,27.7,6.8,700,N/A,https://wiki.warthunder.com/images/thumb/e/e4/GarageImage_Do_217_N-2.jpg/800px-GarageImage_Do_217_N-2.jpg
+Do 335 A-0,Germany,III,4.7,775,27.0,11.8,945,N/A,https://wiki.warthunder.com/images/thumb/6/6d/GarageImage_Do_335_A-0.jpg/800px-GarageImage_Do_335_A-0.jpg
+Do 335 A-1,Germany,III,4.3,755,26.0,12.9,945,N/A,https://wiki.warthunder.com/images/thumb/a/a3/GarageImage_Do_335_A-1.jpg/800px-GarageImage_Do_335_A-1.jpg
+Do 335 B-2,Germany,IV,5.7,789,26.0,10.1,945,N/A,https://wiki.warthunder.com/images/thumb/b/bf/GarageImage_Do_335_B-2.jpg/800px-GarageImage_Do_335_B-2.jpg
+◄F-104G,Germany,VII,10.7,"2,387",34.0,260.0,"1,527",N/A,https://wiki.warthunder.com/images/thumb/e/ef/GarageImage_F-104G_%28Germany%29.jpg/800px-GarageImage_F-104G_%28Germany%29.jpg
+◄F-4F,Germany,VII,10.7,"2,140",26.0,192.0,1458,607,https://wiki.warthunder.com/images/thumb/9/93/GarageImage_F-4F_%28Germany%29.jpg/800px-GarageImage_F-4F_%28Germany%29.jpg
+◄F-4F Early,Germany,VII,10.3,"2,126",26.0,204.9,1458,607,https://wiki.warthunder.com/images/thumb/b/b1/GarageImage_F-4F_Early_%28Germany%29.jpg/800px-GarageImage_F-4F_Early_%28Germany%29.jpg
+◄F-84F,Germany,VI,8.3,"1,102",28.0,38.0,1187,533,https://wiki.warthunder.com/images/thumb/2/23/GarageImage_F-84F_%28Germany%29.jpg/800px-GarageImage_F-84F_%28Germany%29.jpg
+◄F-86K,Germany,VI,9.0,"1,111",27.0,56.0,"1,187",593,https://wiki.warthunder.com/images/thumb/a/a4/GarageImage_F-86K_%28Germany%29.jpg/800px-GarageImage_F-86K_%28Germany%29.jpg
+Flegel's Bf 109 A,Germany,I,1.3,444,20.0,9.3,790,387,https://wiki.warthunder.com/images/thumb/b/b0/GarageImage_Flegel%27s_Bf_109_A.jpg/800px-GarageImage_Flegel%27s_Bf_109_A.jpg
+Fw 189 A-1,Germany,I,2.3,359,16.0,8.0,525,243,https://wiki.warthunder.com/images/thumb/6/66/GarageImage_Fw_189_A-1.jpg/800px-GarageImage_Fw_189_A-1.jpg
+Fw 190 A-1,Germany,II,3.0,652,20.2,14.1,0,N/A,https://wiki.warthunder.com/images/thumb/8/80/GarageImage_Fw_190_A-1.jpg/800px-GarageImage_Fw_190_A-1.jpg
+Fw 190 A-4,Germany,III,4.0,648,22.0,14.1,912,N/A,https://wiki.warthunder.com/images/thumb/1/11/GarageImage_Fw_190_A-4.jpg/800px-GarageImage_Fw_190_A-4.jpg
+Fw 190 A-5,Germany,IV,4.7,660,21.5,14.1,912,-,https://wiki.warthunder.com/images/thumb/1/18/GarageImage_Fw_190_A-5.jpg/800px-GarageImage_Fw_190_A-5.jpg
+Fw 190 A-5/U12,Germany,IV,4.7,666,20.6,14.1,912,-,https://wiki.warthunder.com/images/thumb/e/e1/GarageImage_Fw_190_A-5_U12.jpg/800px-GarageImage_Fw_190_A-5_U12.jpg
+Fw 190 A-5/U14,Germany,III,4.0,677,21.0,14.1,912,N/A,https://wiki.warthunder.com/images/thumb/3/35/GarageImage_Fw_190_A-5-U14.jpg/800px-GarageImage_Fw_190_A-5-U14.jpg
+Fw 190 A-5/U2,Germany,III,4.0,677,21.0,14.1,912,-,https://wiki.warthunder.com/images/thumb/b/b8/GarageImage_Fw_190_A-5_U2.jpg/800px-GarageImage_Fw_190_A-5_U2.jpg
+Fw 190 A-8,Germany,IV,5.0,652,22.8,14.1,912,N/A,https://wiki.warthunder.com/images/thumb/4/4f/GarageImage_Fw_190_A-8.jpg/800px-GarageImage_Fw_190_A-8.jpg
+Fw 190 C,Germany,IV,5.0,685,20.0,15.6,912,N/A,https://wiki.warthunder.com/images/thumb/6/6e/GarageImage_Fw_190_C.jpg/800px-GarageImage_Fw_190_C.jpg
+Fw 190 D-12,Germany,IV,5.0,725,21.6,17.1,912,N/A,https://wiki.warthunder.com/images/thumb/a/af/GarageImage_Fw_190_D-12.jpg/800px-GarageImage_Fw_190_D-12.jpg
+Fw 190 D-13,Germany,IV,5.0,725,21.6,17.1,912,N/A,https://wiki.warthunder.com/images/thumb/d/dd/GarageImage_Fw_190_D-13.jpg/800px-GarageImage_Fw_190_D-13.jpg
+Fw 190 D-9,Germany,III,5.0,710,20.4,15.8,912,N/A,https://wiki.warthunder.com/images/thumb/1/18/GarageImage_Fw_190_D-9.jpg/800px-GarageImage_Fw_190_D-9.jpg
+Fw 190 F-8,Germany,IV,5.0,635,23.2,15.8,912,N/A,https://wiki.warthunder.com/images/thumb/7/7a/GarageImage_Fw_190_F-8.jpg/800px-GarageImage_Fw_190_F-8.jpg
+Fw 200 C-1,Germany,II,2.3,378,30,4.0,450,333,https://wiki.warthunder.com/images/thumb/7/7d/GarageImage_Fw_200_C-1.jpg/800px-GarageImage_Fw_200_C-1.jpg
+▀G.50 AS serie 7,Germany,I,1.7,470,15.0,10.3,0,535,https://wiki.warthunder.com/images/thumb/a/a0/GarageImage_G.50_AS_serie_7.jpg/800px-GarageImage_G.50_AS_serie_7.jpg
+▀G.50 serie 2,Germany,I,1.7,470,15.0,15.0,0,535,https://wiki.warthunder.com/images/thumb/9/93/GarageImage_G.50_serie_2.jpg/800px-GarageImage_G.50_serie_2.jpg
+◄G.91 R/3,Germany,VI,8.7,"1,084",26.0,39.0,1128,589,https://wiki.warthunder.com/images/thumb/5/5c/GarageImage_G.91_R3.jpg/800px-GarageImage_G.91_R3.jpg
+◄G.91 R/4,Germany,V,8.7,"1,084",26.0,39.0,1128,589,https://wiki.warthunder.com/images/thumb/e/ed/GarageImage_G.91_R4_%28Germany%29.jpg/800px-GarageImage_G.91_R4_%28Germany%29.jpg
+▀Hawk H-75A-2,Germany,II,2.7,560,21.0,10.6,770,488,https://wiki.warthunder.com/images/thumb/f/fc/GarageImage_Hawk_H-75A-2_%28Germany%29.jpg/800px-GarageImage_Hawk_H-75A-2_%28Germany%29.jpg
+He 100 D-1,Germany,I,1.7,670,20.0,16.6,820,487,https://wiki.warthunder.com/images/thumb/e/e8/GarageImage_He_100_D-1.jpg/800px-GarageImage_He_100_D-1.jpg
+He 111 H-16,Germany,II,3.0,432,31.0,4.6,480,340,https://wiki.warthunder.com/images/thumb/2/29/GarageImage_He_111_H-16.jpg/800px-GarageImage_He_111_H-16.jpg
+He 111 H-3,Germany,I,2.3,435,33.0,6.3,480,402,https://wiki.warthunder.com/images/thumb/6/6f/GarageImage_He_111_H-3.jpg/800px-GarageImage_He_111_H-3.jpg
+He 111 H-6,Germany,II,2.7,430,32.0,4.6,480,402,https://wiki.warthunder.com/images/thumb/9/9f/GarageImage_He_111_H-6.jpg/800px-GarageImage_He_111_H-6.jpg
+He 112 A-0,Germany,I,1.7,473,17.0,11.1,680,403,https://wiki.warthunder.com/images/thumb/d/da/GarageImage_He_112_A-0.jpg/800px-GarageImage_He_112_A-0.jpg
+He 112 B-0,Germany,II,2.0,502,19.0,13.8,730,498,https://wiki.warthunder.com/images/thumb/1/1e/GarageImage_He_112_B-0.jpg/800px-GarageImage_He_112_B-0.jpg
+He 112 B-1/U2,Germany,II,2.0,503,16.0,15.8,730,498,https://wiki.warthunder.com/images/thumb/4/41/GarageImage_He_112_B-1_U2_%28Germany%29.jpg/800px-GarageImage_He_112_B-1_U2_%28Germany%29.jpg
+He 112 B-2/U2,Germany,II,2.0,503,16.0,15.8,730,498,https://wiki.warthunder.com/images/thumb/7/72/GarageImage_He_112_B-2_U2.jpg/800px-GarageImage_He_112_B-2_U2.jpg
+He 112 V-5,Germany,I,1.3,483,17.0,11.1,680,403,https://wiki.warthunder.com/images/thumb/1/15/GarageImage_He_112_V-5.jpg/800px-GarageImage_He_112_V-5.jpg
+He 115 C-1,Germany,I,1.3,300,23.0,4.3,480,402,https://wiki.warthunder.com/images/thumb/c/ca/GarageImage_He_115_C-1.jpg/800px-GarageImage_He_115_C-1.jpg
+He 162 A-1,Germany,V,6.0,840,30.0,23.4,1040,677,https://wiki.warthunder.com/images/thumb/e/ee/GarageImage_He_162_A-1.jpg/800px-GarageImage_He_162_A-1.jpg
+He 162 A-2,Germany,V,6.0,840,30.0,23.4,1040,677,https://wiki.warthunder.com/images/thumb/f/f2/GarageImage_He_162_A-2.jpg/800px-GarageImage_He_162_A-2.jpg
+He 177 A-5,Germany,IV,6.0,555,31.0,8.0,683,431,https://wiki.warthunder.com/images/thumb/f/ff/GarageImage_He_177_A-5.jpg/800px-GarageImage_He_177_A-5.jpg
+He 219 A-7,Germany,IV,4.3,624,30.7,10.8,787,470,https://wiki.warthunder.com/images/thumb/4/49/GarageImage_He_219_A-7.jpg/800px-GarageImage_He_219_A-7.jpg
+He 51 A-1,Germany,I,1.0,305,13.7,13.0,500,498,https://wiki.warthunder.com/images/thumb/2/22/GarageImage_He_51_A-1.jpg/800px-GarageImage_He_51_A-1.jpg
+He 51 B-1,Germany,I,1.0,310,14.7,14.2,550,498,https://wiki.warthunder.com/images/thumb/c/c4/GarageImage_He_51_B-1.jpg/800px-GarageImage_He_51_B-1.jpg
+He 51 B-2/H,Germany,I,1.0,315,16.0,17.2,500,498,https://wiki.warthunder.com/images/thumb/5/5e/GarageImage_He_51_B-2_H.jpg/800px-GarageImage_He_51_B-2_H.jpg
+He 51 C-1,Germany,I,1.0,310,15.0,14.2,550,498,https://wiki.warthunder.com/images/thumb/1/13/GarageImage_He_51_C-1.jpg/800px-GarageImage_He_51_C-1.jpg
+He 51 C-1/L,Germany,I,1.0,310,15.0,14.3,550,498,https://wiki.warthunder.com/images/thumb/f/f5/GarageImage_He_51_C-1_L.jpg/800px-GarageImage_He_51_C-1_L.jpg
+Ho 229 V3,Germany,V,7.0,910,24.0,21.0,980,558,https://wiki.warthunder.com/images/thumb/3/37/GarageImage_Ho_229_V3.jpg/800px-GarageImage_Ho_229_V3.jpg
+Hs 123 A-1,Germany,I,1.0,310,15.0,12.0,577,300,https://wiki.warthunder.com/images/thumb/d/d9/GarageImage_Hs_123_A-1.jpg/800px-GarageImage_Hs_123_A-1.jpg
+Hs 129 B-2,Germany,II,2.3,439,27.9,8.2,630,287,https://wiki.warthunder.com/images/thumb/a/ac/GarageImage_Hs_129_B-2.jpg/800px-GarageImage_Hs_129_B-2.jpg
+Hs 129 B-2 (Romania),Germany,III,2.3,439,27.9,8.3,630,287,https://wiki.warthunder.com/images/thumb/d/d9/GarageImage_Hs_129_B-2_%28Romania%29.jpg/800px-GarageImage_Hs_129_B-2_%28Romania%29.jpg
+Hs 129 B-3,Germany,II,2.3,439,27.9,8.3,630,287,https://wiki.warthunder.com/images/thumb/6/62/GarageImage_Hs_129_B-3.jpg/800px-GarageImage_Hs_129_B-3.jpg
+◌Hunter F.58,Germany,VI,9.7,"1,148",25.0,69.6,"1,225",603,https://wiki.warthunder.com/images/thumb/8/81/GarageImage_Hunter_F.58_%28Germany%29.jpg/800px-GarageImage_Hunter_F.58_%28Germany%29.jpg
+▀IL-2 (1942),Germany,II,3.0,423,25.0,8.3,620,N/A,https://wiki.warthunder.com/images/thumb/6/61/GarageImage_IL-2_%281942%29_%28Germany%29.jpg/800px-GarageImage_IL-2_%281942%29_%28Germany%29.jpg
+◊IL-28,Germany,V,8.0,905,48.0,20.0,810,577,https://wiki.warthunder.com/images/thumb/e/ed/GarageImage_IL-28_%28Germany%29.jpg/800px-GarageImage_IL-28_%28Germany%29.jpg
+Ju 188 A-2,Germany,IV,5.3,520,32.0,8.0,675,457,https://wiki.warthunder.com/images/thumb/3/3c/GarageImage_Ju_188_A-2.jpg/800px-GarageImage_Ju_188_A-2.jpg
+Ju 288 C,Germany,IV,6.0,630,30.7,11.4,675,457,https://wiki.warthunder.com/images/thumb/4/45/GarageImage_Ju_288_C.jpg/800px-GarageImage_Ju_288_C.jpg
+Ju 388 J,Germany,IV,4.3,621,29.0,8.9,675,457,https://wiki.warthunder.com/images/thumb/c/c8/GarageImage_Ju_388_J.jpg/800px-GarageImage_Ju_388_J.jpg
+Ju 87 B-2,Germany,I,1.0,383,27.0,9.5,680,N/A,https://wiki.warthunder.com/images/thumb/4/4b/GarageImage_Ju_87_B-2.jpg/800px-GarageImage_Ju_87_B-2.jpg
+Ju 87 D-3,Germany,II,2.0,385,31.0,11.2,730,N/A,https://wiki.warthunder.com/images/thumb/9/9b/GarageImage_Ju_87_D-3.jpg/800px-GarageImage_Ju_87_D-3.jpg
+Ju 87 D-5,Germany,II,3.3,385,31.0,11.2,730,N/A,https://wiki.warthunder.com/images/thumb/1/11/GarageImage_Ju_87_D-5.jpg/800px-GarageImage_Ju_87_D-5.jpg
+Ju 87 G-1,Germany,I,1.3,380,32.0,11.6,730,N/A,https://wiki.warthunder.com/images/thumb/d/da/GarageImage_Ju_87_G-1.jpg/800px-GarageImage_Ju_87_G-1.jpg
+Ju 87 G-2,Germany,I,1.7,380,32.0,9.5,730,N/A,https://wiki.warthunder.com/images/thumb/2/28/GarageImage_Ju_87_G-2.jpg/800px-GarageImage_Ju_87_G-2.jpg
+Ju 87 R-2,Germany,I,1.3,383,27.0,9.6,680,N/A,https://wiki.warthunder.com/images/thumb/6/6f/GarageImage_Ju_87_R-2.jpg/800px-GarageImage_Ju_87_R-2.jpg
+Ju 87 R-2 Libya,Germany,I,1.3,383,27.0,9.6,680,N/A,https://wiki.warthunder.com/images/thumb/f/f5/GarageImage_Ju_87_R-2_Libya.jpg/800px-GarageImage_Ju_87_R-2_Libya.jpg
+Ju 88 A-1,Germany,II,2.0,455,30.0,6.8,675,457,https://wiki.warthunder.com/images/thumb/1/1b/GarageImage_Ju_88_A-1.jpg/800px-GarageImage_Ju_88_A-1.jpg
+Ju 88 A-4,Germany,II,3.0,455,30.0,6.8,675,457,https://wiki.warthunder.com/images/thumb/5/5b/GarageImage_Ju_88_A-4.jpg/800px-GarageImage_Ju_88_A-4.jpg
+Ju 88 C-6,Germany,II,2.3,490,29.0,7.6,675,457,https://wiki.warthunder.com/images/thumb/a/aa/GarageImage_Ju_88_C-6.jpg/800px-GarageImage_Ju_88_C-6.jpg
+▀La-5FN,Germany,III,3.7,620,19.2,21.7,735,447,https://wiki.warthunder.com/images/thumb/f/f6/GarageImage_La-5FN_%28Germany%29.jpg/800px-GarageImage_La-5FN_%28Germany%29.jpg
+◊Lim-5P,Germany,VI,9.0,"1,114",21.5,50.0,"1,150",-,https://wiki.warthunder.com/images/thumb/6/61/GarageImage_Lim-5P_%28Germany%29.jpg/800px-GarageImage_Lim-5P_%28Germany%29.jpg
+▀Marcolin's C.R.42 CN,Germany,I,1.3,429,19.2,17.2,578,N/A,https://wiki.warthunder.com/images/thumb/5/59/GarageImage_Marcolin%27s_C.R.42_CN_%28Germany%29.jpg/800px-GarageImage_Marcolin%27s_C.R.42_CN_%28Germany%29.jpg
+Me 163 B,Germany,V,8.0,955,21.0,37.0,1040,598,https://wiki.warthunder.com/images/thumb/f/ff/GarageImage_Me_163_B.jpg/800px-GarageImage_Me_163_B.jpg
+Me 163 B-0,Germany,V,8.7,955,22.0,36.0,1040,598,https://wiki.warthunder.com/images/thumb/3/3e/GarageImage_Me_163_B-0.jpg/800px-GarageImage_Me_163_B-0.jpg
+Me 262 A-1/U4,Germany,IV,6.7,865,28.0,20.0,1050,558,https://wiki.warthunder.com/images/thumb/d/d7/GarageImage_Me_262_A-1_U4.jpg/800px-GarageImage_Me_262_A-1_U4.jpg
+Me 262 A-1a,Germany,V,7.0,865,28.0,20.0,1050,558,https://wiki.warthunder.com/images/thumb/3/39/GarageImage_Me_262_A-1a.jpg/800px-GarageImage_Me_262_A-1a.jpg
+Me 262 A-1a/Jabo,Germany,V,7.0,865,28.0,20.0,1050,558,https://wiki.warthunder.com/images/thumb/5/56/GarageImage_Me_262_A-1a-Jabo.jpg/800px-GarageImage_Me_262_A-1a-Jabo.jpg
+Me 262 A-1a/U1,Germany,V,7.3,865,28.0,19.5,1050,558,https://wiki.warthunder.com/images/thumb/4/40/GarageImage_Me_262_A1a-U1.jpg/800px-GarageImage_Me_262_A1a-U1.jpg
+Me 262 A-2a,Germany,V,6.7,865,28.0,20.0,1050,558,https://wiki.warthunder.com/images/thumb/6/68/GarageImage_Me_262_A-2a.jpg/800px-GarageImage_Me_262_A-2a.jpg
+Me 262 C-1a,Germany,V,7.3,865,30.3,20.0,1050,498,https://wiki.warthunder.com/images/thumb/a/a3/GarageImage_Me_262_C-1a.jpg/800px-GarageImage_Me_262_C-1a.jpg
+Me 262 C-2b,Germany,V,8.0,865,30.3,20.0,1050,498,https://wiki.warthunder.com/images/thumb/d/dc/GarageImage_Me_262_C-2b.jpg/800px-GarageImage_Me_262_C-2b.jpg
+Me 264,Germany,III,5.0,519,37.0,3.5,609,370,https://wiki.warthunder.com/images/thumb/b/b7/GarageImage_Me_264.jpg/800px-GarageImage_Me_264.jpg
+Me 410 A-1,Germany,III,3.7,624,30.7,10.8,750,457,https://wiki.warthunder.com/images/thumb/3/31/GarageImage_Me_410_A-1.jpg/800px-GarageImage_Me_410_A-1.jpg
+Me 410 A-1/U2,Germany,III,4.0,624,30.7,10.8,750,457,https://wiki.warthunder.com/images/thumb/d/d4/GarageImage_Me_410_A-1_U2.jpg/800px-GarageImage_Me_410_A-1_U2.jpg
+Me 410 A-1/U4,Germany,II,3.0,590,31.0,10.8,750,457,https://wiki.warthunder.com/images/thumb/2/28/GarageImage_Me_410_A-1_U4.jpg/800px-GarageImage_Me_410_A-1_U4.jpg
+Me 410 B-1,Germany,III,4.0,639,30.0,10.8,750,457,https://wiki.warthunder.com/images/thumb/c/c7/GarageImage_Me_410_B-1.jpg/800px-GarageImage_Me_410_B-1.jpg
+Me 410 B-1/U2,Germany,III,4.3,624,30.7,10.8,750,457,https://wiki.warthunder.com/images/thumb/5/53/GarageImage_Me_410_B-1_U2.jpg/800px-GarageImage_Me_410_B-1_U2.jpg
+Me 410 B-2/U4,Germany,II,3.0,600,30.0,10.8,750,457,https://wiki.warthunder.com/images/thumb/3/39/GarageImage_Me_410_B-2_U4.jpg/800px-GarageImage_Me_410_B-2_U4.jpg
+Me 410 B-6/R3,Germany,IV,5.0,620,31.0,10.8,750,457,https://wiki.warthunder.com/images/thumb/6/6e/GarageImage_Me_410_B-6_R3.jpg/800px-GarageImage_Me_410_B-6_R3.jpg
+◊MiG-15bis,Germany,V,8.7,"1,076",20.7,50.0,"1,269",N/A,https://wiki.warthunder.com/images/thumb/f/f2/GarageImage_MiG-15bis_%28Germany%29.jpg/800px-GarageImage_MiG-15bis_%28Germany%29.jpg
+◊MiG-19S,Germany,VI,9.3,"1,451",24.0,190.0,1260,N/A,https://wiki.warthunder.com/images/thumb/3/31/GarageImage_MiG-19S_%28Germany%29.jpg/800px-GarageImage_MiG-19S_%28Germany%29.jpg
+"◊MiG-21 ""Lazur-M""",Germany,VII,11.0,"2,240",37.0,225.0,1365,-,https://wiki.warthunder.com/images/thumb/0/01/GarageImage_MiG-21_%22Lazur-M%22_%28Germany%29.jpg/800px-GarageImage_MiG-21_%22Lazur-M%22_%28Germany%29.jpg
+◄MiG-21 SPS-K,Germany,VI,9.7,"2,240",36.0,145.0,1365,N/A,https://wiki.warthunder.com/images/thumb/b/b2/GarageImage_MiG-21_SPS-K_%28Germany%29.jpg/800px-GarageImage_MiG-21_SPS-K_%28Germany%29.jpg
+◊MiG-21bis-SAU,Germany,VII,11.0,"2,237",37.0,224.0,1365,N/A,https://wiki.warthunder.com/images/thumb/1/1f/GarageImage_MiG-21bis-SAU_%28Germany%29.jpg/800px-GarageImage_MiG-21bis-SAU_%28Germany%29.jpg
+◊MiG-21MF,Germany,VII,10.3,"2,240",33.0,165.0,1365,N/A,https://wiki.warthunder.com/images/thumb/e/ec/GarageImage_MiG-21MF_%28Germany%29.jpg/800px-GarageImage_MiG-21MF_%28Germany%29.jpg
+◊MiG-23BN,Germany,VI,9.7,"2,200",36.0,155.0,"1,417",N/A,https://wiki.warthunder.com/images/thumb/a/ab/GarageImage_MiG-23BN_%28Germany%29.jpg/800px-GarageImage_MiG-23BN_%28Germany%29.jpg
+◊MiG-23MF,Germany,VII,11.0,"2,358",35.0,170.0,1470,N/A,https://wiki.warthunder.com/images/thumb/7/78/GarageImage_MiG-23MF_%28Germany%29.jpg/800px-GarageImage_MiG-23MF_%28Germany%29.jpg
+◊MiG-23MLA,Germany,VII,11.3,"2,358",33.0,220.0,"1,470",N/A,https://wiki.warthunder.com/images/thumb/0/04/GarageImage_MiG-23MLA_%28Germany%29.jpg/800px-GarageImage_MiG-23MLA_%28Germany%29.jpg
+◊MiG-29,Germany,VIII,12.0,"2,452",19.4,320.0,"1,575",-,https://wiki.warthunder.com/images/thumb/9/9d/GarageImage_MiG-29_%28Germany%29.jpg/800px-GarageImage_MiG-29_%28Germany%29.jpg
+◄MiG-29G,Germany,VIII,12.3,___,__._,__._,0,___,https://wiki.warthunder.com/images/thumb/b/be/GarageImage_MiG-29G_%28Germany%29.jpg/800px-GarageImage_MiG-29G_%28Germany%29.jpg
+▀P-47D,Germany,III,4.3,700,25.0,10.6,885,498,https://wiki.warthunder.com/images/thumb/e/e8/GarageImage_P-47D_%28Germany%29.jpg/800px-GarageImage_P-47D_%28Germany%29.jpg
+▀P-47D-16-RE,Germany,III,3.7,692,25.0,9.7,885,498,https://wiki.warthunder.com/images/thumb/5/5c/GarageImage_P-47D-16-RE_%28Germany%29.jpg/800px-GarageImage_P-47D-16-RE_%28Germany%29.jpg
+▀S.M.79 AS,Germany,II,2.3,480,31.0,5.9,530,313,https://wiki.warthunder.com/images/thumb/0/03/GarageImage_S.M.79_AS.jpg/800px-GarageImage_S.M.79_AS.jpg
+▀S.M.79 B,Germany,II,2.3,445,35.0,5.9,540,457,https://wiki.warthunder.com/images/thumb/f/f7/GarageImage_S.M.79_B.jpg/800px-GarageImage_S.M.79_B.jpg
+▀S.M.79 bis/N,Germany,II,2.3,457,33.0,5.9,530,313,https://wiki.warthunder.com/images/thumb/4/4e/GarageImage_S.M.79_bis_N_%28Germany%29.jpg/800px-GarageImage_S.M.79_bis_N_%28Germany%29.jpg
+▀S.M.79 bis/T.M,Germany,II,2.3,430,31.6,5.9,530,313,https://wiki.warthunder.com/images/thumb/1/1d/GarageImage_S.M.79_bis_T.M.jpg/800px-GarageImage_S.M.79_bis_T.M.jpg
+▀S.M.79 serie 1,Germany,II,1.7,430,31.6,5.9,530,313,https://wiki.warthunder.com/images/thumb/0/02/GarageImage_S.M.79_serie_1.jpg/800px-GarageImage_S.M.79_serie_1.jpg
+▀S.M.79 serie 4,Germany,II,2.3,430,31.6,5.9,530,313,https://wiki.warthunder.com/images/thumb/b/b0/GarageImage_S.M.79_serie_4_%28Germany%29.jpg/800px-GarageImage_S.M.79_serie_4_%28Germany%29.jpg
+▀S.M.79 serie 8,Germany,II,2.0,430,31.6,5.9,530,313,https://wiki.warthunder.com/images/thumb/8/82/GarageImage_S.M.79_serie_8.jpg/800px-GarageImage_S.M.79_serie_8.jpg
+◄Sea Hawk Mk.100,Germany,V,8.0,933,26.0,32.0,1012,N/A,https://wiki.warthunder.com/images/thumb/6/68/GarageImage_Sea_Hawk_Mk.100_%28Germany%29.jpg/800px-GarageImage_Sea_Hawk_Mk.100_%28Germany%29.jpg
+◊Su-22M4,Germany,VII,11.0,___,__._,__._,0,___,https://wiki.warthunder.com/images/thumb/a/a1/GarageImage_Su-22M4_%28Germany%29.jpg/800px-GarageImage_Su-22M4_%28Germany%29.jpg
+◊Su-22UM3K,Germany,VII,10.7,"2,232",27.0,185.0,0,N/A,https://wiki.warthunder.com/images/thumb/8/8c/GarageImage_Su-22UM3K_%28Germany%29.jpg/800px-GarageImage_Su-22UM3K_%28Germany%29.jpg
+Ta 152 C-3,Germany,IV,6.3,730,27.0,13.1,912,667,https://wiki.warthunder.com/images/thumb/4/45/GarageImage_Ta_152_C-3.jpg/800px-GarageImage_Ta_152_C-3.jpg
+Ta 152 H-1,Germany,IV,6.0,755,20.5,17.5,870,667,https://wiki.warthunder.com/images/thumb/2/27/GarageImage_Ta_152_H-1.jpg/800px-GarageImage_Ta_152_H-1.jpg
+Ta 154 A-1,Germany,III,4.3,659,23.0,16.1,787,463,https://wiki.warthunder.com/images/thumb/1/15/GarageImage_Ta_154_A-1.jpg/800px-GarageImage_Ta_154_A-1.jpg
+▀Tempest Mk V,Germany,IV,5.7,695,20.0,20.4,880,412,https://wiki.warthunder.com/images/thumb/7/78/GarageImage_Tempest_Mk_V_%28Germany%29.jpg/800px-GarageImage_Tempest_Mk_V_%28Germany%29.jpg
+◄Tornado IDS,Germany,VIII,11.0,"2,308",29.0,195.0,"1,555",N/A,https://wiki.warthunder.com/images/thumb/4/46/GarageImage_Tornado_IDS_%28Germany%29.jpg/800px-GarageImage_Tornado_IDS_%28Germany%29.jpg
+◄Tornado IDS ASSTA1,Germany,VIII,11.3,"2,362",28.0,204.0,"1,555",N/A,https://wiki.warthunder.com/images/thumb/b/bd/GarageImage_Tornado_IDS_ASSTA1_%28Germany%29.jpg/800px-GarageImage_Tornado_IDS_ASSTA1_%28Germany%29.jpg
+▀Wellington Mk Ic,Germany,II,2.3,378,35.0,5.3,530,315,https://wiki.warthunder.com/images/thumb/d/d0/GarageImage_Wellington_Mk_Ic_%28Germany%29.jpg/800px-GarageImage_Wellington_Mk_Ic_%28Germany%29.jpg
+▀Yak-1B,Germany,II,3.0,592,18.5,16.0,683,N/A,https://wiki.warthunder.com/images/thumb/8/89/GarageImage_Yak-1B_%28Germany%29.jpg/800px-GarageImage_Yak-1B_%28Germany%29.jpg
+▂A-20G-30,USSR,III,3.7,510,34.0,10.1,696,428,https://wiki.warthunder.com/images/thumb/d/d3/GarageImage_A-20G-30_%28USSR%29.jpg/800px-GarageImage_A-20G-30_%28USSR%29.jpg
+Ar-2,USSR,I,2.3,512,22.0,12.5,650,315,https://wiki.warthunder.com/images/thumb/4/44/GarageImage_Ar-2.jpg/800px-GarageImage_Ar-2.jpg
+▂B-25J-30,USSR,III,4.0,444,31.0,7.7,591,382,https://wiki.warthunder.com/images/thumb/8/86/GarageImage_B-25J-30_%28USSR%29.jpg/800px-GarageImage_B-25J-30_%28USSR%29.jpg
+BB-1,USSR,I,1.3,467,23.0,9.8,620,394,https://wiki.warthunder.com/images/thumb/3/3b/GarageImage_BB-1.jpg/800px-GarageImage_BB-1.jpg
+Be-6,USSR,IV,5.0,418,28.0,9.0,500,291,https://wiki.warthunder.com/images/thumb/f/f8/GarageImage_Be-6.jpg/800px-GarageImage_Be-6.jpg
+BI,USSR,V,6.7,799,23.0,100.0,920,N/A,https://wiki.warthunder.com/images/thumb/6/6e/GarageImage_BI.jpg/800px-GarageImage_BI.jpg
+DB-3B,USSR,II,2.7,410,33.8,9.8,600,N/A,https://wiki.warthunder.com/images/thumb/e/e4/GarageImage_DB-3B.jpg/800px-GarageImage_DB-3B.jpg
+Dolgushin's La-7,USSR,IV,4.7,676,19.2,18.2,735,504,https://wiki.warthunder.com/images/thumb/b/b8/GarageImage_Dolgushin%27s_La-7.jpg/800px-GarageImage_Dolgushin%27s_La-7.jpg
+▂Fw 190 D-9,USSR,IV,5.0,710,20.4,15.8,912,N/A,https://wiki.warthunder.com/images/thumb/1/11/GarageImage_Fw_190_D-9_%28USSR%29.jpg/800px-GarageImage_Fw_190_D-9_%28USSR%29.jpg
+Golovachev's Yak-9M,USSR,III,3.3,617,18.0,16.0,720,N/A,https://wiki.warthunder.com/images/thumb/b/b7/GarageImage_Golovachev%27s_Yak-9M.jpg/800px-GarageImage_Golovachev%27s_Yak-9M.jpg
+▂Hampden TB Mk I,USSR,I,1.7,406,34.0,9.3,506,388,https://wiki.warthunder.com/images/thumb/4/4b/GarageImage_Hampden_TB_Mk_I_%28USSR%29.jpg/800px-GarageImage_Hampden_TB_Mk_I_%28USSR%29.jpg
+▂Hurricane Mk IIB,USSR,II,3.0,565,15.0,13.0,660,268,https://wiki.warthunder.com/images/thumb/3/37/GarageImage_Hurricane_Mk_IIB_%28USSR%29.jpg/800px-GarageImage_Hurricane_Mk_IIB_%28USSR%29.jpg
+I-15 M-22,USSR,I,1.0,368,8.0,13.4,560,N/A,https://wiki.warthunder.com/images/thumb/f/f1/GarageImage_I-15_M-22.jpg/800px-GarageImage_I-15_M-22.jpg
+I-15 M-25,USSR,I,1.0,368,8.0,13.4,560,N/A,https://wiki.warthunder.com/images/thumb/7/76/GarageImage_I-15_M-25.jpg/800px-GarageImage_I-15_M-25.jpg
+I-15 WR,USSR,I,1.0,368,8.0,13.4,560,N/A,https://wiki.warthunder.com/images/thumb/c/c6/GarageImage_I-15_WR.jpg/800px-GarageImage_I-15_WR.jpg
+I-153 M-62,USSR,I,2.3,444,13.3,15.2,580,N/A,https://wiki.warthunder.com/images/thumb/6/6a/GarageImage_I-153_M-62.jpg/800px-GarageImage_I-153_M-62.jpg
+I-153P,USSR,II,2.7,444,13.3,15.0,580,N/A,https://wiki.warthunder.com/images/thumb/5/59/GarageImage_I-153P.jpg/800px-GarageImage_I-153P.jpg
+I-15bis,USSR,I,1.0,380,10.5,14.2,580,-,https://wiki.warthunder.com/images/thumb/f/f4/GarageImage_I-15bis.jpg/800px-GarageImage_I-15bis.jpg
+I-16 type 10,USSR,I,2.0,459,16.7,19.9,700,N/A,https://wiki.warthunder.com/images/thumb/c/c9/GarageImage_I-16_type_10.jpg/800px-GarageImage_I-16_type_10.jpg
+I-16 type 18,USSR,I,2.3,466,16.4,19.4,700,N/A,https://wiki.warthunder.com/images/thumb/9/9b/GarageImage_I-16_type_18.jpg/800px-GarageImage_I-16_type_18.jpg
+I-16 type 24,USSR,I,2.7,466,16.4,19.1,700,395,https://wiki.warthunder.com/images/thumb/c/c0/GarageImage_I-16_type_24.jpg/800px-GarageImage_I-16_type_24.jpg
+I-16 type 27,USSR,II,3.3,463,16.5,18.0,700,N/A,https://wiki.warthunder.com/images/thumb/2/25/GarageImage_I-16_type_27.jpg/800px-GarageImage_I-16_type_27.jpg
+I-16 type 28,USSR,II,3.3,463,16.5,18.0,700,395,https://wiki.warthunder.com/images/thumb/8/8c/GarageImage_I-16_type_28.jpg/800px-GarageImage_I-16_type_28.jpg
+I-16 type 5,USSR,I,1.3,445,15.0,18.5,700,700,https://wiki.warthunder.com/images/thumb/e/e4/GarageImage_I-16_type_5.jpg/800px-GarageImage_I-16_type_5.jpg
+I-180S,USSR,II,3.0,585,19.0,16.6,670,N/A,https://wiki.warthunder.com/images/thumb/e/e7/GarageImage_I-180S.jpg/800px-GarageImage_I-180S.jpg
+I-185 (M-71),USSR,III,4.3,680,21.0,18.5,800,380,https://wiki.warthunder.com/images/thumb/b/ba/GarageImage_I-185_%28M-71%29.jpg/800px-GarageImage_I-185_%28M-71%29.jpg
+I-185 (M-82),USSR,III,3.7,615,22.0,18.5,800,380,https://wiki.warthunder.com/images/thumb/c/c9/GarageImage_I-185_%28M-82%29.jpg/800px-GarageImage_I-185_%28M-82%29.jpg
+I-225,USSR,IV,5.0,726,19.0,20.8,820,N/A,https://wiki.warthunder.com/images/thumb/5/5e/GarageImage_I-225.jpg/800px-GarageImage_I-225.jpg
+I-29,USSR,II,2.7,556,21.0,15.0,680,-,https://wiki.warthunder.com/images/thumb/1/1b/GarageImage_I-29.jpg/800px-GarageImage_I-29.jpg
+I-301,USSR,II,3.0,605,22.0,13.8,700,440,https://wiki.warthunder.com/images/thumb/b/b1/GarageImage_I-301.jpg/800px-GarageImage_I-301.jpg
+IL-10,USSR,IV,5.0,551,24.0,10.4,720,498,https://wiki.warthunder.com/images/thumb/4/4d/GarageImage_IL-10.jpg/800px-GarageImage_IL-10.jpg
+IL-10 (1946),USSR,IV,5.0,528,24.0,10.4,720,496,https://wiki.warthunder.com/images/thumb/5/50/GarageImage_IL-10_%281946%29.jpg/800px-GarageImage_IL-10_%281946%29.jpg
+IL-2 (1941),USSR,II,2.3,425,24.9,8.6,620,N/A,https://wiki.warthunder.com/images/thumb/f/fc/GarageImage_IL-2_%281941%29.jpg/800px-GarageImage_IL-2_%281941%29.jpg
+IL-2 (1942),USSR,II,3.0,426,24.9,8.6,620,N/A,https://wiki.warthunder.com/images/thumb/9/9b/GarageImage_IL-2_%281942%29.jpg/800px-GarageImage_IL-2_%281942%29.jpg
+IL-2 M-82,USSR,II,2.7,397,22.9,7.1,620,N/A,https://wiki.warthunder.com/images/thumb/b/b1/GarageImage_IL-2_M-82.jpg/800px-GarageImage_IL-2_M-82.jpg
+IL-2-37,USSR,II,2.7,391,39.8,8.6,620,N/A,https://wiki.warthunder.com/images/thumb/3/39/GarageImage_IL-2-37.jpg/800px-GarageImage_IL-2-37.jpg
+IL-28,USSR,V,8.0,905,48.0,20.0,810,577,https://wiki.warthunder.com/images/thumb/2/2e/GarageImage_IL-28.jpg/800px-GarageImage_IL-28.jpg
+IL-28Sh,USSR,V,8.0,905,48.0,20.0,810,577,https://wiki.warthunder.com/images/thumb/d/d2/GarageImage_IL-28Sh.jpg/800px-GarageImage_IL-28Sh.jpg
+"IL-2M ""Avenger""",USSR,III,3.3,409,47.9,8.6,620,447,https://wiki.warthunder.com/images/thumb/d/d6/GarageImage_IL-2M_%22Avenger%22.jpg/800px-GarageImage_IL-2M_%22Avenger%22.jpg
+IL-2M (1943),USSR,III,3.3,400,34.8,8.6,620,N/A,https://wiki.warthunder.com/images/thumb/1/18/GarageImage_IL-2M_%281943%29.jpg/800px-GarageImage_IL-2M_%281943%29.jpg
+IL-2M type 3,USSR,III,3.3,409,47.9,8.6,620,447,https://wiki.warthunder.com/images/thumb/b/bc/GarageImage_IL-2M_type_3.jpg/800px-GarageImage_IL-2M_type_3.jpg
+IL-4,USSR,II,3.0,409,33.8,9.7,600,N/A,https://wiki.warthunder.com/images/thumb/e/e3/GarageImage_IL-4.jpg/800px-GarageImage_IL-4.jpg
+ITP (M-1),USSR,III,4.0,676,21.0,15.1,800,365,https://wiki.warthunder.com/images/thumb/1/1e/GarageImage_ITP_%28M-1%29.jpg/800px-GarageImage_ITP_%28M-1%29.jpg
+KOR-1,USSR,I,1.3,___,__._,__._,0,___,https://wiki.warthunder.com/images/thumb/1/1b/GarageImage_KOR-1.jpg/800px-GarageImage_KOR-1.jpg
+Krasnolutsky's I-15bis,USSR,I,1.0,380,10.5,14.2,580,-,https://wiki.warthunder.com/images/thumb/d/d7/GarageImage_Krasnolutsky%27s_I-15bis.jpg/800px-GarageImage_Krasnolutsky%27s_I-15bis.jpg
+La-11,USSR,IV,5.3,680,22.0,16.1,850,460,https://wiki.warthunder.com/images/thumb/0/0f/GarageImage_La-11.jpg/800px-GarageImage_La-11.jpg
+La-15,USSR,V,8.0,"1,022",23.5,31.7,945,-,https://wiki.warthunder.com/images/thumb/d/d6/GarageImage_La-15.jpg/800px-GarageImage_La-15.jpg
+La-174,USSR,V,8.0,"1,026",21.5,31.7,945,-,https://wiki.warthunder.com/images/thumb/0/08/GarageImage_La-174.jpg/800px-GarageImage_La-174.jpg
+La-200,USSR,V,7.7,"1,101",26.0,47.0,1123,627,https://wiki.warthunder.com/images/thumb/d/dd/GarageImage_La-200.jpg/800px-GarageImage_La-200.jpg
+La-5,USSR,II,3.0,580,21.1,13.7,0,431,https://wiki.warthunder.com/images/thumb/1/13/GarageImage_La-5.jpg/800px-GarageImage_La-5.jpg
+La-5F,USSR,II,3.3,591,21.2,15.6,0,447,https://wiki.warthunder.com/images/thumb/5/59/GarageImage_La-5F.jpg/800px-GarageImage_La-5F.jpg
+La-5FN,USSR,III,3.7,620,19.2,21.7,735,447,https://wiki.warthunder.com/images/thumb/6/68/GarageImage_La-5FN.jpg/800px-GarageImage_La-5FN.jpg
+La-7,USSR,III,4.7,676,19.2,18.2,735,504,https://wiki.warthunder.com/images/thumb/4/49/GarageImage_La-7.jpg/800px-GarageImage_La-7.jpg
+La-7B-20,USSR,IV,5.0,661,20.2,18.2,735,504,https://wiki.warthunder.com/images/thumb/f/fa/GarageImage_La-7B-20.jpg/800px-GarageImage_La-7B-20.jpg
+La-9,USSR,IV,6.0,690,21.0,19.2,850,490,https://wiki.warthunder.com/images/thumb/a/a3/GarageImage_La-9.jpg/800px-GarageImage_La-9.jpg
+LaGG-3-11,USSR,II,2.0,561,24.0,10.6,0,440,https://wiki.warthunder.com/images/thumb/a/a5/GarageImage_LaGG-3-11.jpg/800px-GarageImage_LaGG-3-11.jpg
+LaGG-3-23,USSR,II,2.3,583,21.0,12.6,0,440,https://wiki.warthunder.com/images/thumb/e/e6/GarageImage_LaGG-3-23.jpg/800px-GarageImage_LaGG-3-23.jpg
+LaGG-3-34,USSR,II,2.3,560,23.0,13.8,0,440,https://wiki.warthunder.com/images/thumb/6/6c/GarageImage_LaGG-3-34.jpg/800px-GarageImage_LaGG-3-34.jpg
+LaGG-3-35,USSR,II,2.3,566,21.0,13.8,0,440,https://wiki.warthunder.com/images/thumb/1/1e/GarageImage_LaGG-3-35.jpg/800px-GarageImage_LaGG-3-35.jpg
+LaGG-3-4,USSR,II,2.3,566,21.0,13.8,700,440,https://wiki.warthunder.com/images/thumb/4/4f/GarageImage_LaGG-3-4.jpg/800px-GarageImage_LaGG-3-4.jpg
+LaGG-3-66,USSR,II,2.7,591,21.5,13.8,0,440,https://wiki.warthunder.com/images/thumb/7/7b/GarageImage_LaGG-3-66.jpg/800px-GarageImage_LaGG-3-66.jpg
+LaGG-3-8,USSR,II,2.0,554,24.0,10.5,0,440,https://wiki.warthunder.com/images/thumb/b/ba/GarageImage_LaGG-3-8.jpg/800px-GarageImage_LaGG-3-8.jpg
+MBR-2-M-34,USSR,I,1.0,275,18.0,3.8,405,405,https://wiki.warthunder.com/images/thumb/0/02/GarageImage_MBR-2-M-34.jpg/800px-GarageImage_MBR-2-M-34.jpg
+MiG-15,USSR,V,8.3,"1,050",22.1,42.0,"1,132",-,https://wiki.warthunder.com/images/thumb/7/7a/GarageImage_MiG-15.jpg/800px-GarageImage_MiG-15.jpg
+MiG-15bis,USSR,V,8.7,"1,076",20.7,50.0,"1,132",-,https://wiki.warthunder.com/images/thumb/6/6d/GarageImage_MiG-15bis.jpg/800px-GarageImage_MiG-15bis.jpg
+MiG-15bis ISH,USSR,V,8.3,"1,076",20.7,50.0,"1,132",-,https://wiki.warthunder.com/images/thumb/a/a2/GarageImage_MiG-15bis_ISH.jpg/800px-GarageImage_MiG-15bis_ISH.jpg
+MiG-17,USSR,VI,9.0,"1,114",21.5,50.0,"1,150",-,https://wiki.warthunder.com/images/thumb/3/39/GarageImage_MiG-17.jpg/800px-GarageImage_MiG-17.jpg
+MiG-17AS,USSR,VI,9.0,"1,114",21.5,50.0,"1,093",N/A,https://wiki.warthunder.com/images/thumb/2/28/GarageImage_MiG-17AS.jpg/800px-GarageImage_MiG-17AS.jpg
+MiG-19PT,USSR,VI,9.3,"1,436",32.0,180.0,1260,N/A,https://wiki.warthunder.com/images/thumb/9/9a/GarageImage_MiG-19PT.jpg/800px-GarageImage_MiG-19PT.jpg
+MiG-21bis,USSR,VII,11.0,"2,240",37.0,225.0,1365,N/A,https://wiki.warthunder.com/images/thumb/2/26/GarageImage_MiG-21bis.jpg/800px-GarageImage_MiG-21bis.jpg
+MiG-21F-13,USSR,VI,9.3,"2,240",33.0,120.0,1260,N/A,https://wiki.warthunder.com/images/thumb/c/c1/GarageImage_MiG-21F-13.jpg/800px-GarageImage_MiG-21F-13.jpg
+MiG-21PFM,USSR,VI,9.3,"2,240",36.0,145.0,1365,N/A,https://wiki.warthunder.com/images/thumb/b/b1/GarageImage_MiG-21PFM.jpg/800px-GarageImage_MiG-21PFM.jpg
+MiG-21S (R-13-300),USSR,VI,9.7,"2,240",35.0,160.0,1365,N/A,https://wiki.warthunder.com/images/thumb/9/90/GarageImage_MiG-21S_%28R-13-300%29.jpg/800px-GarageImage_MiG-21S_%28R-13-300%29.jpg
+MiG-21SMT,USSR,VII,10.3,"2,240",36.0,165.0,1365,N/A,https://wiki.warthunder.com/images/thumb/8/82/GarageImage_MiG-21SMT.jpg/800px-GarageImage_MiG-21SMT.jpg
+MiG-23M,USSR,VII,11.0,"2,358",35.0,169.9,1470,N/A,https://wiki.warthunder.com/images/thumb/8/8e/GarageImage_MiG-23M.jpg/800px-GarageImage_MiG-23M.jpg
+MiG-23ML,USSR,VII,11.3,"2,358",33.0,220.0,"1,470",N/A,https://wiki.warthunder.com/images/thumb/6/6b/GarageImage_MiG-23ML.jpg/800px-GarageImage_MiG-23ML.jpg
+MiG-23MLD,USSR,VII,11.3,"2,358",33.0,220.0,"1,470",N/A,https://wiki.warthunder.com/images/thumb/9/91/GarageImage_MiG-23MLD.jpg/800px-GarageImage_MiG-23MLD.jpg
+MiG-27K,USSR,VII,11.3,"2,200",36.0,154.6,"1,417",N/A,https://wiki.warthunder.com/images/thumb/6/63/GarageImage_MiG-27K.jpg/800px-GarageImage_MiG-27K.jpg
+MiG-27M,USSR,VII,11.0,"2,200",36.0,155.0,"1,417",N/A,https://wiki.warthunder.com/images/thumb/2/22/GarageImage_MiG-27M.jpg/800px-GarageImage_MiG-27M.jpg
+MiG-29,USSR,VIII,12.0,"2,448",19.7,318.0,"1,575",-,https://wiki.warthunder.com/images/thumb/1/1a/GarageImage_MiG-29.jpg/800px-GarageImage_MiG-29.jpg
+MiG-29SMT,USSR,VIII,12.3,"2,347",22.5,300.0,"1,575",-,https://wiki.warthunder.com/images/thumb/3/39/GarageImage_MiG-29SMT.jpg/800px-GarageImage_MiG-29SMT.jpg
+MiG-3-15,USSR,I,2.3,640,24.0,16.0,677,457,https://wiki.warthunder.com/images/thumb/e/e1/GarageImage_MiG-3-15.jpg/800px-GarageImage_MiG-3-15.jpg
+MiG-3-15 (BK),USSR,II,2.3,633,24.0,16.0,677,457,https://wiki.warthunder.com/images/thumb/7/71/GarageImage_MiG-3-15_%28BK%29.jpg/800px-GarageImage_MiG-3-15_%28BK%29.jpg
+MiG-3-34,USSR,II,2.7,612,22.0,16.0,700,457,https://wiki.warthunder.com/images/thumb/c/c3/GarageImage_MiG-3-34.jpg/800px-GarageImage_MiG-3-34.jpg
+MiG-9,USSR,V,7.3,909,29.0,22.0,1020,N/A,https://wiki.warthunder.com/images/thumb/b/be/GarageImage_MiG-9.jpg/800px-GarageImage_MiG-9.jpg
+MiG-9 (l),USSR,V,7.3,967,26.0,28.0,1020,N/A,https://wiki.warthunder.com/images/thumb/8/88/GarageImage_MiG-9_%28l%29.jpg/800px-GarageImage_MiG-9_%28l%29.jpg
+▂P-39K-1,USSR,II,2.7,590,20.0,12.9,886,400,https://wiki.warthunder.com/images/thumb/2/2d/GarageImage_P-39K-1_%28USSR%29.jpg/800px-GarageImage_P-39K-1_%28USSR%29.jpg
+▂P-39Q-15,USSR,III,3.3,624,20.0,17.5,886,426,https://wiki.warthunder.com/images/thumb/7/7f/GarageImage_P-39Q-15_%28USSR%29.jpg/800px-GarageImage_P-39Q-15_%28USSR%29.jpg
+▂P-40E-1,USSR,II,2.7,560,21.0,10.6,819,595,https://wiki.warthunder.com/images/thumb/5/57/GarageImage_P-40E-1_%28USSR%29.jpg/800px-GarageImage_P-40E-1_%28USSR%29.jpg
+▂P-47D-27,USSR,III,4.3,700,25.0,10.6,885,498,https://wiki.warthunder.com/images/thumb/c/c2/GarageImage_P-47D-27_%28USSR%29.jpg/800px-GarageImage_P-47D-27_%28USSR%29.jpg
+▂P-63A-10,USSR,IV,4.0,650,23.0,22.2,887,378,https://wiki.warthunder.com/images/thumb/6/6e/GarageImage_P-63A-10_%28USSR%29.jpg/800px-GarageImage_P-63A-10_%28USSR%29.jpg
+▂P-63A-5,USSR,III,3.3,640,21.0,19.6,887,378,https://wiki.warthunder.com/images/thumb/c/c0/GarageImage_P-63A-5_%28USSR%29.jpg/800px-GarageImage_P-63A-5_%28USSR%29.jpg
+▂P-63C-5,USSR,IV,4.0,663,23.0,21.7,887,378,https://wiki.warthunder.com/images/thumb/d/d0/GarageImage_P-63C-5_%28USSR%29.jpg/800px-GarageImage_P-63C-5_%28USSR%29.jpg
+▂PBY-5A Catalina,USSR,I,1.7,282,30.0,5.1,0,N/A,https://wiki.warthunder.com/images/thumb/e/e7/GarageImage_PBY-5A_Catalina_%28USSR%29.jpg/800px-GarageImage_PBY-5A_Catalina_%28USSR%29.jpg
+Pe-2-1,USSR,II,3.3,540,27.0,9.7,760,520,https://wiki.warthunder.com/images/thumb/1/1b/GarageImage_Pe-2-1.jpg/800px-GarageImage_Pe-2-1.jpg
+Pe-2-110,USSR,III,3.7,483,28.0,8.5,740,508,https://wiki.warthunder.com/images/thumb/1/18/GarageImage_Pe-2-110.jpg/800px-GarageImage_Pe-2-110.jpg
+Pe-2-205,USSR,III,3.7,524,27.0,12.8,740,508,https://wiki.warthunder.com/images/thumb/e/e9/GarageImage_Pe-2-205.jpg/800px-GarageImage_Pe-2-205.jpg
+Pe-2-31,USSR,II,3.3,530,28.0,9.6,740,508,https://wiki.warthunder.com/images/thumb/4/4f/GarageImage_Pe-2-31.jpg/800px-GarageImage_Pe-2-31.jpg
+Pe-2-359,USSR,III,4.3,540,26.0,12.8,740,508,https://wiki.warthunder.com/images/thumb/1/13/GarageImage_Pe-2-359.jpg/800px-GarageImage_Pe-2-359.jpg
+Pe-2-83,USSR,II,3.3,510,28.0,9.0,740,508,https://wiki.warthunder.com/images/thumb/7/74/GarageImage_Pe-2-83.jpg/800px-GarageImage_Pe-2-83.jpg
+Pe-3,USSR,I,2.0,504,26.0,9.7,740,500,https://wiki.warthunder.com/images/thumb/0/03/GarageImage_Pe-3.jpg/800px-GarageImage_Pe-3.jpg
+Pe-3 (e),USSR,I,2.0,535,26.0,10.0,740,500,https://wiki.warthunder.com/images/thumb/4/49/GarageImage_Pe-3_%28e%29.jpg/800px-GarageImage_Pe-3_%28e%29.jpg
+Pe-3bis,USSR,II,3.0,530,33.8,8.9,740,500,https://wiki.warthunder.com/images/thumb/4/42/GarageImage_Pe-3bis.jpg/800px-GarageImage_Pe-3bis.jpg
+Pe-8,USSR,III,4.3,422,36.0,7.2,535,437,https://wiki.warthunder.com/images/thumb/f/f4/GarageImage_Pe-8.jpg/800px-GarageImage_Pe-8.jpg
+Po-2,USSR,I,1.0,134,30.0,2.3,190,N/A,https://wiki.warthunder.com/images/thumb/a/ab/GarageImage_Po-2.jpg/800px-GarageImage_Po-2.jpg
+Po-2 Night Witch,USSR,I,1.0,134,30.0,1.0,600,N/A,https://wiki.warthunder.com/images/thumb/1/17/GarageImage_Po-2_Night_Witch.jpg/800px-GarageImage_Po-2_Night_Witch.jpg
+Po-2M,USSR,I,1.0,134,30.0,2.3,190,N/A,https://wiki.warthunder.com/images/thumb/6/67/GarageImage_Po-2M.jpg/800px-GarageImage_Po-2M.jpg
+▂Pokryshkin's P-39N-0,USSR,III,3.0,644,18.0,15.4,886,426,https://wiki.warthunder.com/images/thumb/6/64/GarageImage_Pokryshkin%27s_P-39N-0_%28USSR%29.jpg/800px-GarageImage_Pokryshkin%27s_P-39N-0_%28USSR%29.jpg
+SB 2M-100,USSR,I,1.3,423,24.2,8.9,550,315,https://wiki.warthunder.com/images/thumb/7/76/GarageImage_SB_2M-100.jpg/800px-GarageImage_SB_2M-100.jpg
+SB 2M-103,USSR,I,2.0,419,24.2,9.3,580,315,https://wiki.warthunder.com/images/thumb/7/7a/GarageImage_SB_2M-103.jpg/800px-GarageImage_SB_2M-103.jpg
+SB 2M-103 MV-3,USSR,I,1.7,450,22.0,9.6,580,315,https://wiki.warthunder.com/images/thumb/c/c4/GarageImage_SB_2M-103_MV-3.jpg/800px-GarageImage_SB_2M-103_MV-3.jpg
+SB 2M-103U,USSR,I,2.3,450,22.0,9.6,580,315,https://wiki.warthunder.com/images/thumb/8/82/GarageImage_SB_2M-103U.jpg/800px-GarageImage_SB_2M-103U.jpg
+SB 2M-103U MV-3,USSR,I,2.3,450,22.0,9.6,580,315,https://wiki.warthunder.com/images/thumb/6/6e/GarageImage_SB_2M-103U_MV-3.jpg/800px-GarageImage_SB_2M-103U_MV-3.jpg
+SB 2M-105,USSR,I,2.7,466,21.0,12.7,600,315,https://wiki.warthunder.com/images/thumb/5/5f/GarageImage_SB_2M-105.jpg/800px-GarageImage_SB_2M-105.jpg
+▂Spitfire Mk IXc,USSR,IV,5.7,690,14.8,31.8,774,N/A,https://wiki.warthunder.com/images/thumb/0/0d/GarageImage_Spitfire_Mk_IXc_%28USSR%29.jpg/800px-GarageImage_Spitfire_Mk_IXc_%28USSR%29.jpg
+Su-11,USSR,V,7.3,940,24.0,33.0,1025,558,https://wiki.warthunder.com/images/thumb/8/83/GarageImage_Su-11.jpg/800px-GarageImage_Su-11.jpg
+Su-17M2,USSR,VII,10.3,"2,232",27.0,190.0,"1,417",N/A,https://wiki.warthunder.com/images/thumb/2/2d/GarageImage_Su-17M2.jpg/800px-GarageImage_Su-17M2.jpg
+Su-17M4,USSR,VII,11.0,"2,052",27.0,190.0,"1,417",N/A,https://wiki.warthunder.com/images/thumb/3/35/GarageImage_Su-17M4.jpg/800px-GarageImage_Su-17M4.jpg
+Su-2 (M-82),USSR,I,2.7,486,26.0,9.6,620,394,https://wiki.warthunder.com/images/thumb/f/fd/GarageImage_Su-2_%28M-82%29.jpg/800px-GarageImage_Su-2_%28M-82%29.jpg
+Su-2 MV-5,USSR,I,1.7,460,24.0,8.6,620,394,https://wiki.warthunder.com/images/thumb/7/77/GarageImage_Su-2_MV-5.jpg/800px-GarageImage_Su-2_MV-5.jpg
+Su-2 TSS-1,USSR,I,2.0,512,25.0,8.9,620,394,https://wiki.warthunder.com/images/thumb/a/a1/GarageImage_Su-2_TSS-1.jpg/800px-GarageImage_Su-2_TSS-1.jpg
+Su-22M3,USSR,VII,10.7,"2,232",27.0,169.9,1417,N/A,https://wiki.warthunder.com/images/thumb/e/e7/GarageImage_Su-22M3.jpg/800px-GarageImage_Su-22M3.jpg
+Su-25,USSR,VI,10.0,978,27.0,79.4,"1,100",900,https://wiki.warthunder.com/images/thumb/7/74/GarageImage_Su-25.jpg/800px-GarageImage_Su-25.jpg
+Su-25BM,USSR,VII,11.0,979,27.0,80.0,"1,100",900,https://wiki.warthunder.com/images/thumb/1/1f/GarageImage_Su-25BM.jpg/800px-GarageImage_Su-25BM.jpg
+Su-25K,USSR,VI,10.0,979,27.0,79.4,"1,100",900,https://wiki.warthunder.com/images/thumb/1/13/GarageImage_Su-25K.jpg/800px-GarageImage_Su-25K.jpg
+Su-25T,USSR,VII,11.3,979,27.0,80.0,"1,100","1,050",https://wiki.warthunder.com/images/thumb/c/cf/GarageImage_Su-25T.jpg/800px-GarageImage_Su-25T.jpg
+Su-39,USSR,VII,11.3,979,27.0,80.0,"1,100","1,050",https://wiki.warthunder.com/images/thumb/d/db/GarageImage_Su-39.jpg/800px-GarageImage_Su-39.jpg
+Su-6,USSR,IV,4.0,491,22.0,9.7,680,458,https://wiki.warthunder.com/images/thumb/f/fe/GarageImage_Su-6.jpg/800px-GarageImage_Su-6.jpg
+Su-6 (AM-42),USSR,IV,4.7,501,25.0,11.2,680,458,https://wiki.warthunder.com/images/thumb/c/c1/GarageImage_Su-6_%28AM-42%29.jpg/800px-GarageImage_Su-6_%28AM-42%29.jpg
+Su-6 (M-71F),USSR,III,4.7,514,26.0,10.9,680,458,https://wiki.warthunder.com/images/thumb/f/f8/GarageImage_Su-6_%28M-71F%29.jpg/800px-GarageImage_Su-6_%28M-71F%29.jpg
+Su-7B,USSR,VI,9.3,"2,232",27.0,195.0,"1,260",N/A,https://wiki.warthunder.com/images/thumb/a/ad/GarageImage_Su-7B.jpg/800px-GarageImage_Su-7B.jpg
+Su-7BKL,USSR,VI,9.3,"2,232",27.0,195.0,"1,260",N/A,https://wiki.warthunder.com/images/thumb/a/a2/GarageImage_Su-7BKL.jpg/800px-GarageImage_Su-7BKL.jpg
+Su-7BMK,USSR,VI,9.3,"2,232",27.0,195.0,"1,260",N/A,https://wiki.warthunder.com/images/thumb/3/3d/GarageImage_Su-7BMK.jpg/800px-GarageImage_Su-7BMK.jpg
+Su-8,USSR,IV,4.7,550,25.0,9.3,720,437,https://wiki.warthunder.com/images/thumb/2/25/GarageImage_Su-8.jpg/800px-GarageImage_Su-8.jpg
+Su-9,USSR,V,7.0,886,29.0,21.0,1025,558,https://wiki.warthunder.com/images/thumb/1/1d/GarageImage_Su-9.jpg/800px-GarageImage_Su-9.jpg
+Tandem MAI,USSR,I,2.0,488,22.0,10.6,650,448,https://wiki.warthunder.com/images/thumb/0/09/GarageImage_Tandem_MAI.jpg/800px-GarageImage_Tandem_MAI.jpg
+TB-3M-17-32,USSR,I,1.3,185,58.0,7.2,450,-,https://wiki.warthunder.com/images/thumb/1/1f/GarageImage_TB-3M-17-32.jpg/800px-GarageImage_TB-3M-17-32.jpg
+TIS MA,USSR,III,4.3,534,24.0,10.3,740,386,https://wiki.warthunder.com/images/thumb/e/eb/GarageImage_TIS_MA.jpg/800px-GarageImage_TIS_MA.jpg
+Tu-1,USSR,IV,5.3,687,29.0,11.5,900,437,https://wiki.warthunder.com/images/thumb/3/3d/GarageImage_Tu-1.jpg/800px-GarageImage_Tu-1.jpg
+Tu-14T,USSR,V,8.0,856,51.0,15.0,892,580,https://wiki.warthunder.com/images/thumb/b/b5/GarageImage_Tu-14T.jpg/800px-GarageImage_Tu-14T.jpg
+Tu-2,USSR,III,4.7,547,30.8,8.1,900,437,https://wiki.warthunder.com/images/thumb/6/6f/GarageImage_Tu-2.jpg/800px-GarageImage_Tu-2.jpg
+Tu-2S,USSR,IV,5.3,547,30.8,8.1,900,437,https://wiki.warthunder.com/images/thumb/5/5c/GarageImage_Tu-2S.jpg/800px-GarageImage_Tu-2S.jpg
+Tu-2S-44,USSR,IV,5.3,547,30.8,8.1,900,437,https://wiki.warthunder.com/images/thumb/a/a4/GarageImage_Tu-2S-44.jpg/800px-GarageImage_Tu-2S-44.jpg
+Tu-2S-59,USSR,IV,5.7,547,30.8,8.1,900,437,https://wiki.warthunder.com/images/thumb/9/92/GarageImage_Tu-2S-59.jpg/800px-GarageImage_Tu-2S-59.jpg
+Tu-4,USSR,V,8.0,641,32.0,6.5,609,332,https://wiki.warthunder.com/images/thumb/2/2c/GarageImage_Tu-4.jpg/800px-GarageImage_Tu-4.jpg
+Yak-1,USSR,II,2.3,577,18.0,16.0,675,N/A,https://wiki.warthunder.com/images/thumb/2/20/GarageImage_Yak-1.jpg/800px-GarageImage_Yak-1.jpg
+Yak-141,USSR,VIII,12.0,"1,847",25.0,310.0,"1,450",750,https://wiki.warthunder.com/images/thumb/8/8d/GarageImage_Yak-141.jpg/800px-GarageImage_Yak-141.jpg
+Yak-15,USSR,V,6.7,755,18.5,23.0,750,N/A,https://wiki.warthunder.com/images/thumb/b/b7/GarageImage_Yak-15.jpg/800px-GarageImage_Yak-15.jpg
+Yak-15P,USSR,V,6.3,755,18.5,23.0,750,N/A,https://wiki.warthunder.com/images/thumb/5/5e/GarageImage_Yak-15P.jpg/800px-GarageImage_Yak-15P.jpg
+Yak-17,USSR,V,6.7,755,18.5,23.0,765,N/A,https://wiki.warthunder.com/images/thumb/0/03/GarageImage_Yak-17.jpg/800px-GarageImage_Yak-17.jpg
+Yak-1B,USSR,II,3.0,592,18.5,16.0,683,N/A,https://wiki.warthunder.com/images/thumb/b/ba/GarageImage_Yak-1B.jpg/800px-GarageImage_Yak-1B.jpg
+Yak-2 KABB,USSR,I,2.3,520,19.8,12.8,680,-,https://wiki.warthunder.com/images/thumb/4/44/GarageImage_Yak-2_KABB.jpg/800px-GarageImage_Yak-2_KABB.jpg
+Yak-23,USSR,V,8.7,929,19.0,45.0,"1,000",N/A,https://wiki.warthunder.com/images/thumb/3/3e/GarageImage_Yak-23.jpg/800px-GarageImage_Yak-23.jpg
+Yak-28B,USSR,VI,9.3,"1,871",32.0,74.3,"1,124",N/A,https://wiki.warthunder.com/images/thumb/f/fa/GarageImage_Yak-28B.jpg/800px-GarageImage_Yak-28B.jpg
+Yak-3,USSR,III,4.3,654,17.4,21.3,685,N/A,https://wiki.warthunder.com/images/thumb/d/db/GarageImage_Yak-3.jpg/800px-GarageImage_Yak-3.jpg
+Yak-3 (VK-107),USSR,IV,5.7,719,18.9,23.6,720,N/A,https://wiki.warthunder.com/images/thumb/a/af/GarageImage_Yak-3_%28VK-107%29.jpg/800px-GarageImage_Yak-3_%28VK-107%29.jpg
+Yak-30D,USSR,VI,8.7,"1,026",21.0,38.0,1081,500,https://wiki.warthunder.com/images/thumb/7/74/GarageImage_Yak-30D.jpg/800px-GarageImage_Yak-30D.jpg
+Yak-38,USSR,VI,9.3,"1,199",38.6,94.3,1265,-,https://wiki.warthunder.com/images/thumb/2/27/GarageImage_Yak-38.jpg/800px-GarageImage_Yak-38.jpg
+Yak-38M,USSR,VI,9.3,"1,197",38.1,102.4,1265,-,https://wiki.warthunder.com/images/thumb/a/ab/GarageImage_Yak-38M.jpg/800px-GarageImage_Yak-38M.jpg
+Yak-3P,USSR,IV,5.0,643,17.5,21.1,685,N/A,https://wiki.warthunder.com/images/thumb/1/11/GarageImage_Yak-3P.jpg/800px-GarageImage_Yak-3P.jpg
+Yak-3T,USSR,IV,5.0,646,18.9,21.1,685,N/A,https://wiki.warthunder.com/images/thumb/d/dc/GarageImage_Yak-3T.jpg/800px-GarageImage_Yak-3T.jpg
+Yak-3U,USSR,IV,5.7,695,18.0,26.5,700,N/A,https://wiki.warthunder.com/images/thumb/2/2c/GarageImage_Yak-3U.jpg/800px-GarageImage_Yak-3U.jpg
+Yak-4,USSR,I,2.0,533,24.0,10.4,680,-,https://wiki.warthunder.com/images/thumb/4/4a/GarageImage_Yak-4.jpg/800px-GarageImage_Yak-4.jpg
+Yak-7B,USSR,II,2.7,570,21.5,15.5,683,N/A,https://wiki.warthunder.com/images/thumb/6/6e/GarageImage_Yak-7B.jpg/800px-GarageImage_Yak-7B.jpg
+Yak-9,USSR,II,3.0,577,19.0,16.0,683,N/A,https://wiki.warthunder.com/images/thumb/b/b6/GarageImage_Yak-9.jpg/800px-GarageImage_Yak-9.jpg
+Yak-9B,USSR,II,3.0,591,21.0,16.0,683,N/A,https://wiki.warthunder.com/images/thumb/0/09/GarageImage_Yak-9B.jpg/800px-GarageImage_Yak-9B.jpg
+Yak-9K,USSR,III,4.0,593,18.0,16.0,683,N/A,https://wiki.warthunder.com/images/thumb/8/87/GarageImage_Yak-9K.jpg/800px-GarageImage_Yak-9K.jpg
+Yak-9P,USSR,IV,5.0,660,21.4,18.3,756,N/A,https://wiki.warthunder.com/images/thumb/1/1d/GarageImage_Yak-9P.jpg/800px-GarageImage_Yak-9P.jpg
+Yak-9T,USSR,III,4.0,593,18.0,16.0,683,N/A,https://wiki.warthunder.com/images/thumb/f/fd/GarageImage_Yak-9T.jpg/800px-GarageImage_Yak-9T.jpg
+Yak-9U,USSR,III,4.7,677,19.1,18.8,720,N/A,https://wiki.warthunder.com/images/thumb/1/11/GarageImage_Yak-9U.jpg/800px-GarageImage_Yak-9U.jpg
+Yak-9UT,USSR,IV,5.7,672,19.3,18.3,720,N/A,https://wiki.warthunder.com/images/thumb/f/f2/GarageImage_Yak-9UT.jpg/800px-GarageImage_Yak-9UT.jpg
+Yer-2 (ACh-30B) (e),USSR,IV,4.7,415,48.0,9.5,551,447,https://wiki.warthunder.com/images/thumb/3/37/GarageImage_Yer-2_%28ACh-30B%29_%28e%29.jpg/800px-GarageImage_Yer-2_%28ACh-30B%29_%28e%29.jpg
+Yer-2 (ACh-30B) (l),USSR,IV,4.7,415,48.0,9.5,551,447,https://wiki.warthunder.com/images/thumb/0/08/GarageImage_Yer-2_%28ACh-30B%29_%28l%29.jpg/800px-GarageImage_Yer-2_%28ACh-30B%29_%28l%29.jpg
+Yer-2 (M-105),USSR,III,3.3,445,47.0,9.6,556,447,https://wiki.warthunder.com/images/thumb/3/30/GarageImage_Yer-2_%28M-105%29.jpg/800px-GarageImage_Yer-2_%28M-105%29.jpg
+Yer-2 (M-105) TAT,USSR,III,3.7,445,47.0,9.6,556,447,https://wiki.warthunder.com/images/thumb/0/09/GarageImage_Yer-2_%28M-105%29_TAT.jpg/800px-GarageImage_Yer-2_%28M-105%29_TAT.jpg
+Yer-2 (M-105R) LU,USSR,III,3.7,445,47.0,9.6,556,447,https://wiki.warthunder.com/images/thumb/5/53/GarageImage_Yer-2_%28M-105R%29_LU.jpg/800px-GarageImage_Yer-2_%28M-105R%29_LU.jpg
+Yer-2 (M-105R) TAT,USSR,III,3.7,445,47.0,9.6,556,447,https://wiki.warthunder.com/images/thumb/5/58/GarageImage_Yer-2_%28M-105R%29_TAT.jpg/800px-GarageImage_Yer-2_%28M-105R%29_TAT.jpg
+Zhukovsky's I-153-M62,USSR,I,2.3,444,13.3,15.2,580,N/A,https://wiki.warthunder.com/images/thumb/4/44/GarageImage_Zhukovsky%27s_I-153-M62.jpg/800px-GarageImage_Zhukovsky%27s_I-153-M62.jpg
+Attacker FB 1,Britain,V,7.0,922,25.0,28.0,985,502,https://wiki.warthunder.com/images/thumb/7/70/GarageImage_Attacker_FB_1.jpg/800px-GarageImage_Attacker_FB_1.jpg
+Attacker FB.2,Britain,V,7.0,922,25.0,28.0,985,985,https://wiki.warthunder.com/images/thumb/9/9a/GarageImage_Attacker_FB.2.jpg/800px-GarageImage_Attacker_FB.2.jpg
+▄Avenger Mk II,Britain,II,1.7,432,30.0,5.1,612,N/A,https://wiki.warthunder.com/images/thumb/a/a7/GarageImage_Avenger_Mk_II_%28Great_Britain%29.jpg/800px-GarageImage_Avenger_Mk_II_%28Great_Britain%29.jpg
+Beaufighter Mk 21,Britain,II,3.7,520,42.2,10.1,676,354,https://wiki.warthunder.com/images/thumb/f/f8/GarageImage_Beaufighter_Mk_21.jpg/800px-GarageImage_Beaufighter_Mk_21.jpg
+Beaufighter Mk I (40-mm),Britain,II,2.3,504,27.0,8.0,676,354,https://wiki.warthunder.com/images/thumb/4/4d/GarageImage_Beaufighter_Mk_I_%2840-mm%29.jpg/800px-GarageImage_Beaufighter_Mk_I_%2840-mm%29.jpg
+Beaufighter Mk VIc,Britain,II,3.0,536,23.7,10.5,676,354,https://wiki.warthunder.com/images/thumb/f/fe/GarageImage_Beaufighter_Mk_VIc.jpg/800px-GarageImage_Beaufighter_Mk_VIc.jpg
+Beaufighter Mk X,Britain,II,3.0,490,28.5,10.0,676,354,https://wiki.warthunder.com/images/thumb/1/1c/GarageImage_Beaufighter_Mk_X.jpg/800px-GarageImage_Beaufighter_Mk_X.jpg
+Beaufort Mk VIII,Britain,I,1.7,437,39.6,6.1,523,415,https://wiki.warthunder.com/images/thumb/6/62/GarageImage_Beaufort_Mk_VIII.jpg/800px-GarageImage_Beaufort_Mk_VIII.jpg
+Blenheim Mk IV,Britain,I,1.3,428,26.0,7.6,482,305,https://wiki.warthunder.com/images/thumb/c/c7/GarageImage_Blenheim_Mk_IV.jpg/800px-GarageImage_Blenheim_Mk_IV.jpg
+▄Boomerang Mk I,Britain,II,3.0,491,22.3,14.9,660,487,https://wiki.warthunder.com/images/thumb/d/db/GarageImage_Boomerang_Mk_I_%28Great_Britain%29.jpg/800px-GarageImage_Boomerang_Mk_I_%28Great_Britain%29.jpg
+▄Boomerang Mk II,Britain,II,3.0,491,22.3,14.9,660,487,https://wiki.warthunder.com/images/thumb/4/4e/GarageImage_Boomerang_Mk_II_%28Great_Britain%29.jpg/800px-GarageImage_Boomerang_Mk_II_%28Great_Britain%29.jpg
+▄Boston Mk I,Britain,II,2.3,518,27.0,11.5,665,428,https://wiki.warthunder.com/images/thumb/a/a8/GarageImage_Boston_Mk_I_%28Great_Britain%29.jpg/800px-GarageImage_Boston_Mk_I_%28Great_Britain%29.jpg
+Brigand B 1,Britain,III,4.0,580,26.0,14.7,680,430,https://wiki.warthunder.com/images/thumb/8/81/GarageImage_Brigand_B_1.jpg/800px-GarageImage_Brigand_B_1.jpg
+Buccaneer S.1,Britain,VI,8.7,"1,105",32.0,42.0,1181,518,https://wiki.warthunder.com/images/thumb/1/18/GarageImage_Buccaneer_S.1.jpg/800px-GarageImage_Buccaneer_S.1.jpg
+Buccaneer S.2,Britain,VI,9.3,"1,166",32.0,86.0,1181,518,https://wiki.warthunder.com/images/thumb/1/17/GarageImage_Buccaneer_S.2.jpg/800px-GarageImage_Buccaneer_S.2.jpg
+Canberra B (I) Mk 6,Britain,V,8.3,880,26.0,20.0,990,498,https://wiki.warthunder.com/images/thumb/2/27/GarageImage_Canberra_B_%28I%29_Mk_6.jpg/800px-GarageImage_Canberra_B_%28I%29_Mk_6.jpg
+Canberra B Mk 2,Britain,V,8.3,880,26.0,20.0,990,498,https://wiki.warthunder.com/images/thumb/0/03/GarageImage_Canberra_B_Mk_2.jpg/800px-GarageImage_Canberra_B_Mk_2.jpg
+▄Catalina Mk IIIa,Britain,I,1.7,282,30.0,5.1,0,N/A,https://wiki.warthunder.com/images/thumb/1/1e/GarageImage_Catalina_Mk_IIIa_%28Great_Britain%29.jpg/800px-GarageImage_Catalina_Mk_IIIa_%28Great_Britain%29.jpg
+▄Corsair F Mk II,Britain,II,2.7,711,20.0,18.5,885,470,https://wiki.warthunder.com/images/thumb/f/ff/GarageImage_Corsair_F_Mk_II_%28Great_Britain%29.jpg/800px-GarageImage_Corsair_F_Mk_II_%28Great_Britain%29.jpg
+▄D.520,Britain,II,3.0,550,20.0,10.0,800,385,https://wiki.warthunder.com/images/thumb/0/08/GarageImage_D.520_%28Great_Britain%29.jpg/800px-GarageImage_D.520_%28Great_Britain%29.jpg
+▄D.521,Britain,II,3.0,570,21.0,10.0,800,385,https://wiki.warthunder.com/images/thumb/4/41/GarageImage_D.521_%28Great_Britain%29.jpg/800px-GarageImage_D.521_%28Great_Britain%29.jpg
+▄DB-7,Britain,II,2.3,491,28.0,11.5,665,428,https://wiki.warthunder.com/images/thumb/7/7a/GarageImage_DB-7_%28Great_Britain%29.jpg/800px-GarageImage_DB-7_%28Great_Britain%29.jpg
+F-4J(UK) Phantom II,Britain,VII,11.3,___,__._,__._,1458,-,https://wiki.warthunder.com/images/thumb/b/be/GarageImage_F-4J%28UK%29_Phantom_II.jpg/800px-GarageImage_F-4J%28UK%29_Phantom_II.jpg
+Firebrand TF Mk IV,Britain,II,4.0,565,25.0,15.1,750,420,https://wiki.warthunder.com/images/thumb/4/45/GarageImage_Firebrand_TF_Mk_IV.jpg/800px-GarageImage_Firebrand_TF_Mk_IV.jpg
+Firecrest,Britain,II,2.3,608,23.0,19.0,750,430,https://wiki.warthunder.com/images/thumb/1/14/GarageImage_Firecrest.jpg/800px-GarageImage_Firecrest.jpg
+Firefly F Mk I,Britain,III,3.3,508,21.0,12.7,720,600,https://wiki.warthunder.com/images/thumb/1/17/GarageImage_Firefly_F_Mk_I.jpg/800px-GarageImage_Firefly_F_Mk_I.jpg
+Firefly FR Mk V,Britain,III,3.7,554,28.0,13.5,720,600,https://wiki.warthunder.com/images/thumb/d/d5/GarageImage_Firefly_FR_Mk_V.jpg/800px-GarageImage_Firefly_FR_Mk_V.jpg
+Fury Mk I,Britain,I,1.0,394,16.0,15.7,600,N/A,https://wiki.warthunder.com/images/thumb/3/36/GarageImage_Fury_Mk_I.jpg/800px-GarageImage_Fury_Mk_I.jpg
+Fury Mk II,Britain,I,1.0,394,16.0,15.7,600,N/A,https://wiki.warthunder.com/images/thumb/9/9e/GarageImage_Fury_Mk_II.jpg/800px-GarageImage_Fury_Mk_II.jpg
+Gladiator Mk II,Britain,I,1.3,414,16.0,15.7,560,N/A,https://wiki.warthunder.com/images/thumb/b/b8/GarageImage_Gladiator_Mk_II.jpg/800px-GarageImage_Gladiator_Mk_II.jpg
+Gladiator Mk IIF,Britain,I,1.3,414,16.0,15.7,560,N/A,https://wiki.warthunder.com/images/thumb/e/e6/GarageImage_Gladiator_Mk_IIF.jpg/800px-GarageImage_Gladiator_Mk_IIF.jpg
+Gladiator Mk IIS,Britain,I,1.3,414,16.0,15.7,560,N/A,https://wiki.warthunder.com/images/thumb/8/8d/GarageImage_Gladiator_Mk_IIS.jpg/800px-GarageImage_Gladiator_Mk_IIS.jpg
+Halifax B Mk IIIa,Britain,III,4.0,454,34.0,6.5,541,491,https://wiki.warthunder.com/images/thumb/b/b8/GarageImage_Halifax_B_Mk_IIIa.jpg/800px-GarageImage_Halifax_B_Mk_IIIa.jpg
+Hampden Mk I,Britain,I,1.7,428,26.0,7.6,506,388,https://wiki.warthunder.com/images/thumb/b/b0/GarageImage_Hampden_Mk_I.jpg/800px-GarageImage_Hampden_Mk_I.jpg
+Hampden TB Mk I,Britain,I,1.7,428,26.0,7.6,506,388,https://wiki.warthunder.com/images/thumb/3/33/GarageImage_Hampden_TB_Mk_I.jpg/800px-GarageImage_Hampden_TB_Mk_I.jpg
+Harrier GR.1,Britain,VI,9.7,"1,133",32.0,80.0,1191,N/A,https://wiki.warthunder.com/images/thumb/b/b4/GarageImage_Harrier_GR.1.jpg/800px-GarageImage_Harrier_GR.1.jpg
+Harrier GR.3,Britain,VI,9.7,"1,159",32.0,87.0,1191,N/A,https://wiki.warthunder.com/images/thumb/d/de/GarageImage_Harrier_GR.3.jpg/800px-GarageImage_Harrier_GR.3.jpg
+Harrier GR.7,Britain,VIII,11.7,"1,125",30.0,90.0,"1,137",N/A,https://wiki.warthunder.com/images/thumb/7/76/GarageImage_Harrier_GR.7.jpg/800px-GarageImage_Harrier_GR.7.jpg
+▄Havoc Mk I,Britain,II,2.0,518,27.0,11.5,665,428,https://wiki.warthunder.com/images/thumb/a/ae/GarageImage_Havoc_Mk_I_%28Great_Britain%29.jpg/800px-GarageImage_Havoc_Mk_I_%28Great_Britain%29.jpg
+▄Hellcat Mk II,Britain,III,3.3,610,21.8,13.6,803,487,https://wiki.warthunder.com/images/thumb/7/73/GarageImage_Hellcat_Mk_II_%28Great_Britain%29.jpg/800px-GarageImage_Hellcat_Mk_II_%28Great_Britain%29.jpg
+Hornet Mk.I,Britain,IV,6.0,756,25.0,25.2,826,370,https://wiki.warthunder.com/images/thumb/9/9b/GarageImage_Hornet_Mk.I.jpg/800px-GarageImage_Hornet_Mk.I.jpg
+Hornet Mk.III,Britain,IV,6.0,787,24.0,30.3,826,370,https://wiki.warthunder.com/images/thumb/4/48/GarageImage_Hornet_Mk.III.jpg/800px-GarageImage_Hornet_Mk.III.jpg
+▄Hudson Mk V,Britain,II,2.0,418,26.0,9.5,564,328,https://wiki.warthunder.com/images/thumb/b/b2/GarageImage_Hudson_Mk_V_%28Great_Britain%29.jpg/800px-GarageImage_Hudson_Mk_V_%28Great_Britain%29.jpg
+Hunter F.1,Britain,VI,9.0,"1,108",31.0,55.0,"1,193",603,https://wiki.warthunder.com/images/thumb/4/4e/GarageImage_Hunter_F.1.jpg/800px-GarageImage_Hunter_F.1.jpg
+Hunter F.6,Britain,VI,9.7,"1,148",25.0,70.0,"1,193",603,https://wiki.warthunder.com/images/thumb/c/c5/GarageImage_Hunter_F.6.jpg/800px-GarageImage_Hunter_F.6.jpg
+Hunter FGA.9,Britain,VI,9.3,"1,148",25.0,70.0,"1,225",603,https://wiki.warthunder.com/images/thumb/a/a3/GarageImage_Hunter_FGA.9.jpg/800px-GarageImage_Hunter_FGA.9.jpg
+Hurricane Mk I/L,Britain,II,2.3,525,15.0,10.9,660,268,https://wiki.warthunder.com/images/thumb/2/25/GarageImage_Hurricane_Mk_I_L.jpg/800px-GarageImage_Hurricane_Mk_I_L.jpg
+Hurricane Mk IIB/Trop,Britain,II,2.3,510,17.0,11.1,660,268,https://wiki.warthunder.com/images/thumb/7/73/GarageImage_Hurricane_Mk_IIB_Trop.jpg/800px-GarageImage_Hurricane_Mk_IIB_Trop.jpg
+Hurricane Mk IV,Britain,II,2.0,511,15.0,11.1,660,268,https://wiki.warthunder.com/images/thumb/8/8f/GarageImage_Hurricane_Mk_IV.jpg/800px-GarageImage_Hurricane_Mk_IV.jpg
+Hurricane Mk.I/L FAA M,Britain,II,2.3,525,15.0,10.9,660,268,https://wiki.warthunder.com/images/thumb/7/7e/GarageImage_Hurricane_Mk.I-L_FAA_M.jpg/800px-GarageImage_Hurricane_Mk.I-L_FAA_M.jpg
+Jaguar GR.1,Britain,VI,9.7,"1,490",30.0,90.0,"1,273",926,https://wiki.warthunder.com/images/thumb/c/cf/GarageImage_Jaguar_GR.1.jpg/800px-GarageImage_Jaguar_GR.1.jpg
+Jaguar GR.1A,Britain,VII,10.3,"1,591",30.0,95.0,"1,273","1,273",https://wiki.warthunder.com/images/thumb/e/e8/GarageImage_Jaguar_GR.1A.jpg/800px-GarageImage_Jaguar_GR.1A.jpg
+Javelin F.(A.W.) Mk.9,Britain,VI,8.3,991,24.0,55.0,1035,521,https://wiki.warthunder.com/images/thumb/8/8d/GarageImage_Javelin_F.%28A.W.%29_Mk.9.jpg/800px-GarageImage_Javelin_F.%28A.W.%29_Mk.9.jpg
+Lancaster B Mk I,Britain,IV,5.3,451,42.0,8.6,608,415,https://wiki.warthunder.com/images/thumb/2/2d/GarageImage_Lancaster_B_Mk_I.jpg/800px-GarageImage_Lancaster_B_Mk_I.jpg
+Lancaster B Mk III,Britain,IV,5.3,462,48.0,8.6,608,415,https://wiki.warthunder.com/images/thumb/d/d6/GarageImage_Lancaster_B_Mk_III.jpg/800px-GarageImage_Lancaster_B_Mk_III.jpg
+Lightning F.53,Britain,VI,9.3,"2,290",26.0,150.0,1361,N/A,https://wiki.warthunder.com/images/thumb/5/5d/GarageImage_Lightning_F.53.jpg/800px-GarageImage_Lightning_F.53.jpg
+Lightning F.6,Britain,VI,9.3,"2,290",26.0,150.0,1361,N/A,https://wiki.warthunder.com/images/thumb/3/36/GarageImage_Lightning_F.6.jpg/800px-GarageImage_Lightning_F.6.jpg
+Lincoln B Mk II,Britain,IV,6.0,513,35.0,5.0,612.5,406,https://wiki.warthunder.com/images/thumb/0/09/GarageImage_Lincoln_B_Mk_II.jpg/800px-GarageImage_Lincoln_B_Mk_II.jpg
+▄Martlet Mk IV,Britain,II,2.7,513,20.0,12.2,826,420,https://wiki.warthunder.com/images/thumb/7/70/GarageImage_Martlet_Mk_IV_%28Great_Britain%29.jpg/800px-GarageImage_Martlet_Mk_IV_%28Great_Britain%29.jpg
+MB.5,Britain,IV,5.0,740,26.8,20.0,890,N/A,https://wiki.warthunder.com/images/thumb/e/e8/GarageImage_MB.5.jpg/800px-GarageImage_MB.5.jpg
+Meteor F Mk 3,Britain,V,7.3,755,20.0,22.5,850,495,https://wiki.warthunder.com/images/thumb/f/fd/GarageImage_Meteor_F_Mk_3.jpg/800px-GarageImage_Meteor_F_Mk_3.jpg
+Meteor F Mk 4 G.41F,Britain,V,7.7,945,20.0,37.0,999,495,https://wiki.warthunder.com/images/thumb/9/9c/GarageImage_Meteor_F_Mk_4_G.41F.jpg/800px-GarageImage_Meteor_F_Mk_4_G.41F.jpg
+Meteor F Mk 4 G.41G,Britain,V,8.0,950,22.0,37.0,999,495,https://wiki.warthunder.com/images/thumb/8/8e/GarageImage_Meteor_F_Mk_4_G.41G.jpg/800px-GarageImage_Meteor_F_Mk_4_G.41G.jpg
+Meteor F Mk 8 G.41K,Britain,V,8.0,962,23.0,40.2,999,495,https://wiki.warthunder.com/images/thumb/7/7c/GarageImage_Meteor_F_Mk_8_G.41K.jpg/800px-GarageImage_Meteor_F_Mk_8_G.41K.jpg
+Meteor F Mk.8 Reaper,Britain,V,8.0,962,23.0,40.2,999,495,https://wiki.warthunder.com/images/thumb/7/71/GarageImage_Meteor_F_Mk.8_Reaper.jpg/800px-GarageImage_Meteor_F_Mk.8_Reaper.jpg
+Mosquito FB Mk VI,Britain,III,3.7,618,28.0,8.5,720,390,https://wiki.warthunder.com/images/thumb/b/b0/GarageImage_Mosquito_FB_Mk_VI.jpg/800px-GarageImage_Mosquito_FB_Mk_VI.jpg
+Mosquito FB Mk XVIII,Britain,III,3.0,595,30.0,7.6,720,390,https://wiki.warthunder.com/images/thumb/9/94/GarageImage_Mosquito_FB_Mk_XVIII.jpg/800px-GarageImage_Mosquito_FB_Mk_XVIII.jpg
+▄Mustang Mk IA,Britain,III,3.3,631,20.0,13.1,855,650,https://wiki.warthunder.com/images/thumb/c/cb/GarageImage_Mustang_Mk_IA_%28Great_Britain%29.jpg/800px-GarageImage_Mustang_Mk_IA_%28Great_Britain%29.jpg
+Nimrod Mk I,Britain,I,1.0,394,16.0,15.7,600,N/A,https://wiki.warthunder.com/images/thumb/6/62/GarageImage_Nimrod_Mk_I.jpg/800px-GarageImage_Nimrod_Mk_I.jpg
+Nimrod Mk II,Britain,I,1.0,394,16.0,15.7,600,N/A,https://wiki.warthunder.com/images/thumb/0/07/GarageImage_Nimrod_Mk_II.jpg/800px-GarageImage_Nimrod_Mk_II.jpg
+Osprey Mk IV,Britain,I,1.0,___,__._,__._,0,___,https://wiki.warthunder.com/images/thumb/a/ab/GarageImage_Osprey_Mk_IV.jpg/800px-GarageImage_Osprey_Mk_IV.jpg
+Phantom FG.1,Britain,VII,11.3,"2,268",26.0,210.0,1458,N/A,https://wiki.warthunder.com/images/thumb/8/8b/GarageImage_Phantom_FG.1.jpg/800px-GarageImage_Phantom_FG.1.jpg
+Phantom FGR.2,Britain,VII,11.3,"2,268",26.0,210.0,1458,N/A,https://wiki.warthunder.com/images/thumb/9/90/GarageImage_Phantom_FGR.2.jpg/800px-GarageImage_Phantom_FGR.2.jpg
+Plagis' Spitfire LF Mk IXc,Britain,IV,5.7,690,14.8,31.8,774,N/A,https://wiki.warthunder.com/images/thumb/a/a8/GarageImage_Plagis%27_Spitfire_LF_Mk_IXc.jpg/800px-GarageImage_Plagis%27_Spitfire_LF_Mk_IXc.jpg
+Scimitar F Mk.1,Britain,VI,8.7,"1,163",30.0,102.0,1322,603,https://wiki.warthunder.com/images/thumb/f/f8/GarageImage_Scimitar_F_Mk.1.jpg/800px-GarageImage_Scimitar_F_Mk.1.jpg
+Sea Fury FB 11,Britain,IV,5.7,724,21.0,22.0,826,413,https://wiki.warthunder.com/images/thumb/1/1a/GarageImage_Sea_Fury_FB_11.jpg/800px-GarageImage_Sea_Fury_FB_11.jpg
+Sea Gladiator Mk I,Britain,I,1.0,414,16.0,15.7,560,N/A,https://wiki.warthunder.com/images/thumb/4/42/GarageImage_Sea_Gladiator_Mk_I.jpg/800px-GarageImage_Sea_Gladiator_Mk_I.jpg
+Sea Harrier FRS.1,Britain,VII,10.7,"1,159",32.0,87.0,1191,N/A,https://wiki.warthunder.com/images/thumb/f/f9/GarageImage_Sea_Harrier_FRS.1.jpg/800px-GarageImage_Sea_Harrier_FRS.1.jpg
+Sea Harrier FRS.1 (e),Britain,VII,10.3,___,__._,__._,1191,___,https://wiki.warthunder.com/images/thumb/a/ac/GarageImage_Sea_Harrier_FRS.1_%28e%29.jpg/800px-GarageImage_Sea_Harrier_FRS.1_%28e%29.jpg
+Sea Hawk FGA.6,Britain,V,8.0,933,26.0,32.0,1012,N/A,https://wiki.warthunder.com/images/thumb/5/59/GarageImage_Sea_Hawk_FGA.6.jpg/800px-GarageImage_Sea_Hawk_FGA.6.jpg
+Sea Hurricane Mk IB,Britain,II,2.0,519,16.0,8.6,660,268,https://wiki.warthunder.com/images/thumb/e/ec/GarageImage_Sea_Hurricane_Mk_IB.jpg/800px-GarageImage_Sea_Hurricane_Mk_IB.jpg
+Sea Hurricane Mk IC,Britain,II,3.0,509,17.0,8.0,660,268,https://wiki.warthunder.com/images/thumb/0/0d/GarageImage_Sea_Hurricane_Mk_IC.jpg/800px-GarageImage_Sea_Hurricane_Mk_IC.jpg
+Sea Meteor F Mk 3,Britain,V,7.3,927,20.0,36.0,850,495,https://wiki.warthunder.com/images/thumb/3/35/GarageImage_Sea_Meteor_F_Mk_3.jpg/800px-GarageImage_Sea_Meteor_F_Mk_3.jpg
+Sea Venom FAW 20,Britain,V,7.7,985,25.0,28.0,"1,045",425,https://wiki.warthunder.com/images/thumb/0/04/GarageImage_Sea_Venom_FAW_20.jpg/800px-GarageImage_Sea_Venom_FAW_20.jpg
+Sea Vixen F.A.W. Mk.2,Britain,V,8.7,"1,109",24.0,55.0,"1,195",N/A,https://wiki.warthunder.com/images/thumb/6/6b/GarageImage_Sea_Vixen_F.A.W._Mk.2.jpg/800px-GarageImage_Sea_Vixen_F.A.W._Mk.2.jpg
+Seafire F Mk XVII,Britain,IV,5.3,635,17.0,24.2,787.5,N/A,https://wiki.warthunder.com/images/thumb/6/6b/GarageImage_Seafire_F_Mk_XVII.jpg/800px-GarageImage_Seafire_F_Mk_XVII.jpg
+Seafire FR 47,Britain,IV,5.7,755,20.1,25.6,890,N/A,https://wiki.warthunder.com/images/thumb/7/76/GarageImage_Seafire_FR_47.jpg/800px-GarageImage_Seafire_FR_47.jpg
+Seafire LF Mk.III,Britain,III,5.0,592,16.2,19.5,760,N/A,https://wiki.warthunder.com/images/thumb/6/67/GarageImage_Seafire_LF_Mk.III.jpg/800px-GarageImage_Seafire_LF_Mk.III.jpg
+Shackleton MR.Mk.2,Britain,IV,6.0,515,30.0,10.5,583,425,https://wiki.warthunder.com/images/thumb/2/28/GarageImage_Shackleton_MR.Mk.2.jpg/800px-GarageImage_Shackleton_MR.Mk.2.jpg
+Spitfire F Mk 22,Britain,IV,6.7,740,18.2,23.7,875,N/A,https://wiki.warthunder.com/images/thumb/e/e1/GarageImage_Spitfire_F_Mk_22.jpg/800px-GarageImage_Spitfire_F_Mk_22.jpg
+Spitfire F Mk 24,Britain,IV,7.0,778,17.6,28.3,875,N/A,https://wiki.warthunder.com/images/thumb/e/e2/GarageImage_Spitfire_F_Mk_24.jpg/800px-GarageImage_Spitfire_F_Mk_24.jpg
+Spitfire F Mk IX,Britain,III,4.3,650,17.2,19.5,774,N/A,https://wiki.warthunder.com/images/thumb/3/34/GarageImage_Spitfire_F_Mk_IX.jpg/800px-GarageImage_Spitfire_F_Mk_IX.jpg
+Spitfire F Mk IXc,Britain,III,4.7,642,17.2,18.9,774,N/A,https://wiki.warthunder.com/images/thumb/f/f0/GarageImage_Spitfire_F_Mk_IXc.jpg/800px-GarageImage_Spitfire_F_Mk_IXc.jpg
+Spitfire F Mk XIVc,Britain,IV,5.7,726,17.3,24.3,794,N/A,https://wiki.warthunder.com/images/thumb/b/ba/GarageImage_Spitfire_F_Mk_XIVc.jpg/800px-GarageImage_Spitfire_F_Mk_XIVc.jpg
+Spitfire F Mk XIVe,Britain,IV,5.7,723,17.4,24.5,794,N/A,https://wiki.warthunder.com/images/thumb/f/f5/GarageImage_Spitfire_F_Mk_XIVe.jpg/800px-GarageImage_Spitfire_F_Mk_XIVe.jpg
+Spitfire F Mk XVI,Britain,III,5.0,651,19.8,22.3,774,N/A,https://wiki.warthunder.com/images/thumb/e/e7/GarageImage_Spitfire_F_Mk_XVI.jpg/800px-GarageImage_Spitfire_F_Mk_XVI.jpg
+Spitfire F Mk XVIIIe,Britain,IV,5.7,718,18.1,23.3,798,N/A,https://wiki.warthunder.com/images/thumb/8/8a/GarageImage_Spitfire_F_Mk_XVIIIe.jpg/800px-GarageImage_Spitfire_F_Mk_XVIIIe.jpg
+Prendergast's Spitfire FR Mk XIVe,Britain,IV,5.7,730,20.1,23.7,794,N/A,https://wiki.warthunder.com/images/thumb/4/40/GarageImage_Spitfire_FR_Mk_XIVe.jpg/800px-GarageImage_Spitfire_FR_Mk_XIVe.jpg
+Spitfire LF Mk IX,Britain,IV,5.7,690,14.8,31.8,774,N/A,https://wiki.warthunder.com/images/thumb/e/e0/GarageImage_Spitfire_LF_Mk_IX.jpg/800px-GarageImage_Spitfire_LF_Mk_IX.jpg
+Spitfire Mk Ia,Britain,II,3.0,584,15.0,19.5,760,N/A,https://wiki.warthunder.com/images/thumb/c/cc/GarageImage_Spitfire_Mk_Ia.jpg/800px-GarageImage_Spitfire_Mk_Ia.jpg
+Spitfire Mk IIa,Britain,II,3.0,571,15.1,19.4,760,N/A,https://wiki.warthunder.com/images/thumb/7/7e/GarageImage_Spitfire_Mk_IIa.jpg/800px-GarageImage_Spitfire_Mk_IIa.jpg
+Spitfire Mk IIb,Britain,II,3.7,571,15.1,19.4,760,N/A,https://wiki.warthunder.com/images/thumb/3/31/GarageImage_Spitfire_Mk_IIb.jpg/800px-GarageImage_Spitfire_Mk_IIb.jpg
+Spitfire Mk Vb,Britain,II,4.0,589,16.5,18.0,760,N/A,https://wiki.warthunder.com/images/thumb/a/aa/GarageImage_Spitfire_Mk_Vb.jpg/800px-GarageImage_Spitfire_Mk_Vb.jpg
+Spitfire Mk Vb/trop,Britain,II,3.7,573,16.5,17.8,760,N/A,https://wiki.warthunder.com/images/thumb/a/a7/GarageImage_Spitfire_Mk_Vb_trop.jpg/800px-GarageImage_Spitfire_Mk_Vb_trop.jpg
+Spitfire Mk Vc,Britain,III,5.0,602,16.2,19.7,760,N/A,https://wiki.warthunder.com/images/thumb/a/a8/GarageImage_Spitfire_Mk_Vc.jpg/800px-GarageImage_Spitfire_Mk_Vc.jpg
+Spitfire Mk Vc/trop,Britain,III,4.7,592,16.2,19.5,760,N/A,https://wiki.warthunder.com/images/thumb/e/eb/GarageImage_Spitfire_Mk_Vc_trop.jpg/800px-GarageImage_Spitfire_Mk_Vc_trop.jpg
+Spitfire Mk.IIa Venture I,Britain,II,3.0,571,15.1,19.4,760,N/A,https://wiki.warthunder.com/images/thumb/8/85/GarageImage_Spitfire_Mk.IIa_Venture_I.jpg/800px-GarageImage_Spitfire_Mk.IIa_Venture_I.jpg
+Stirling B Mk I,Britain,III,4.0,396,50.0,7.9,498,338,https://wiki.warthunder.com/images/thumb/3/39/GarageImage_Stirling_B_Mk_I.jpg/800px-GarageImage_Stirling_B_Mk_I.jpg
+Stirling B Mk III,Britain,III,4.7,410,47.0,8.0,498,338,https://wiki.warthunder.com/images/thumb/e/e1/GarageImage_Stirling_B_Mk_III.jpg/800px-GarageImage_Stirling_B_Mk_III.jpg
+Strikemaster Mk.88,Britain,IV,6.3,___,__._,__._,0,___,https://wiki.warthunder.com/images/thumb/f/f9/GarageImage_Strikemaster_Mk.88.jpg/800px-GarageImage_Strikemaster_Mk.88.jpg
+Sunderland Mk IIIa,Britain,II,1.7,394,35.0,6.5,414,395,https://wiki.warthunder.com/images/thumb/8/86/GarageImage_Sunderland_Mk_IIIa.jpg/800px-GarageImage_Sunderland_Mk_IIIa.jpg
+Sunderland Mk V,Britain,II,2.0,401,35.0,7.8,414,395,https://wiki.warthunder.com/images/thumb/b/b6/GarageImage_Sunderland_Mk_V.jpg/800px-GarageImage_Sunderland_Mk_V.jpg
+Swift F.1,Britain,V,8.3,985,25.0,28.0,"1,186",-,https://wiki.warthunder.com/images/thumb/6/64/GarageImage_Swift_F.1.jpg/800px-GarageImage_Swift_F.1.jpg
+Swift F.7,Britain,V,8.7,985,25.0,28.0,"1,167",N/A,https://wiki.warthunder.com/images/thumb/7/7e/GarageImage_Swift_F.7.jpg/800px-GarageImage_Swift_F.7.jpg
+Swordfish Mk I,Britain,I,1.0,226,13.0,9.2,390,N/A,https://wiki.warthunder.com/images/thumb/1/10/GarageImage_Swordfish_Mk_I.jpg/800px-GarageImage_Swordfish_Mk_I.jpg
+Swordfish Mk II,Britain,I,1.0,265,15.0,3.9,390,N/A,https://wiki.warthunder.com/images/thumb/b/bc/GarageImage_Swordfish_Mk_II.jpg/800px-GarageImage_Swordfish_Mk_II.jpg
+Tempest Mk II,Britain,IV,6.0,723,21.0,23.9,879,412,https://wiki.warthunder.com/images/thumb/d/df/GarageImage_Tempest_Mk_II.jpg/800px-GarageImage_Tempest_Mk_II.jpg
+Tempest Mk V,Britain,IV,5.7,703,20.1,20.4,880,412,https://wiki.warthunder.com/images/thumb/0/06/GarageImage_Tempest_Mk_V.jpg/800px-GarageImage_Tempest_Mk_V.jpg
+Tempest Mk V (Vickers P),Britain,II,3.7,671,22.0,20.4,880,412,https://wiki.warthunder.com/images/thumb/1/16/GarageImage_Tempest_Mk_V_%28Vickers_P%29.jpg/800px-GarageImage_Tempest_Mk_V_%28Vickers_P%29.jpg
+▄Thunderbolt Mk.1,Britain,III,3.7,676,25.0,11.5,885,498,https://wiki.warthunder.com/images/thumb/0/06/GarageImage_Thunderbolt_Mk.1_%28Great_Britain%29.jpg/800px-GarageImage_Thunderbolt_Mk.1_%28Great_Britain%29.jpg
+Tornado F.3,Britain,VIII,11.3,"2,308",28.0,191.0,"1,555",-,https://wiki.warthunder.com/images/thumb/6/65/GarageImage_Tornado_F.3.jpg/800px-GarageImage_Tornado_F.3.jpg
+Tornado GR.1,Britain,VIII,11.3,"2,005",31.0,177.0,"1,555",~3,https://wiki.warthunder.com/images/thumb/c/cd/GarageImage_Tornado_GR.1.jpg/800px-GarageImage_Tornado_GR.1.jpg
+Tuck's Gladiator Mk II,Britain,I,1.0,414,16.0,15.7,560,N/A,https://wiki.warthunder.com/images/thumb/3/39/GarageImage_Tuck%27s_Gladiator_Mk_II.jpg/800px-GarageImage_Tuck%27s_Gladiator_Mk_II.jpg
+Typhoon Mk Ia,Britain,II,3.0,634,21.0,17.1,845,401,https://wiki.warthunder.com/images/thumb/c/c5/GarageImage_Typhoon_Mk_Ia.jpg/800px-GarageImage_Typhoon_Mk_Ia.jpg
+Typhoon Mk Ib,Britain,III,4.3,644,20.6,17.3,845,401,https://wiki.warthunder.com/images/thumb/5/51/GarageImage_Typhoon_Mk_Ib.jpg/800px-GarageImage_Typhoon_Mk_Ib.jpg
+Typhoon Mk Ib/L,Britain,III,4.3,671,19.5,19.5,845,401,https://wiki.warthunder.com/images/thumb/7/7c/GarageImage_Typhoon_Mk_Ib_L.jpg/800px-GarageImage_Typhoon_Mk_Ib_L.jpg
+V-156-B1,Britain,I,1.0,360,22.0,6.2,740,-,https://wiki.warthunder.com/images/thumb/6/66/GarageImage_V-156-B1.jpg/800px-GarageImage_V-156-B1.jpg
+Vampire FB 5,Britain,V,8.0,855,24.0,20.0,888,496,https://wiki.warthunder.com/images/thumb/2/24/GarageImage_Vampire_FB_5.jpg/800px-GarageImage_Vampire_FB_5.jpg
+Venom FB.4,Britain,V,8.7,"1,027",22.0,34.2,"1,045",498,https://wiki.warthunder.com/images/thumb/0/06/GarageImage_Venom_FB.4.jpg/800px-GarageImage_Venom_FB.4.jpg
+Walrus Mk.I,Britain,I,1.0,___,__._,__._,0,___,https://wiki.warthunder.com/images/thumb/6/6f/GarageImage_Walrus_Mk.I.jpg/800px-GarageImage_Walrus_Mk.I.jpg
+Wellington Mk Ic,Britain,II,2.3,378,35.0,5.3,530,315,https://wiki.warthunder.com/images/thumb/a/ae/GarageImage_Wellington_Mk_Ic.jpg/800px-GarageImage_Wellington_Mk_Ic.jpg
+Wellington Mk Ic/L,Britain,II,2.7,378,35.0,5.3,530,315,https://wiki.warthunder.com/images/thumb/e/e7/GarageImage_Wellington_Mk_Ic_L.jpg/800px-GarageImage_Wellington_Mk_Ic_L.jpg
+Wellington Mk III,Britain,II,3.0,418,30.0,5.3,530,315,https://wiki.warthunder.com/images/thumb/0/09/GarageImage_Wellington_Mk_III.jpg/800px-GarageImage_Wellington_Mk_III.jpg
+Wellington Mk X,Britain,II,3.3,410,35.0,5.3,530,315,https://wiki.warthunder.com/images/thumb/2/29/GarageImage_Wellington_Mk_X.jpg/800px-GarageImage_Wellington_Mk_X.jpg
+Whirlwind Mk I,Britain,III,3.7,580,23.0,15.0,676,465,https://wiki.warthunder.com/images/thumb/d/d6/GarageImage_Whirlwind_Mk_I.jpg/800px-GarageImage_Whirlwind_Mk_I.jpg
+Whirlwind P.9,Britain,III,3.7,580,23.0,15.0,676,465,https://wiki.warthunder.com/images/thumb/7/77/GarageImage_Whirlwind_P.9.jpg/800px-GarageImage_Whirlwind_P.9.jpg
+▄Wirraway,Britain,I,1.3,338,36.5,6.5,437,381,https://wiki.warthunder.com/images/thumb/9/9f/GarageImage_Wirraway_%28Great_Britain%29.jpg/800px-GarageImage_Wirraway_%28Great_Britain%29.jpg
+Wyvern S4,Britain,IV,4.3,650,32.0,23.0,844,566,https://wiki.warthunder.com/images/thumb/2/25/GarageImage_Wyvern_S4.jpg/800px-GarageImage_Wyvern_S4.jpg
+A5M4,Japan,I,1.3,447,12.3,12.8,558,398,https://wiki.warthunder.com/images/thumb/1/10/GarageImage_A5M4.jpg/800px-GarageImage_A5M4.jpg
+A6M2,Japan,II,3.7,510,17.0,13.3,660,484,https://wiki.warthunder.com/images/thumb/5/57/GarageImage_A6M2.jpg/800px-GarageImage_A6M2.jpg
+A6M2 mod. 11,Japan,II,3.7,510,17.0,13.3,660,484,https://wiki.warthunder.com/images/thumb/5/50/GarageImage_A6M2_mod._11.jpg/800px-GarageImage_A6M2_mod._11.jpg
+A6M2-N,Japan,II,2.3,432,20.0,12.3,650,498,https://wiki.warthunder.com/images/thumb/8/88/GarageImage_A6M2-N.jpg/800px-GarageImage_A6M2-N.jpg
+A6M3,Japan,III,4.0,556,16.0,13.8,630,397,https://wiki.warthunder.com/images/thumb/4/41/GarageImage_A6M3.jpg/800px-GarageImage_A6M3.jpg
+A6M3 mod. 22,Japan,III,4.3,542,15.5,13.8,660,397,https://wiki.warthunder.com/images/thumb/4/4e/GarageImage_A6M3_mod._22.jpg/800px-GarageImage_A6M3_mod._22.jpg
+A6M3 mod. 22Ko,Japan,III,5.0,542,15.5,13.8,660,397,https://wiki.warthunder.com/images/thumb/b/b9/GarageImage_A6M3_mod._22Ko.jpg/800px-GarageImage_A6M3_mod._22Ko.jpg
+A6M5,Japan,III,5.0,565,16.0,15.6,703,397,https://wiki.warthunder.com/images/thumb/d/d2/GarageImage_A6M5.jpg/800px-GarageImage_A6M5.jpg
+A6M5 Hei,Japan,IV,5.0,540,20.0,11.1,740,397,https://wiki.warthunder.com/images/thumb/8/89/GarageImage_A6M5_Hei.jpg/800px-GarageImage_A6M5_Hei.jpg
+A6M5 Ko,Japan,IV,5.0,540,16.0,16.9,740,397,https://wiki.warthunder.com/images/thumb/a/ad/GarageImage_A6M5_Ko.jpg/800px-GarageImage_A6M5_Ko.jpg
+A6M5 otsu,Japan,IV,5.3,540,16.0,16.9,740,397,https://wiki.warthunder.com/images/thumb/c/cf/GarageImage_A6M5_otsu.jpg/800px-GarageImage_A6M5_otsu.jpg
+A6M6c,Japan,IV,5.0,543,20.0,10.7,740,398,https://wiki.warthunder.com/images/thumb/3/30/GarageImage_A6M6c.jpg/800px-GarageImage_A6M6c.jpg
+A7He1,Japan,II,2.0,502,19.0,13.8,730,498,https://wiki.warthunder.com/images/thumb/3/31/GarageImage_A7He1.jpg/800px-GarageImage_A7He1.jpg
+A7M1 (NK9H),Japan,IV,5.0,617,15.0,16.9,826,484,https://wiki.warthunder.com/images/thumb/2/20/GarageImage_A7M1_%28NK9H%29.jpg/800px-GarageImage_A7M1_%28NK9H%29.jpg
+A7M2,Japan,IV,5.3,630,19.0,18.5,826,484,https://wiki.warthunder.com/images/thumb/b/bf/GarageImage_A7M2.jpg/800px-GarageImage_A7M2.jpg
+Aichi E13A1,Japan,I,1.3,___,__._,__._,0,___,https://wiki.warthunder.com/images/thumb/d/d4/GarageImage_Aichi_E13A1.jpg/800px-GarageImage_Aichi_E13A1.jpg
+▅B-17E,Japan,IV,4.7,510,36.0,7.2,516,383,https://wiki.warthunder.com/images/thumb/f/fb/GarageImage_B-17E_%28Japan%29.jpg/800px-GarageImage_B-17E_%28Japan%29.jpg
+B5N2,Japan,I,1.3,378,19.4,6.5,555,404,https://wiki.warthunder.com/images/thumb/c/cb/GarageImage_B5N2.jpg/800px-GarageImage_B5N2.jpg
+B6N1 Model 11,Japan,I,1.7,464,21.0,11.1,650,368,https://wiki.warthunder.com/images/thumb/d/db/GarageImage_B6N1_Model_11.jpg/800px-GarageImage_B6N1_Model_11.jpg
+B6N2 Model 12,Japan,II,2.3,481,21.0,11.5,650,368,https://wiki.warthunder.com/images/thumb/9/93/GarageImage_B6N2_Model_12.jpg/800px-GarageImage_B6N2_Model_12.jpg
+B6N2a Model 12Ko,Japan,II,2.3,481,21.0,11.5,650,368,https://wiki.warthunder.com/images/thumb/3/33/GarageImage_B6N2a_Model_12Ko.jpg/800px-GarageImage_B6N2a_Model_12Ko.jpg
+B7A2,Japan,III,3.7,565,28.0,10.4,680,457,https://wiki.warthunder.com/images/thumb/3/38/GarageImage_B7A2.jpg/800px-GarageImage_B7A2.jpg
+B7A2 (Homare 23),Japan,III,3.7,586,20.0,14.9,680,457,https://wiki.warthunder.com/images/thumb/e/e9/GarageImage_B7A2_%28Homare_23%29.jpg/800px-GarageImage_B7A2_%28Homare_23%29.jpg
+▅Bf 109 E-7,Japan,II,3.0,570,20.0,17.8,790,487,https://wiki.warthunder.com/images/thumb/6/68/GarageImage_Bf_109_E-7_%28Japan%29.jpg/800px-GarageImage_Bf_109_E-7_%28Japan%29.jpg
+D3A1,Japan,I,1.3,430,29.2,8.6,600,458,https://wiki.warthunder.com/images/thumb/c/ce/GarageImage_D3A1.jpg/800px-GarageImage_D3A1.jpg
+D4Y1,Japan,II,2.0,552,23.0,9.3,750,457,https://wiki.warthunder.com/images/thumb/3/34/GarageImage_D4Y1.jpg/800px-GarageImage_D4Y1.jpg
+D4Y2,Japan,II,2.3,580,23.0,10.9,750,457,https://wiki.warthunder.com/images/thumb/2/23/GarageImage_D4Y2.jpg/800px-GarageImage_D4Y2.jpg
+D4Y3 Ko,Japan,II,3.0,574,22.0,10.4,750,457,https://wiki.warthunder.com/images/thumb/b/b6/GarageImage_D4Y3_Ko.jpg/800px-GarageImage_D4Y3_Ko.jpg
+E7K2,Japan,I,1.3,___,__._,__._,0,___,https://wiki.warthunder.com/images/thumb/f/f3/GarageImage_E7K2.jpg/800px-GarageImage_E7K2.jpg
+E8N2,Japan,I,1.3,___,__._,__._,0,___,https://wiki.warthunder.com/images/thumb/a/ae/GarageImage_E8N2.jpg/800px-GarageImage_E8N2.jpg
+F-1,Japan,VI,10.3,"1,710",33.0,138.0,"1,365",735,https://wiki.warthunder.com/images/thumb/c/ce/GarageImage_F-1.jpg/800px-GarageImage_F-1.jpg
+F-104J,Japan,VI,10.3,"2,387",34.0,260.0,"1,527",N/A,https://wiki.warthunder.com/images/thumb/3/35/GarageImage_F-104J.jpg/800px-GarageImage_F-104J.jpg
+F-16AJ,Japan,VIII,12.0,"2,156",19.5,305.0,"1,555",-,https://wiki.warthunder.com/images/thumb/6/67/GarageImage_F-16AJ.jpg/800px-GarageImage_F-16AJ.jpg
+F-4EJ ADTW,Japan,VII,11.0,"2,340",26.0,172.0,1458,N/A,https://wiki.warthunder.com/images/thumb/e/ea/GarageImage_F-4EJ_ADTW.jpg/800px-GarageImage_F-4EJ_ADTW.jpg
+F-4EJ Kai Phantom II,Japan,VIII,11.7,"2,340",26.0,172.0,1458,N/A,https://wiki.warthunder.com/images/thumb/c/c4/GarageImage_F-4EJ_Kai_Phantom_II.jpg/800px-GarageImage_F-4EJ_Kai_Phantom_II.jpg
+F-4EJ Phantom II,Japan,VII,11.0,"2,340",26.0,172.0,1458,N/A,https://wiki.warthunder.com/images/thumb/3/3d/GarageImage_F-4EJ_Phantom_II.jpg/800px-GarageImage_F-4EJ_Phantom_II.jpg
+F-86F-30 ▅,Japan,V,8.7,"1,106",24.0,46.7,"1,170",590,https://wiki.warthunder.com/images/thumb/5/53/GarageImage_F-86F-30_%28Japan%29.jpg/800px-GarageImage_F-86F-30_%28Japan%29.jpg
+F-86F-40 ▅,Japan,V,9.0,"1,106",23.0,46.5,"1,170",590,https://wiki.warthunder.com/images/thumb/4/47/GarageImage_F-86F-40_%28Japan%29.jpg/800px-GarageImage_F-86F-40_%28Japan%29.jpg
+F-86F-40 JASDF▅,Japan,V,9.0,"1,106",23.0,46.5,"1,170",590,https://wiki.warthunder.com/images/thumb/9/96/GarageImage_F-86F-40_JASDF_%28Japan%29.jpg/800px-GarageImage_F-86F-40_JASDF_%28Japan%29.jpg
+F1M2,Japan,I,1.0,412,17.0,13.6,550,356,https://wiki.warthunder.com/images/thumb/9/9e/GarageImage_F1M2.jpg/800px-GarageImage_F1M2.jpg
+▅F4U-1A,Japan,II,3.0,683,24.0,12.3,885,388,https://wiki.warthunder.com/images/thumb/6/6d/GarageImage_F4U-1A_%28Japan%29.jpg/800px-GarageImage_F4U-1A_%28Japan%29.jpg
+▅Fw 190 A-5,Japan,IV,4.7,648,22.0,14.1,912,-,https://wiki.warthunder.com/images/thumb/3/3d/GarageImage_Fw_190_A-5_%28Japan%29.jpg/800px-GarageImage_Fw_190_A-5_%28Japan%29.jpg
+G4M1,Japan,II,2.7,452,32.0,7.2,540,427,https://wiki.warthunder.com/images/thumb/e/ec/GarageImage_G4M1.jpg/800px-GarageImage_G4M1.jpg
+G5N1,Japan,III,4.3,402,28.0,6.1,520,363,https://wiki.warthunder.com/images/thumb/4/42/GarageImage_G5N1.jpg/800px-GarageImage_G5N1.jpg
+G8N1,Japan,IV,6.0,512,24.4,7.2,680,332,https://wiki.warthunder.com/images/thumb/6/68/GarageImage_G8N1.jpg/800px-GarageImage_G8N1.jpg
+H6K4,Japan,I,1.7,325,22.6,6.9,0,498,https://wiki.warthunder.com/images/thumb/c/c3/GarageImage_H6K4.jpg/800px-GarageImage_H6K4.jpg
+H8K2,Japan,II,3.7,476,33.0,6.5,560,402,https://wiki.warthunder.com/images/thumb/6/6d/GarageImage_H8K2.jpg/800px-GarageImage_H8K2.jpg
+H8K3,Japan,II,4.0,541,33.0,7.3,560,402,https://wiki.warthunder.com/images/thumb/2/23/GarageImage_H8K3.jpg/800px-GarageImage_H8K3.jpg
+Hagiri's A5M4,Japan,I,1.3,447,12.3,12.8,558,398,https://wiki.warthunder.com/images/thumb/0/0e/GarageImage_Hagiri%27s_A5M4.jpg/800px-GarageImage_Hagiri%27s_A5M4.jpg
+J1N1,Japan,II,2.0,522,25.0,9.6,712.5,432,https://wiki.warthunder.com/images/thumb/0/04/GarageImage_J1N1.jpg/800px-GarageImage_J1N1.jpg
+J2M2,Japan,III,4.7,596,19.0,21.2,0,488,https://wiki.warthunder.com/images/thumb/3/39/GarageImage_J2M2.jpg/800px-GarageImage_J2M2.jpg
+J2M3,Japan,IV,5.7,596,19.0,21.3,0,488,https://wiki.warthunder.com/images/thumb/f/fb/GarageImage_J2M3.jpg/800px-GarageImage_J2M3.jpg
+J2M4 Kai,Japan,IV,5.0,637,21.0,17.3,820,488,https://wiki.warthunder.com/images/thumb/8/8a/GarageImage_J2M4_Kai.jpg/800px-GarageImage_J2M4_Kai.jpg
+J2M5,Japan,IV,5.7,615,19.0,17.5,0,488,https://wiki.warthunder.com/images/thumb/b/b4/GarageImage_J2M5.jpg/800px-GarageImage_J2M5.jpg
+J2M5,Japan,IV,4.7,615,19.0,17.5,820,488,https://wiki.warthunder.com/images/thumb/5/5d/GarageImage_J2M5_30mm.jpg/800px-GarageImage_J2M5_30mm.jpg
+J5N1,Japan,III,5.7,663,27.0,18,810,431,https://wiki.warthunder.com/images/thumb/f/f6/GarageImage_J5N1.jpg/800px-GarageImage_J5N1.jpg
+J6K1,Japan,IV,6.3,686,18.0,16.0,780,460,https://wiki.warthunder.com/images/thumb/6/60/GarageImage_J6K1.jpg/800px-GarageImage_J6K1.jpg
+J7W1,Japan,IV,6.0,750,30.0,18.6,900,498,https://wiki.warthunder.com/images/thumb/9/95/GarageImage_J7W1.jpg/800px-GarageImage_J7W1.jpg
+Ki-10-I,Japan,I,1.0,402,16.0,15.7,600,N/A,https://wiki.warthunder.com/images/thumb/c/ce/GarageImage_Ki-10-I.jpg/800px-GarageImage_Ki-10-I.jpg
+Ki-10-I C,Japan,I,1.0,402,16.0,15.7,600,N/A,https://wiki.warthunder.com/images/thumb/4/47/GarageImage_Ki-10-I_C.jpg/800px-GarageImage_Ki-10-I_C.jpg
+Ki-10-II,Japan,I,1.0,402,16.0,15.7,600,N/A,https://wiki.warthunder.com/images/thumb/9/91/GarageImage_Ki-10-II.jpg/800px-GarageImage_Ki-10-II.jpg
+Ki-10-II C,Japan,I,1.0,402,16.0,15.7,600,N/A,https://wiki.warthunder.com/images/thumb/0/07/GarageImage_Ki-10-II_C.jpg/800px-GarageImage_Ki-10-II_C.jpg
+Ki-100,Japan,III,4.0,580,20.0,13.8,850,292,https://wiki.warthunder.com/images/thumb/1/15/GarageImage_Ki-100.jpg/800px-GarageImage_Ki-100.jpg
+Ki-100-II,Japan,III,3.7,590,21.0,13.5,850,292,https://wiki.warthunder.com/images/thumb/c/ca/GarageImage_Ki-100-II.jpg/800px-GarageImage_Ki-100-II.jpg
+Ki-102 otsu,Japan,II,3.3,580,24.5,19.5,762,437,https://wiki.warthunder.com/images/thumb/5/53/GarageImage_Ki-102_otsu.jpg/800px-GarageImage_Ki-102_otsu.jpg
+Ki-108 Kai,Japan,III,3.7,622,21.0,12.1,762,437,https://wiki.warthunder.com/images/thumb/8/89/GarageImage_Ki-108_Kai.jpg/800px-GarageImage_Ki-108_Kai.jpg
+Ki-109,Japan,I,2.0,550,20.0,10.9,650,428,https://wiki.warthunder.com/images/thumb/5/52/GarageImage_Ki-109.jpg/800px-GarageImage_Ki-109.jpg
+Ki-200,Japan,V,8.7,995,17.0,47.4,1040,598,https://wiki.warthunder.com/images/thumb/8/82/GarageImage_Ki-200.jpg/800px-GarageImage_Ki-200.jpg
+Ki-21-I hei,Japan,II,2.0,432,14.0,5.9,540,428,https://wiki.warthunder.com/images/thumb/3/3c/GarageImage_Ki-21-I_hei.jpg/800px-GarageImage_Ki-21-I_hei.jpg
+Ki-21-Ia,Japan,I,1.7,432,14.0,5.9,540,428,https://wiki.warthunder.com/images/thumb/b/b4/GarageImage_Ki-21-Ia.jpg/800px-GarageImage_Ki-21-Ia.jpg
+Ki-27 otsu,Japan,I,2.0,495,10.0,12.8,554,N/A,https://wiki.warthunder.com/images/thumb/a/a7/GarageImage_Ki-27_otsu.jpg/800px-GarageImage_Ki-27_otsu.jpg
+Ki-27 otsu Tachiarai,Japan,I,2.0,495,10.0,12.8,554,N/A,https://wiki.warthunder.com/images/thumb/8/8e/GarageImage_Ki-27_otsu_Tachiarai.jpg/800px-GarageImage_Ki-27_otsu_Tachiarai.jpg
+Ki-32,Japan,I,1.3,423,14.0,7.6,600,564,https://wiki.warthunder.com/images/thumb/5/58/GarageImage_Ki-32.jpg/800px-GarageImage_Ki-32.jpg
+Ki-43-I,Japan,I,2.7,495,14.0,15.3,630,416,https://wiki.warthunder.com/images/thumb/9/95/GarageImage_Ki-43-I.jpg/800px-GarageImage_Ki-43-I.jpg
+Ki-43-II,Japan,I,2.7,558,15.0,15.3,661,416,https://wiki.warthunder.com/images/thumb/1/1f/GarageImage_Ki-43-II.jpg/800px-GarageImage_Ki-43-II.jpg
+Ki-43-III otsu,Japan,III,4.0,574,16.0,16.6,661,387,https://wiki.warthunder.com/images/thumb/2/2f/GarageImage_Ki-43-III_otsu.jpg/800px-GarageImage_Ki-43-III_otsu.jpg
+Ki-44-I,Japan,II,2.7,558,16.5,21.6,850,400,https://wiki.warthunder.com/images/thumb/f/f6/GarageImage_Ki-44-I.jpg/800px-GarageImage_Ki-44-I.jpg
+Ki-44-I 34,Japan,II,2.7,558,16.5,21.6,850,400,https://wiki.warthunder.com/images/thumb/c/ce/GarageImage_Ki-44-I_34.jpg/800px-GarageImage_Ki-44-I_34.jpg
+Ki-44-II hei,Japan,II,3.7,606,20.0,18.8,850,400,https://wiki.warthunder.com/images/thumb/c/c8/GarageImage_Ki-44-II_hei.jpg/800px-GarageImage_Ki-44-II_hei.jpg
+Ki-44-II otsu,Japan,II,3.0,605,21.0,18.3,850,400,https://wiki.warthunder.com/images/thumb/a/a0/GarageImage_Ki-44-II_otsu.jpg/800px-GarageImage_Ki-44-II_otsu.jpg
+Ki-45 hei,Japan,I,2.3,570,24.0,19.5,712.5,450,https://wiki.warthunder.com/images/thumb/e/ef/GarageImage_Ki-45_hei.jpg/800px-GarageImage_Ki-45_hei.jpg
+Ki-45 ko,Japan,I,2.7,570,24.0,19.5,712.5,450,https://wiki.warthunder.com/images/thumb/d/d7/GarageImage_Ki-45_ko.jpg/800px-GarageImage_Ki-45_ko.jpg
+Ki-45 otsu,Japan,I,2.3,570,24.0,19.5,712.5,450,https://wiki.warthunder.com/images/thumb/2/2c/GarageImage_Ki-45_otsu.jpg/800px-GarageImage_Ki-45_otsu.jpg
+Ki-45 tei,Japan,I,1.7,570,24.0,19.5,712.5,450,https://wiki.warthunder.com/images/thumb/5/50/GarageImage_Ki-45_tei.jpg/800px-GarageImage_Ki-45_tei.jpg
+Ki-48-II otsu,Japan,II,2.3,499,28.0,10.6,650,428,https://wiki.warthunder.com/images/thumb/7/7b/GarageImage_Ki-48-II_otsu.jpg/800px-GarageImage_Ki-48-II_otsu.jpg
+Ki-49-I,Japan,II,3.0,466,29.0,12.5,580,412,https://wiki.warthunder.com/images/thumb/9/92/GarageImage_Ki-49-I.jpg/800px-GarageImage_Ki-49-I.jpg
+Ki-49-IIa,Japan,II,3.0,502,30.0,12.5,580,427,https://wiki.warthunder.com/images/thumb/6/66/GarageImage_Ki-49-IIa.jpg/800px-GarageImage_Ki-49-IIa.jpg
+Ki-49-IIb,Japan,III,3.7,502,30.0,12.5,610,427,https://wiki.warthunder.com/images/thumb/8/81/GarageImage_Ki-49-IIb.jpg/800px-GarageImage_Ki-49-IIb.jpg
+Ki-49-IIb/L,Japan,III,3.7,502,30.0,12.5,580,427,https://wiki.warthunder.com/images/thumb/5/5f/GarageImage_Ki-49-IIb_L.jpg/800px-GarageImage_Ki-49-IIb_L.jpg
+Ki-61-I hei,Japan,IV,4.7,591,21.0,10.0,850,292,https://wiki.warthunder.com/images/thumb/1/1c/GarageImage_Ki-61-I_hei.jpg/800px-GarageImage_Ki-61-I_hei.jpg
+Ki-61-I hei Tada's,Japan,IV,4.7,591,21.0,10.0,850,292,https://wiki.warthunder.com/images/thumb/a/a9/GarageImage_Ki-61-I_hei_Tada%27s.jpg/800px-GarageImage_Ki-61-I_hei_Tada%27s.jpg
+Ki-61-I ko,Japan,II,3.3,590,19.8,11.6,850,292,https://wiki.warthunder.com/images/thumb/b/b1/GarageImage_Ki-61-I_ko.jpg/800px-GarageImage_Ki-61-I_ko.jpg
+Ki-61-I otsu,Japan,II,3.7,587,20.3,11.0,850,292,https://wiki.warthunder.com/images/thumb/6/6d/GarageImage_Ki-61-I_otsu.jpg/800px-GarageImage_Ki-61-I_otsu.jpg
+Ki-61-I tei,Japan,III,4.3,580,21.0,11.9,850,292,https://wiki.warthunder.com/images/thumb/a/a0/GarageImage_Ki-61-I_tei.jpg/800px-GarageImage_Ki-61-I_tei.jpg
+Ki-61-II Otsu Kai,Japan,III,4.7,625,20.0,12.8,850,292,https://wiki.warthunder.com/images/thumb/c/c1/GarageImage_Ki-61-II_Otsu_Kai.jpg/800px-GarageImage_Ki-61-II_Otsu_Kai.jpg
+Ki-67-I Ko,Japan,III,4.3,502,30.0,12.5,650,427,https://wiki.warthunder.com/images/thumb/a/a0/GarageImage_Ki-67-I_Ko.jpg/800px-GarageImage_Ki-67-I_Ko.jpg
+Ki-67-I otsu,Japan,III,4.7,502,30.0,12.5,650,427,https://wiki.warthunder.com/images/thumb/8/8c/GarageImage_Ki-67-I_otsu.jpg/800px-GarageImage_Ki-67-I_otsu.jpg
+Ki-83,Japan,IV,6.0,704,24.0,21.7,870,525,https://wiki.warthunder.com/images/thumb/4/47/GarageImage_Ki-83.jpg/800px-GarageImage_Ki-83.jpg
+Ki-84 hei,Japan,IV,6.3,692,19.4,17.9,837,470,https://wiki.warthunder.com/images/thumb/2/25/GarageImage_Ki-84_hei.jpg/800px-GarageImage_Ki-84_hei.jpg
+Ki-84 ko,Japan,IV,5.3,692,19.4,17.9,837,470,https://wiki.warthunder.com/images/thumb/e/e6/GarageImage_Ki-84_ko.jpg/800px-GarageImage_Ki-84_ko.jpg
+Ki-84 otsu,Japan,IV,5.7,692,19.4,17.9,837,470,https://wiki.warthunder.com/images/thumb/1/11/GarageImage_Ki-84_otsu.jpg/800px-GarageImage_Ki-84_otsu.jpg
+Ki-87,Japan,IV,5.7,707,22.0,15.0,880,457,https://wiki.warthunder.com/images/thumb/4/4a/GarageImage_Ki-87.jpg/800px-GarageImage_Ki-87.jpg
+Ki-94-II,Japan,IV,6.0,720,23.0,17.0,850,580,https://wiki.warthunder.com/images/thumb/1/18/GarageImage_Ki-94-II.jpg/800px-GarageImage_Ki-94-II.jpg
+Ki-96,Japan,III,3.7,600,24.0,19.5,762,437,https://wiki.warthunder.com/images/thumb/f/f7/GarageImage_Ki-96.jpg/800px-GarageImage_Ki-96.jpg
+Kikka,Japan,V,7.0,875,22.0,26.0,980,558,https://wiki.warthunder.com/images/thumb/6/6a/GarageImage_Kikka.jpg/800px-GarageImage_Kikka.jpg
+N1K1,Japan,II,2.3,489,19.0,14.9,600,394,https://wiki.warthunder.com/images/thumb/0/03/GarageImage_N1K1.jpg/800px-GarageImage_N1K1.jpg
+N1K1-Ja,Japan,IV,5.3,614,18.0,17.8,780,487,https://wiki.warthunder.com/images/thumb/e/e5/GarageImage_N1K1-Ja.jpg/800px-GarageImage_N1K1-Ja.jpg
+N1K2-J,Japan,IV,6.0,650,19.0,18.2,780,498,https://wiki.warthunder.com/images/thumb/a/aa/GarageImage_N1K2-J.jpg/800px-GarageImage_N1K2-J.jpg
+N1K2-Ja,Japan,IV,6.0,650,19.0,18.2,780,498,https://wiki.warthunder.com/images/thumb/6/66/GarageImage_N1K2-Ja.jpg/800px-GarageImage_N1K2-Ja.jpg
+▅P-51C-11-NT,Japan,III,3.7,708,21.0,16.2,853,676,https://wiki.warthunder.com/images/thumb/6/64/GarageImage_P-51C-11-NT_%28Japan%29.jpg/800px-GarageImage_P-51C-11-NT_%28Japan%29.jpg
+P1Y1 mod. 11,Japan,III,3.3,546,26.0,10.2,680,431,https://wiki.warthunder.com/images/thumb/4/49/GarageImage_P1Y1_mod._11.jpg/800px-GarageImage_P1Y1_mod._11.jpg
+R2Y2 Kai V1,Japan,V,8.0,851,30.0,20.0,960,498,https://wiki.warthunder.com/images/thumb/a/a9/GarageImage_R2Y2_Kai_V1.jpg/800px-GarageImage_R2Y2_Kai_V1.jpg
+R2Y2 Kai V2,Japan,V,8.0,863,30.0,20.0,960,498,https://wiki.warthunder.com/images/thumb/c/c0/GarageImage_R2Y2_Kai_V2.jpg/800px-GarageImage_R2Y2_Kai_V2.jpg
+R2Y2 Kai V3,Japan,V,8.0,860,28.0,20.0,960,498,https://wiki.warthunder.com/images/thumb/6/63/GarageImage_R2Y2_Kai_V3.jpg/800px-GarageImage_R2Y2_Kai_V3.jpg
+T-2,Japan,VI,9.7,"1,710",33.0,140.0,"1,365",735,https://wiki.warthunder.com/images/thumb/2/2d/GarageImage_T-2.jpg/800px-GarageImage_T-2.jpg
+T-2 Early,Japan,VI,9.7,"1,710",33.0,140.0,"1,365",735,https://wiki.warthunder.com/images/thumb/3/3b/GarageImage_T-2_Early.jpg/800px-GarageImage_T-2_Early.jpg
+A-29,China,II,2.0,410,26.0,9.5,564,328,https://wiki.warthunder.com/images/thumb/c/c5/GarageImage_A-29.jpg/800px-GarageImage_A-29.jpg
+A-5C,China,VI,10.0,"1,447",25.0,162.0,"1,260",N/A,https://wiki.warthunder.com/images/thumb/f/f9/GarageImage_A-5C.jpg/800px-GarageImage_A-5C.jpg
+␗A6M2,China,III,3.7,510,17.0,13.3,660,484,https://wiki.warthunder.com/images/thumb/e/ea/GarageImage_A6M2_%28China%29.jpg/800px-GarageImage_A6M2_%28China%29.jpg
+␗B-25J-30,China,III,4.0,444,31.0,7.7,591,382,https://wiki.warthunder.com/images/thumb/5/50/GarageImage_B-25J-30_%28China%29.jpg/800px-GarageImage_B-25J-30_%28China%29.jpg
+CW-21,China,I,2.7,505,14.0,18.2,735,355,https://wiki.warthunder.com/images/thumb/3/38/GarageImage_CW-21.jpg/800px-GarageImage_CW-21.jpg
+D.510C,China,I,1.3,394,13.0,19.2,576,-,https://wiki.warthunder.com/images/thumb/6/6e/GarageImage_D.510C.jpg/800px-GarageImage_D.510C.jpg
+␗DB-3A,China,II,2.7,406,34.0,9.3,600,N/A,https://wiki.warthunder.com/images/thumb/e/ed/GarageImage_DB-3A_%28China%29.jpg/800px-GarageImage_DB-3A_%28China%29.jpg
+␗F-100A,China,VI,9.3,"1,458",29.0,132.0,1361,-,https://wiki.warthunder.com/images/thumb/7/75/GarageImage_F-100A_%28China%29.jpg/800px-GarageImage_F-100A_%28China%29.jpg
+␗F-100F,China,VI,9.3,___,__._,__._,1361,620,https://wiki.warthunder.com/images/thumb/d/d3/GarageImage_F-100F_%28China%29.jpg/800px-GarageImage_F-100F_%28China%29.jpg
+␗F-104A,China,VI,9.3,"2,149",32.0,220.0,"1,527",N/A,https://wiki.warthunder.com/images/thumb/4/4a/GarageImage_F-104A_%28China%29.jpg/800px-GarageImage_F-104A_%28China%29.jpg
+␗F-104G,China,VII,10.7,"2,387",34.0,260.0,"1,527",N/A,https://wiki.warthunder.com/images/thumb/8/88/GarageImage_F-104G_%28China%29.jpg/800px-GarageImage_F-104G_%28China%29.jpg
+␗F-16A MLU,China,VIII,12.0,"2,146",19.8,295.0,"1,555",N/A,https://wiki.warthunder.com/images/thumb/2/22/GarageImage_F-16A_MLU_%28China%29.jpg/800px-GarageImage_F-16A_MLU_%28China%29.jpg
+␗F-5A,China,VII,10.7,"1,444",27.0,135.0,1458,926,https://wiki.warthunder.com/images/thumb/9/9d/GarageImage_F-5A_%28China%29.jpg/800px-GarageImage_F-5A_%28China%29.jpg
+␗F-5E,China,VII,10.7,"1,777",26.0,149.1,1458,"1,018",https://wiki.warthunder.com/images/thumb/d/da/GarageImage_F-5E_%28China%29.jpg/800px-GarageImage_F-5E_%28China%29.jpg
+␗F-84G-21-RE,China,V,7.7,985,28.0,36.2,1044.75,527,https://wiki.warthunder.com/images/thumb/9/9a/GarageImage_F-84G-21-RE_%28China%29.jpg/800px-GarageImage_F-84G-21-RE_%28China%29.jpg
+␗F-84G-31-RE,China,V,7.7,985,28.0,36.2,1044.75,527,https://wiki.warthunder.com/images/thumb/5/57/GarageImage_F-84G-31-RE_%28China%29.jpg/800px-GarageImage_F-84G-31-RE_%28China%29.jpg
+␗F-86F-30,China,V,8.7,"1,106",24.0,46.7,"1,170",590,https://wiki.warthunder.com/images/thumb/6/66/GarageImage_F-86F-30_%28China%29.jpg/800px-GarageImage_F-86F-30_%28China%29.jpg
+␗F-86F-40,China,V,9.0,"1,106",23.0,46.5,"1,170",590,https://wiki.warthunder.com/images/thumb/a/a0/GarageImage_F-86F-40_%28China%29.jpg/800px-GarageImage_F-86F-40_%28China%29.jpg
+␗Gladiator Mk I,China,I,1.0,414,16.0,15.7,560,N/A,https://wiki.warthunder.com/images/thumb/8/85/GarageImage_Gladiator_Mk_I_%28China%29.jpg/800px-GarageImage_Gladiator_Mk_I_%28China%29.jpg
+H-5,China,V,8.0,905,48.0,20.0,810,577,https://wiki.warthunder.com/images/thumb/4/40/GarageImage_H-5.jpg/800px-GarageImage_H-5.jpg
+H-81A-2,China,II,2.3,561,19.0,12.0,795,595,https://wiki.warthunder.com/images/thumb/f/f2/GarageImage_H-81A-2.jpg/800px-GarageImage_H-81A-2.jpg
+Hawk III,China,I,1.0,444,13.3,15.2,600,N/A,https://wiki.warthunder.com/images/thumb/2/24/GarageImage_Hawk_III.jpg/800px-GarageImage_Hawk_III.jpg
+␗Hs 123 A-1,China,I,1.0,310,15.0,12.0,577,300,https://wiki.warthunder.com/images/thumb/b/bd/GarageImage_Hs_123_A-1_%28China%29.jpg/800px-GarageImage_Hs_123_A-1_%28China%29.jpg
+␗I-153 M-62,China,I,2.3,444,13.3,15.2,580,N/A,https://wiki.warthunder.com/images/thumb/0/08/GarageImage_I-153_M-62_%28China%29.jpg/800px-GarageImage_I-153_M-62_%28China%29.jpg
+␗I-15bis,China,I,1.0,380,10.5,14.2,580,-,https://wiki.warthunder.com/images/thumb/8/83/GarageImage_I-15bis_%28China%29.jpg/800px-GarageImage_I-15bis_%28China%29.jpg
+␗I-16 Chung 28,China,I,1.3,445,15.0,18.5,660,700,https://wiki.warthunder.com/images/thumb/a/a0/GarageImage_I-16_Chung_28_%28China%29.jpg/800px-GarageImage_I-16_Chung_28_%28China%29.jpg
+␗I-16 type 10,China,II,2.0,453,16.7,19.8,700,N/A,https://wiki.warthunder.com/images/thumb/3/37/GarageImage_I-16_type_10_%28China%29.jpg/800px-GarageImage_I-16_type_10_%28China%29.jpg
+␗I-16 type 17,China,II,3.3,461,16.5,18.5,700,N/A,https://wiki.warthunder.com/images/thumb/0/05/GarageImage_I-16_type_17_%28China%29.jpg/800px-GarageImage_I-16_type_17_%28China%29.jpg
+␗I-16 type 5,China,I,1.3,445,15.0,18.5,700,700,https://wiki.warthunder.com/images/thumb/7/7d/GarageImage_I-16_type_5_%28China%29.jpg/800px-GarageImage_I-16_type_5_%28China%29.jpg
+␗IL-10 (1946),China,IV,5.0,528,24.0,10.4,720,496,https://wiki.warthunder.com/images/thumb/6/67/GarageImage_IL-10_%281946%29_%28China%29.jpg/800px-GarageImage_IL-10_%281946%29_%28China%29.jpg
+J-2,China,V,8.7,"1,076",20.7,50.0,"1,132",-,https://wiki.warthunder.com/images/thumb/8/8b/GarageImage_J-2.jpg/800px-GarageImage_J-2.jpg
+J-4,China,V,9.0,"1,114",21.5,50.0,"1,150",-,https://wiki.warthunder.com/images/thumb/9/92/GarageImage_J-4.jpg/800px-GarageImage_J-4.jpg
+J-6A,China,VI,9.3,"1,436",32.0,180.0,1260,N/A,https://wiki.warthunder.com/images/thumb/3/32/GarageImage_J-6A.jpg/800px-GarageImage_J-6A.jpg
+J-7D,China,VII,11.0,"2,419",26.0,170.0,1365,-,https://wiki.warthunder.com/images/thumb/0/00/GarageImage_J-7D.jpg/800px-GarageImage_J-7D.jpg
+J-7E,China,VII,11.0,"2,387",24.0,180.0,1365,-,https://wiki.warthunder.com/images/thumb/c/cd/GarageImage_J-7E.jpg/800px-GarageImage_J-7E.jpg
+J-7II,China,VI,9.3,"2,262",33.0,135.0,1365,N/A,https://wiki.warthunder.com/images/thumb/0/03/GarageImage_J-7II.jpg/800px-GarageImage_J-7II.jpg
+J-8B,China,VII,11.0,"2,300",27.0,200.0,"1,365",N/A,https://wiki.warthunder.com/images/thumb/8/87/GarageImage_J-8B.jpg/800px-GarageImage_J-8B.jpg
+J-8F,China,VIII,11.7,"2,300",27.0,220.0,"1,365",-,https://wiki.warthunder.com/images/thumb/1/14/GarageImage_J-8F.jpg/800px-GarageImage_J-8F.jpg
+JH-7A,China,VIII,11.3,___,__._,__._,"1,331",717,https://wiki.warthunder.com/images/thumb/3/38/GarageImage_JH-7A.jpg/800px-GarageImage_JH-7A.jpg
+␗Ki-27 otsu,China,I,2.0,495,10.0,12.8,554,N/A,https://wiki.warthunder.com/images/thumb/2/23/GarageImage_Ki-27_otsu_%28China%29.jpg/800px-GarageImage_Ki-27_otsu_%28China%29.jpg
+␗Ki-43-III ko,China,I,3.0,558,15.0,15.3,661,477,https://wiki.warthunder.com/images/thumb/3/3c/GarageImage_Ki-43-III_ko_%28China%29.jpg/800px-GarageImage_Ki-43-III_ko_%28China%29.jpg
+␗Ki-44-II hei,China,III,3.7,606,20.0,18.8,850,400,https://wiki.warthunder.com/images/thumb/4/4f/GarageImage_Ki-44-II_hei_%28China%29.jpg/800px-GarageImage_Ki-44-II_hei_%28China%29.jpg
+␗Ki-45 hei/tei,China,II,2.3,570,24.0,19.5,712.5,450,https://wiki.warthunder.com/images/thumb/7/76/GarageImage_Ki-45_hei_tei_%28China%29.jpg/800px-GarageImage_Ki-45_hei_tei_%28China%29.jpg
+␗Ki-61-I otsu,China,III,3.7,587,20.3,11.0,850,292,https://wiki.warthunder.com/images/thumb/2/23/GarageImage_Ki-61-I_otsu_%28China%29.jpg/800px-GarageImage_Ki-61-I_otsu_%28China%29.jpg
+␗Ki-84 ko,China,IV,5.3,692,19.4,17.9,837,470,https://wiki.warthunder.com/images/thumb/0/04/GarageImage_Ki-84_ko_%28China%29.jpg/800px-GarageImage_Ki-84_ko_%28China%29.jpg
+␗La-11,China,IV,5.3,680,22.0,16.1,850,460,https://wiki.warthunder.com/images/thumb/1/13/GarageImage_La-11_%28China%29.jpg/800px-GarageImage_La-11_%28China%29.jpg
+␗La-9,China,IV,6.0,690,21.0,19.2,850,490,https://wiki.warthunder.com/images/thumb/d/d4/GarageImage_La-9_%28China%29.jpg/800px-GarageImage_La-9_%28China%29.jpg
+Martin 139WC,China,I,1.3,370,21.0,7.7,564,328,https://wiki.warthunder.com/images/thumb/7/70/GarageImage_Martin_139WC.jpg/800px-GarageImage_Martin_139WC.jpg
+␗MiG-9,China,V,7.3,909,29.0,22.0,1020,N/A,https://wiki.warthunder.com/images/thumb/1/19/GarageImage_MiG-9_%28China%29.jpg/800px-GarageImage_MiG-9_%28China%29.jpg
+␗MiG-9 (l),China,V,7.3,967,26.0,28.0,1020,N/A,https://wiki.warthunder.com/images/thumb/c/c4/GarageImage_MiG-9_%28l%29_%28China%29.jpg/800px-GarageImage_MiG-9_%28l%29_%28China%29.jpg
+Mosquito FB.Mk.26,China,III,3.7,618,28.0,8.5,720,390,https://wiki.warthunder.com/images/thumb/0/07/GarageImage_Mosquito_FB.Mk.26.jpg/800px-GarageImage_Mosquito_FB.Mk.26.jpg
+␗P-38L-1,China,III,4.7,690,22.0,19.3,790,565,https://wiki.warthunder.com/images/thumb/6/6a/GarageImage_P-38L-1_%28China%29.jpg/800px-GarageImage_P-38L-1_%28China%29.jpg
+␗P-40E-1,China,II,2.7,560,21.0,10.6,819,595,https://wiki.warthunder.com/images/thumb/e/ed/GarageImage_P-40E-1_%28China%29.jpg/800px-GarageImage_P-40E-1_%28China%29.jpg
+␗P-43A-1,China,II,2.7,566,19.0,13.6,760,426,https://wiki.warthunder.com/images/thumb/f/f8/GarageImage_P-43A-1_%28China%29.jpg/800px-GarageImage_P-43A-1_%28China%29.jpg
+␗P-47D-23-RA,China,III,3.7,714,23.0,14.1,885,498,https://wiki.warthunder.com/images/thumb/0/04/GarageImage_P-47D-23-RA_%28China%29.jpg/800px-GarageImage_P-47D-23-RA_%28China%29.jpg
+␗P-47D-30,China,III,5.0,714,23,14.1,885,498,https://wiki.warthunder.com/images/thumb/c/c3/GarageImage_P-47D-30_%28China%29.jpg/800px-GarageImage_P-47D-30_%28China%29.jpg
+␗P-51D-20,China,III,4.3,710,22.0,18.9,901,644,https://wiki.warthunder.com/images/thumb/0/07/GarageImage_P-51D-20_%28China%29.jpg/800px-GarageImage_P-51D-20_%28China%29.jpg
+␗P-51K,China,III,5.0,721,20.0,22.7,910,644,https://wiki.warthunder.com/images/thumb/6/68/GarageImage_P-51K_%28China%29.jpg/800px-GarageImage_P-51K_%28China%29.jpg
+P-66,China,II,2.3,547,20.0,11.2,720,445,https://wiki.warthunder.com/images/thumb/9/9e/GarageImage_P-66.jpg/800px-GarageImage_P-66.jpg
+␗P1Y1 mod. 11,China,II,3.3,546,26.0,10.2,680,430,https://wiki.warthunder.com/images/thumb/4/45/GarageImage_P1Y1_mod._11_%28China%29.jpg/800px-GarageImage_P1Y1_mod._11_%28China%29.jpg
+␗PB4Y-2,China,IV,5.3,404,38.0,3.5,599,N/A,https://wiki.warthunder.com/images/thumb/d/df/GarageImage_PB4Y-2_%28China%29.jpg/800px-GarageImage_PB4Y-2_%28China%29.jpg
+Q-5 early,China,VI,9.0,"1,311",23.6,159.2,1260,N/A,https://wiki.warthunder.com/images/thumb/b/b4/GarageImage_Q-5_early.jpg/800px-GarageImage_Q-5_early.jpg
+Q-5A,China,VI,9.0,"1,442",24.9,161.1,1260,N/A,https://wiki.warthunder.com/images/thumb/4/4e/GarageImage_Q-5A.jpg/800px-GarageImage_Q-5A.jpg
+Q-5L,China,VII,9.7,"1,444",25.0,162.0,"1,260",N/A,https://wiki.warthunder.com/images/thumb/b/b4/GarageImage_Q-5L.jpg/800px-GarageImage_Q-5L.jpg
+␗SB 2M-103U,China,II,2.3,423,24.2,8.9,580,315,https://wiki.warthunder.com/images/thumb/9/94/GarageImage_SB_2M-103U_%28China%29.jpg/800px-GarageImage_SB_2M-103U_%28China%29.jpg
+Shenyang F-5,China,VI,9.3,"1,114",21.5,50.0,"1,150",-,https://wiki.warthunder.com/images/thumb/3/3c/GarageImage_Shenyang_F-5.jpg/800px-GarageImage_Shenyang_F-5.jpg
+␗Tu-2S-44,China,IV,5.3,547,30.8,8.1,900,437,https://wiki.warthunder.com/images/thumb/5/5d/GarageImage_Tu-2S-44_%28China%29.jpg/800px-GarageImage_Tu-2S-44_%28China%29.jpg
+␗Tu-4,China,V,8.0,641,32.0,6.5,609,332,https://wiki.warthunder.com/images/thumb/7/78/GarageImage_Tu-4_%28China%29.jpg/800px-GarageImage_Tu-4_%28China%29.jpg
+V-11,China,I,1.3,360,22.0,6.2,620,330,https://wiki.warthunder.com/images/thumb/6/6c/GarageImage_V-11.jpg/800px-GarageImage_V-11.jpg
+V-12D,China,I,2.3,479,22.0,10.5,680,330,https://wiki.warthunder.com/images/thumb/a/a6/GarageImage_V-12D.jpg/800px-GarageImage_V-12D.jpg
+Ariete,Italy,VI,9.3,"1,050",24.0,45.0,"1,125",498,https://wiki.warthunder.com/images/thumb/6/60/GarageImage_Ariete_%28Fighter%29.jpg/800px-GarageImage_Ariete_%28Fighter%29.jpg
+▄AV-8B Plus,Italy,VIII,11.7,"1,134",30.5,102.0,0,___,https://wiki.warthunder.com/images/thumb/3/36/GarageImage_AV-8B_Plus_%28Italy%29.jpg/800px-GarageImage_AV-8B_Plus_%28Italy%29.jpg
+B.R.20DR,Italy,I,1.7,430,31.0,4.6,675,N/A,https://wiki.warthunder.com/images/thumb/0/00/GarageImage_B.R.20DR.jpg/800px-GarageImage_B.R.20DR.jpg
+B.R.20M M1,Italy,I,1.7,430,31.0,4.6,675,N/A,https://wiki.warthunder.com/images/thumb/a/af/GarageImage_B.R.20M_M1.jpg/800px-GarageImage_B.R.20M_M1.jpg
+Ba.65 (K.14) L,Italy,I,1.3,490,29.0,7.6,590,490,https://wiki.warthunder.com/images/thumb/8/81/GarageImage_Ba.65_%28K.14%29_L.jpg/800px-GarageImage_Ba.65_%28K.14%29_L.jpg
+◐Bf 109 F-4,Italy,III,4.0,665,19.0,20.0,790,437,https://wiki.warthunder.com/images/thumb/a/a5/GarageImage_Bf_109_F-4_%28Italy%29.jpg/800px-GarageImage_Bf_109_F-4_%28Italy%29.jpg
+▄Bf 109 G-14/AS,Italy,IV,5.3,698,20.0,21.8,790,437,https://wiki.warthunder.com/images/thumb/d/dc/GarageImage_Bf_109_G-14_AS_Italy.jpg/800px-GarageImage_Bf_109_G-14_AS_Italy.jpg
+◐Bf 109 G-2,Italy,IV,4.3,696,19.0,23.1,790,437,https://wiki.warthunder.com/images/thumb/0/0e/GarageImage_Bf_109_G-2_%28Italy%29.jpg/800px-GarageImage_Bf_109_G-2_%28Italy%29.jpg
+◐Bf 110 G-4,Italy,III,3.7,591,25.0,12.5,745,467,https://wiki.warthunder.com/images/thumb/f/f1/GarageImage_Bf_110_G-4_%28Italy%29.jpg/800px-GarageImage_Bf_110_G-4_%28Italy%29.jpg
+Breda 88 (P.XI),Italy,I,1.7,490,29.0,7.6,712.5,N/A,https://wiki.warthunder.com/images/thumb/e/e7/GarageImage_Breda_88_%28P.XI%29.jpg/800px-GarageImage_Breda_88_%28P.XI%29.jpg
+C. 200 serie 3,Italy,II,2.3,504,16.0,18.0,845,535,https://wiki.warthunder.com/images/thumb/5/52/GarageImage_C._200_serie_3.jpg/800px-GarageImage_C._200_serie_3.jpg
+C. 200 serie 7,Italy,II,2.3,504,16.0,16.0,845,535,https://wiki.warthunder.com/images/thumb/4/4f/GarageImage_C._200_serie_7.jpg/800px-GarageImage_C._200_serie_7.jpg
+C. 202,Italy,II,3.0,602,19.0,15.8,845,535,https://wiki.warthunder.com/images/thumb/6/60/GarageImage_C._202.jpg/800px-GarageImage_C._202.jpg
+C. 202D,Italy,II,3.0,602,19.0,15.8,845,535,https://wiki.warthunder.com/images/thumb/a/af/GarageImage_C._202D.jpg/800px-GarageImage_C._202D.jpg
+C. 202EC,Italy,III,4.0,571,20.0,13.4,820,535,https://wiki.warthunder.com/images/thumb/1/12/GarageImage_C._202EC.jpg/800px-GarageImage_C._202EC.jpg
+C. 205 serie 1,Italy,II,3.7,683,18.0,20.4,845,535,https://wiki.warthunder.com/images/thumb/c/ca/GarageImage_C._205_serie_1.jpg/800px-GarageImage_C._205_serie_1.jpg
+C. 205 serie 3,Italy,IV,4.7,672,19.0,19.0,845,535,https://wiki.warthunder.com/images/thumb/2/24/GarageImage_C._205_serie_3.jpg/800px-GarageImage_C._205_serie_3.jpg
+C. 205N2,Italy,III,4.7,659,20.0,16.7,845,535,https://wiki.warthunder.com/images/thumb/d/d7/GarageImage_C._205N2.jpg/800px-GarageImage_C._205N2.jpg
+CL-13 Mk.4,Italy,V,8.7,"1,093",24.0,38.0,"1,118",590,https://wiki.warthunder.com/images/thumb/5/54/GarageImage_CL-13_Mk.4.jpg/800px-GarageImage_CL-13_Mk.4.jpg
+CR.32,Italy,I,1.0,372,14.0,9.6,590,N/A,https://wiki.warthunder.com/images/thumb/f/f3/GarageImage_CR.32.jpg/800px-GarageImage_CR.32.jpg
+CR.32 bis,Italy,I,1.7,356,14.0,9.2,590,N/A,https://wiki.warthunder.com/images/thumb/2/28/GarageImage_CR.32_bis.jpg/800px-GarageImage_CR.32_bis.jpg
+CR.32 quater,Italy,I,1.0,350,14.0,9.6,590,N/A,https://wiki.warthunder.com/images/thumb/1/1a/GarageImage_CR.32_quater.jpg/800px-GarageImage_CR.32_quater.jpg
+CR.42,Italy,I,1.3,429,19.2,17.2,578,N/A,https://wiki.warthunder.com/images/thumb/9/97/GarageImage_CR.42.jpg/800px-GarageImage_CR.42.jpg
+▄F-104G,Italy,VI,10.7,"2,387",34.0,260.0,"1,527",N/A,https://wiki.warthunder.com/images/thumb/d/d8/GarageImage_F-104G_%28Italy%29.jpg/800px-GarageImage_F-104G_%28Italy%29.jpg
+F-104S,Italy,VII,11.0,"2,387",34.0,260.0,"1,527",N/A,https://wiki.warthunder.com/images/thumb/f/f9/GarageImage_F-104S.jpg/800px-GarageImage_F-104S.jpg
+▄F-104S TAF,Italy,VII,11.0,"2,387",34.0,260.0,"1,527",N/A,https://wiki.warthunder.com/images/thumb/d/d4/GarageImage_F-104S_TAF_%28Italy%29.jpg/800px-GarageImage_F-104S_TAF_%28Italy%29.jpg
+F-104S.ASA,Italy,VII,11.3,"2,387",34.0,260.0,"1,527",N/A,https://wiki.warthunder.com/images/thumb/e/e6/GarageImage_F-104S.ASA.jpg/800px-GarageImage_F-104S.ASA.jpg
+▄F-16A ADF,Italy,VIII,12.0,"2,146",19.8,295.0,"1,555",N/A,https://wiki.warthunder.com/images/thumb/6/65/GarageImage_F-16A_ADF_%28Italy%29.jpg/800px-GarageImage_F-16A_ADF_%28Italy%29.jpg
+▄F-84F,Italy,VI,8.3,"1,102",28.0,38.0,1187,533,https://wiki.warthunder.com/images/thumb/5/53/GarageImage_F-84F_%28Italy%29.jpg/800px-GarageImage_F-84F_%28Italy%29.jpg
+▄F-84G-21-RE,Italy,V,7.7,985,28.0,36.2,1044.75,527,https://wiki.warthunder.com/images/thumb/5/5e/GarageImage_F-84G-21-RE_%28Italy%29.jpg/800px-GarageImage_F-84G-21-RE_%28Italy%29.jpg
+▄F-86K,Italy,VI,9.0,"1,111",27.0,56.0,"1,187",593,https://wiki.warthunder.com/images/thumb/b/b3/GarageImage_F-86K_%28Italy%29.jpg/800px-GarageImage_F-86K_%28Italy%29.jpg
+F.C.20 Bis,Italy,I,2.0,439,25.0,6.4,720,N/A,https://wiki.warthunder.com/images/thumb/c/c8/GarageImage_F.C.20_Bis.jpg/800px-GarageImage_F.C.20_Bis.jpg
+G.50 AS serie 7,Italy,I,1.7,470,15.0,10.3,0,535,https://wiki.warthunder.com/images/thumb/a/a0/GarageImage_G.50_AS_serie_7.jpg/800px-GarageImage_G.50_AS_serie_7.jpg
+G.50 serie 2,Italy,I,1.7,470,15.0,15.0,0,535,https://wiki.warthunder.com/images/thumb/9/93/GarageImage_G.50_serie_2.jpg/800px-GarageImage_G.50_serie_2.jpg
+G.55 serie 1,Italy,IV,5.0,646,20.0,16.7,840,437,https://wiki.warthunder.com/images/thumb/3/30/GarageImage_G.55_serie_1.jpg/800px-GarageImage_G.55_serie_1.jpg
+G.55 sottoserie 0,Italy,III,4.3,638,20.0,16.5,840,437,https://wiki.warthunder.com/images/thumb/3/3d/GarageImage_G.55_sottoserie_0.jpg/800px-GarageImage_G.55_sottoserie_0.jpg
+G.55S,Italy,IV,5.0,634,19.0,18.8,840,437,https://wiki.warthunder.com/images/thumb/c/c2/GarageImage_G.55S.jpg/800px-GarageImage_G.55S.jpg
+G.56,Italy,IV,6.3,700,20.0,21.7,840,437,https://wiki.warthunder.com/images/thumb/2/27/GarageImage_G.56.jpg/800px-GarageImage_G.56.jpg
+G.91 pre-serie,Italy,V,8.3,"1,070",26.0,39.0,1011,589,https://wiki.warthunder.com/images/thumb/6/60/GarageImage_G.91_pre-serie.jpg/800px-GarageImage_G.91_pre-serie.jpg
+G.91 R/1,Italy,V,8.7,"1,084",26.0,39.0,1128,589,https://wiki.warthunder.com/images/thumb/f/f9/GarageImage_G.91_R_1.jpg/800px-GarageImage_G.91_R_1.jpg
+G.91 R/4,Italy,V,8.7,"1,084",26.0,39.0,1128,589,https://wiki.warthunder.com/images/thumb/7/75/GarageImage_G.91_R4.jpg/800px-GarageImage_G.91_R4.jpg
+G.91 Y,Italy,VI,9.3,"1,123",29.0,75.0,1128,592,https://wiki.warthunder.com/images/thumb/f/f2/GarageImage_G.91_Y.jpg/800px-GarageImage_G.91_Y.jpg
+G.91 YS,Italy,VI,9.7,"1,123",29.0,75.0,1128,592,https://wiki.warthunder.com/images/thumb/9/9d/GarageImage_G.91_YS.jpg/800px-GarageImage_G.91_YS.jpg
+He 112 B-1/U2,Italy,II,2.0,503,16.0,15.8,730,498,https://wiki.warthunder.com/images/thumb/d/d0/GarageImage_He_112_B-1_U2.jpg/800px-GarageImage_He_112_B-1_U2.jpg
+Hs 129 B-2 (Romania),Italy,III,2.3,439,27.9,8.3,630,287,https://wiki.warthunder.com/images/thumb/f/fc/GarageImage_Hs_129_B-2_%28Romania%29_%28Italy%29.jpg/800px-GarageImage_Hs_129_B-2_%28Romania%29_%28Italy%29.jpg
+IAR-81C,Italy,II,2.7,485,20.0,11.9,680,492,https://wiki.warthunder.com/images/thumb/7/7d/GarageImage_IAR-81C.jpg/800px-GarageImage_IAR-81C.jpg
+▄Ju 87 D-3,Italy,II,2.0,385,31.0,11.2,730,N/A,https://wiki.warthunder.com/images/thumb/4/41/GarageImage_Ju_87_D-3_%28Italy%29.jpg/800px-GarageImage_Ju_87_D-3_%28Italy%29.jpg
+▄Ju 87 R-2,Italy,I,1.3,383,27.0,9.6,680,N/A,https://wiki.warthunder.com/images/thumb/3/37/GarageImage_Ju_87_R-2_%28Italy%29.jpg/800px-GarageImage_Ju_87_R-2_%28Italy%29.jpg
+Marcolin's C.R.42 CN,Italy,I,1.3,429,19.2,17.2,578,N/A,https://wiki.warthunder.com/images/thumb/5/53/GarageImage_Marcolin%27s_C.R.42_CN.jpg/800px-GarageImage_Marcolin%27s_C.R.42_CN.jpg
+▄P-47D-30,Italy,III,5.0,714,23.0,14.1,885,498,https://wiki.warthunder.com/images/thumb/9/9a/GarageImage_P-47D-30_%28Italy%29.jpg/800px-GarageImage_P-47D-30_%28Italy%29.jpg
+P.108A serie 2,Italy,I,2.3,444,31.0,7.7,515,383,https://wiki.warthunder.com/images/thumb/2/29/GarageImage_P.108A_serie_2.jpg/800px-GarageImage_P.108A_serie_2.jpg
+P.108B serie 1,Italy,III,3.3,419,36.0,4.3,515,383,https://wiki.warthunder.com/images/thumb/b/b5/GarageImage_P.108B_serie_1.jpg/800px-GarageImage_P.108B_serie_1.jpg
+P.108B serie 2,Italy,III,3.7,445,36.0,4.2,515,383,https://wiki.warthunder.com/images/thumb/3/3f/GarageImage_P.108B_serie_2.jpg/800px-GarageImage_P.108B_serie_2.jpg
+Re.2000 G.A.,Italy,I,2.3,525,17.0,12.9,740,457,https://wiki.warthunder.com/images/thumb/f/fb/GarageImage_Re.2000_G.A..jpg/800px-GarageImage_Re.2000_G.A..jpg
+Re.2000 serie 1,Italy,I,2.3,530,16.0,16.2,740,457,https://wiki.warthunder.com/images/thumb/0/04/GarageImage_Re.2000_serie_1.jpg/800px-GarageImage_Re.2000_serie_1.jpg
+Re.2001 CB,Italy,II,3.0,530,18.0,15.7,740,455,https://wiki.warthunder.com/images/thumb/b/b3/GarageImage_Re.2001_CB.jpg/800px-GarageImage_Re.2001_CB.jpg
+Re.2001 CN,Italy,III,3.3,521,19.0,15.6,740,455,https://wiki.warthunder.com/images/thumb/6/63/GarageImage_Re.2001_CN.jpg/800px-GarageImage_Re.2001_CN.jpg
+Re.2001 gruppo 22,Italy,II,3.0,545,18.0,15.9,740,455,https://wiki.warthunder.com/images/thumb/d/d9/GarageImage_Re.2001_gruppo_22.jpg/800px-GarageImage_Re.2001_gruppo_22.jpg
+Re.2001 serie 1,Italy,II,3.0,545,18.0,15.9,740,454,https://wiki.warthunder.com/images/thumb/4/49/GarageImage_Re.2001_serie_1.jpg/800px-GarageImage_Re.2001_serie_1.jpg
+Re.2002 Early,Italy,II,2.3,530,19.0,12.6,740,457,https://wiki.warthunder.com/images/thumb/f/f6/GarageImage_Re.2002_Early.jpg/800px-GarageImage_Re.2002_Early.jpg
+Re.2005 serie 0,Italy,IV,6.0,650,19.0,16.0,800,454,https://wiki.warthunder.com/images/thumb/3/3e/GarageImage_Re.2005_serie_0.jpg/800px-GarageImage_Re.2005_serie_0.jpg
+Ro.43,Italy,I,1.3,___,__._,__._,0,___,https://wiki.warthunder.com/images/thumb/6/65/GarageImage_Ro.43.jpg/800px-GarageImage_Ro.43.jpg
+Ro.44,Italy,I,1.0,303,14.0,11.0,400,-,https://wiki.warthunder.com/images/thumb/2/2b/GarageImage_Ro.44.jpg/800px-GarageImage_Ro.44.jpg
+Ro.57 Quadriarma,Italy,II,2.7,466,22.0,12.5,800,470,https://wiki.warthunder.com/images/thumb/f/f7/GarageImage_Ro.57_Quadriarma.jpg/800px-GarageImage_Ro.57_Quadriarma.jpg
+S.81,Italy,I,1.3,335,29.0,6.3,530,369,https://wiki.warthunder.com/images/thumb/5/51/GarageImage_S.81.jpg/800px-GarageImage_S.81.jpg
+S.M.79 AS,Italy,II,2.3,480,31.0,5.9,530,313,https://wiki.warthunder.com/images/thumb/0/03/GarageImage_S.M.79_AS.jpg/800px-GarageImage_S.M.79_AS.jpg
+S.M.79 B,Italy,II,2.3,445,35.0,5.9,540,457,https://wiki.warthunder.com/images/thumb/f/f7/GarageImage_S.M.79_B.jpg/800px-GarageImage_S.M.79_B.jpg
+S.M.79 bis/T.M,Italy,II,2.3,430,31.6,5.9,530,313,https://wiki.warthunder.com/images/thumb/1/1d/GarageImage_S.M.79_bis_T.M.jpg/800px-GarageImage_S.M.79_bis_T.M.jpg
+S.M.79 serie 1,Italy,I,1.7,430,31.6,5.9,530,313,https://wiki.warthunder.com/images/thumb/0/02/GarageImage_S.M.79_serie_1.jpg/800px-GarageImage_S.M.79_serie_1.jpg
+S.M.79 serie 8,Italy,I,2.0,430,31.6,5.9,530,313,https://wiki.warthunder.com/images/thumb/8/82/GarageImage_S.M.79_serie_8.jpg/800px-GarageImage_S.M.79_serie_8.jpg
+Sagittario 2,Italy,VI,9.0,"1,050",24.0,45.0,"1,125",498,https://wiki.warthunder.com/images/thumb/0/0e/GarageImage_Sagittario_2.jpg/800px-GarageImage_Sagittario_2.jpg
+SM.91,Italy,II,3.7,585,20.0,12.0,845,535,https://wiki.warthunder.com/images/thumb/7/74/GarageImage_SM.91.jpg/800px-GarageImage_SM.91.jpg
+SM.92,Italy,III,4.0,630,19.5,12.0,845,535,https://wiki.warthunder.com/images/thumb/5/56/GarageImage_SM.92.jpg/800px-GarageImage_SM.92.jpg
+▄Spitfire Mk Vb/trop,Italy,III,3.7,573,16.5,17.8,760,N/A,https://wiki.warthunder.com/images/thumb/a/a5/GarageImage_Spitfire_Mk_Vb_trop_Italy.jpg/800px-GarageImage_Spitfire_Mk_Vb_trop_Italy.jpg
+Tornado ADV,Italy,VIII,11.3,"2,308",28.0,191.0,"1,555",-,https://wiki.warthunder.com/images/thumb/1/1e/GarageImage_Tornado_ADV.jpg/800px-GarageImage_Tornado_ADV.jpg
+▄Tornado IDS (1995),Italy,VIII,11.3,"2,005",31.0,177.0,"1,555",-,https://wiki.warthunder.com/images/thumb/7/7c/GarageImage_Tornado_IDS_%281995%29_%28Italy%29.jpg/800px-GarageImage_Tornado_IDS_%281995%29_%28Italy%29.jpg
+Vampire FB 52A,Italy,V,8.0,882,24.0,21.0,888,496,https://wiki.warthunder.com/images/thumb/4/42/GarageImage_Vampire_FB_52A.jpg/800px-GarageImage_Vampire_FB_52A.jpg
+Z.1007 bis serie 3,Italy,II,2.7,450,32.0,6.2,530,N/A,https://wiki.warthunder.com/images/thumb/9/9e/GarageImage_Z.1007_bis_serie_3.jpg/800px-GarageImage_Z.1007_bis_serie_3.jpg
+Z.1007 bis serie 5,Italy,II,3.0,450,32.0,6.2,530,N/A,https://wiki.warthunder.com/images/thumb/3/3e/GarageImage_Z.1007_bis_serie_5.jpg/800px-GarageImage_Z.1007_bis_serie_5.jpg
+▄A-35B,France,II,2.7,485,29.0,7.5,702,369,https://wiki.warthunder.com/images/thumb/5/5d/GarageImage_A-35B_%28France%29.jpg/800px-GarageImage_A-35B_%28France%29.jpg
+▄AD-4,France,IV,6.0,587,23.0,15.5,797,365,https://wiki.warthunder.com/images/thumb/6/63/GarageImage_AD-4_%28France%29.jpg/800px-GarageImage_AD-4_%28France%29.jpg
+▄AD-4NA,France,IV,6.0,587,23.0,15.5,797,N/A,https://wiki.warthunder.com/images/thumb/f/f6/GarageImage_AD-4NA_%28France%29.jpg/800px-GarageImage_AD-4NA_%28France%29.jpg
+B-26C,France,III,4.7,491,34.0,5.6,568,382,https://wiki.warthunder.com/images/thumb/6/6f/GarageImage_B-26C.jpg/800px-GarageImage_B-26C.jpg
+Br.693AB2,France,I,1.7,495,19.0,7.8,0,382,https://wiki.warthunder.com/images/thumb/1/11/GarageImage_Br.693AB2.jpg/800px-GarageImage_Br.693AB2.jpg
+C.R.714,France,I,1.3,487,20.0,9.3,735,332,https://wiki.warthunder.com/images/thumb/f/f6/GarageImage_C.R.714.jpg/800px-GarageImage_C.R.714.jpg
+Challe's ▄Yak-9T,France,III,4.0,593,18.0,16.0,683,N/A,https://wiki.warthunder.com/images/thumb/a/ac/GarageImage_Challe%27s_Yak-9T_%28France%29.jpg/800px-GarageImage_Challe%27s_Yak-9T_%28France%29.jpg
+D.371,France,I,1.0,393,13.0,14.2,560,N/A,https://wiki.warthunder.com/images/thumb/8/85/GarageImage_D.371.jpg/800px-GarageImage_D.371.jpg
+D.371 H.S.9,France,I,1.3,400,13.0,14.0,560,N/A,https://wiki.warthunder.com/images/thumb/1/10/GarageImage_D.371_H.S.9.jpg/800px-GarageImage_D.371_H.S.9.jpg
+D.373,France,I,1.0,411,16.0,15.7,630,N/A,https://wiki.warthunder.com/images/thumb/8/85/GarageImage_D.373.jpg/800px-GarageImage_D.373.jpg
+D.500,France,I,1.0,366,15.0,12.5,576,-,https://wiki.warthunder.com/images/thumb/e/ee/GarageImage_D.500.jpg/800px-GarageImage_D.500.jpg
+D.501,France,I,1.3,363,13.0,12.5,576,-,https://wiki.warthunder.com/images/thumb/7/75/GarageImage_D.501.jpg/800px-GarageImage_D.501.jpg
+D.520,France,II,3.0,550,20.0,10.0,800,385,https://wiki.warthunder.com/images/thumb/0/08/GarageImage_D.520_%28Great_Britain%29.jpg/800px-GarageImage_D.520_%28Great_Britain%29.jpg
+Etendard IVM,France,VI,9.0,"1,100",32.0,95.0,"1,263","1,263",https://wiki.warthunder.com/images/thumb/8/8d/GarageImage_Etendard_IVM.jpg/800px-GarageImage_Etendard_IVM.jpg
+▄F-100D,France,VI,9.3,"1,433",40.0,105.0,1361,620,https://wiki.warthunder.com/images/thumb/7/7e/GarageImage_F-100D_%28France%29.jpg/800px-GarageImage_F-100D_%28France%29.jpg
+F-6C-10-NA,France,III,3.7,708,21.0,16.2,853,676,https://wiki.warthunder.com/images/thumb/a/af/GarageImage_F-6C-10-NA.jpg/800px-GarageImage_F-6C-10-NA.jpg
+▄F-84F,France,VI,8.3,"1,102",28.0,38.0,1187,533,https://wiki.warthunder.com/images/thumb/5/52/GarageImage_F-84F_%28France%29.jpg/800px-GarageImage_F-84F_%28France%29.jpg
+F-84F IAF,France,VI,8.3,"1,102",28.0,38.0,1187,533,https://wiki.warthunder.com/images/thumb/c/c2/GarageImage_F-84F_%28IAF%29.jpg/800px-GarageImage_F-84F_%28IAF%29.jpg
+▄F-84G-26-RE,France,V,7.7,985,28.0,36.2,1044.75,527,https://wiki.warthunder.com/images/thumb/c/c4/GarageImage_F-84G-26-RE_%28France%29.jpg/800px-GarageImage_F-84G-26-RE_%28France%29.jpg
+▄F-86K,France,VI,9.0,"1,111",27.0,56.0,"1,187",593,https://wiki.warthunder.com/images/thumb/f/f9/GarageImage_F-86K_%28France%29.jpg/800px-GarageImage_F-86K_%28France%29.jpg
+▄F-8E(FN),France,VII,10.0,"2,110",29.0,132.0,"1,555","1,070",https://wiki.warthunder.com/images/thumb/5/55/GarageImage_F-8E%28FN%29_%28France%29.jpg/800px-GarageImage_F-8E%28FN%29_%28France%29.jpg
+F.222.2,France,I,2.3,366,33.0,6.4,0,N/A,https://wiki.warthunder.com/images/thumb/2/27/GarageImage_F.222.2.jpg/800px-GarageImage_F.222.2.jpg
+F4U-7,France,IV,6.0,711,20.0,18.5,885,388,https://wiki.warthunder.com/images/thumb/5/5c/GarageImage_F4U-7.jpg/800px-GarageImage_F4U-7.jpg
+▄F6F-5,France,II,3.3,647,20.5,12.6,803,487,https://wiki.warthunder.com/images/thumb/5/51/GarageImage_F6F-5_%28France%29.jpg/800px-GarageImage_F6F-5_%28France%29.jpg
+▄F6F-5N,France,IV,4.3,629,21.0,11.8,803,487,https://wiki.warthunder.com/images/thumb/9/95/GarageImage_F6F-5N_%28France%29.jpg/800px-GarageImage_F6F-5N_%28France%29.jpg
+▄F8F-1B,France,IV,6.3,708,19.0,24.8,827,616,https://wiki.warthunder.com/images/thumb/0/06/GarageImage_F8F-1B_%28France%29.jpg/800px-GarageImage_F8F-1B_%28France%29.jpg
+GL.832HY,France,I,1.3,___,__._,__._,0,___,https://wiki.warthunder.com/images/thumb/2/24/GarageImage_GL.832HY.jpg/800px-GarageImage_GL.832HY.jpg
+H-75A-1,France,I,1.7,560,21.0,10.6,681,488,https://wiki.warthunder.com/images/thumb/5/57/GarageImage_H-75A-1.jpg/800px-GarageImage_H-75A-1.jpg
+H-75A-4,France,I,2.3,560,21.0,10.6,770,488,https://wiki.warthunder.com/images/thumb/e/ef/GarageImage_H-75A-4.jpg/800px-GarageImage_H-75A-4.jpg
+Jaguar A,France,VII,10.3,"1,490",30.0,90.0,"1,273",926,https://wiki.warthunder.com/images/thumb/8/88/GarageImage_Jaguar_A.jpg/800px-GarageImage_Jaguar_A.jpg
+Jaguar E,France,VII,10.3,"1,490",30.0,90.0,"1,273","1,273",https://wiki.warthunder.com/images/thumb/3/38/GarageImage_Jaguar_E.jpg/800px-GarageImage_Jaguar_E.jpg
+Lancaster MR.7,France,IV,5.3,462,48.7,8.6,608,415,https://wiki.warthunder.com/images/thumb/9/94/GarageImage_Lancaster_MR.7.jpg/800px-GarageImage_Lancaster_MR.7.jpg
+Late 298D,France,I,1.3,295,22.0,5.2,450,450,https://wiki.warthunder.com/images/thumb/f/f1/GarageImage_Late_298D.jpg/800px-GarageImage_Late_298D.jpg
+LeO 451 early,France,II,3.0,495,30.0,5.9,550,385,https://wiki.warthunder.com/images/thumb/7/71/GarageImage_LeO_451_early.jpg/800px-GarageImage_LeO_451_early.jpg
+LeO 451 late,France,II,3.0,490,30.0,5.8,550,385,https://wiki.warthunder.com/images/thumb/7/79/GarageImage_LeO_451_late.jpg/800px-GarageImage_LeO_451_late.jpg
+Loire 130С,France,I,1.3,206,__._,__._,0,___,https://wiki.warthunder.com/images/thumb/2/2b/GarageImage_Loire_130C.jpg/800px-GarageImage_Loire_130C.jpg
+M.B.152C1,France,II,2.3,485,19.0,10.8,830,N/A,https://wiki.warthunder.com/images/thumb/6/67/GarageImage_M.B.152C1.jpg/800px-GarageImage_M.B.152C1.jpg
+M.B.157,France,III,3.3,711,19.0,14.1,810,448,https://wiki.warthunder.com/images/thumb/3/3c/GarageImage_M.B.157.jpg/800px-GarageImage_M.B.157.jpg
+M.B.162,France,III,5.0,537,27.0,11.6,560,330,https://wiki.warthunder.com/images/thumb/4/4b/GarageImage_M.B.162.jpg/800px-GarageImage_M.B.162.jpg
+M.B.174A-3,France,I,2.7,537,19.0,11.6,680,330,https://wiki.warthunder.com/images/thumb/6/6c/GarageImage_M.B.174A-3.jpg/800px-GarageImage_M.B.174A-3.jpg
+M.B.175T,France,II,3.3,450,26.0,7.9,680,330,https://wiki.warthunder.com/images/thumb/d/dd/GarageImage_M.B.175T.jpg/800px-GarageImage_M.B.175T.jpg
+M.D.450B Barougan,France,V,7.7,942,24.0,28.0,1030,627,https://wiki.warthunder.com/images/thumb/a/a0/GarageImage_M.D.450B_Barougan.jpg/800px-GarageImage_M.D.450B_Barougan.jpg
+M.D.450B Ouragan,France,V,7.7,942,24.0,28.0,1030,627,https://wiki.warthunder.com/images/thumb/2/22/GarageImage_M.D.450B_Ouragan.jpg/800px-GarageImage_M.D.450B_Ouragan.jpg
+M.D.452 IIA,France,V,8.0,"1,030",25.0,37.0,1108,627,https://wiki.warthunder.com/images/thumb/0/0e/GarageImage_M.D.452_IIA.jpg/800px-GarageImage_M.D.452_IIA.jpg
+M.D.452 IIC,France,V,8.3,"1,044",24.8,40.0,1108,627,https://wiki.warthunder.com/images/thumb/f/f9/GarageImage_M.D.452_IIC.jpg/800px-GarageImage_M.D.452_IIC.jpg
+M.S.405C1,France,I,2.0,475,19.4,13.5,756,N/A,https://wiki.warthunder.com/images/thumb/6/66/GarageImage_M.S.405C1.jpg/800px-GarageImage_M.S.405C1.jpg
+M.S.406C1,France,I,2.0,483,20.0,12.3,756,N/A,https://wiki.warthunder.com/images/thumb/3/3d/GarageImage_M.S.406C1.jpg/800px-GarageImage_M.S.406C1.jpg
+M.S.410,France,II,2.3,477,20.0,11.9,756,N/A,https://wiki.warthunder.com/images/thumb/6/6b/GarageImage_M.S.410.jpg/800px-GarageImage_M.S.410.jpg
+Martin 167-A3,France,I,2.0,479,21.0,9.0,574,325,https://wiki.warthunder.com/images/thumb/4/4b/GarageImage_Martin_167-A3.jpg/800px-GarageImage_Martin_167-A3.jpg
+Milan,France,VI,9.7,"2,194",27.0,160.0,"1,460",N/A,https://wiki.warthunder.com/images/thumb/6/63/GarageImage_Milan.jpg/800px-GarageImage_Milan.jpg
+Mirage 2000-5F,France,VIII,12.0,"2,351",25.0,195.0,"1,512",-,https://wiki.warthunder.com/images/thumb/f/f7/GarageImage_Mirage_2000-5F.jpg/800px-GarageImage_Mirage_2000-5F.jpg
+Mirage 2000C-S5,France,VIII,11.7,"2,351",25.0,195.0,"1,512",-,https://wiki.warthunder.com/images/thumb/3/36/GarageImage_Mirage_2000C-S5.jpg/800px-GarageImage_Mirage_2000C-S5.jpg
+Mirage 2000D-R1,France,VIII,11.3,"2,340",25.5,192.0,"1,512",-,https://wiki.warthunder.com/images/thumb/4/48/GarageImage_Mirage_2000D-R1.jpg/800px-GarageImage_Mirage_2000D-R1.jpg
+Mirage 5F,France,VII,10.0,"2,160",28.0,140.0,"1,460",N/A,https://wiki.warthunder.com/images/thumb/f/f3/GarageImage_Mirage_5F.jpg/800px-GarageImage_Mirage_5F.jpg
+Mirage F1C,France,VII,11.3,"2,228",27.0,155.0,"1,457",575,https://wiki.warthunder.com/images/thumb/e/e2/GarageImage_Mirage_F1C.jpg/800px-GarageImage_Mirage_F1C.jpg
+Mirage F1C-200,France,VII,11.3,"2,228",27.0,155.0,"1,457",575,https://wiki.warthunder.com/images/thumb/f/f8/GarageImage_Mirage_F1C-200.jpg/800px-GarageImage_Mirage_F1C-200.jpg
+Mirage F1CT,France,VII,11.3,"2,228",27.0,155.0,"1,457",575,https://wiki.warthunder.com/images/thumb/1/1f/GarageImage_Mirage_F1CT.jpg/800px-GarageImage_Mirage_F1CT.jpg
+Mirage IIIC,France,VII,10.3,"2,160",28.0,140.0,"1,460",-,https://wiki.warthunder.com/images/thumb/f/f4/GarageImage_Mirage_IIIC.jpg/800px-GarageImage_Mirage_IIIC.jpg
+Mirage IIIE,France,VII,10.3,"2,157",28.0,139.2,"1,460",-,https://wiki.warthunder.com/images/thumb/3/36/GarageImage_Mirage_IIIE.jpg/800px-GarageImage_Mirage_IIIE.jpg
+Mystere IVA,France,VI,8.7,"1,109",25.0,37.0,"1,166",620,https://wiki.warthunder.com/images/thumb/6/65/GarageImage_Mystere_IVA.jpg/800px-GarageImage_Mystere_IVA.jpg
+N.C.223.3,France,II,3.0,400,29.0,6.4,450,491,https://wiki.warthunder.com/images/thumb/2/21/GarageImage_N.C.223.3.jpg/800px-GarageImage_N.C.223.3.jpg
+NC.900,France,IV,5.0,652,22.8,14.1,912,N/A,https://wiki.warthunder.com/images/thumb/1/10/GarageImage_NC.900.jpg/800px-GarageImage_NC.900.jpg
+▄P-39Q-25,France,III,3.7,591,18.0,20.3,886,427,https://wiki.warthunder.com/images/thumb/0/00/GarageImage_P-39Q-25_%28France%29.jpg/800px-GarageImage_P-39Q-25_%28France%29.jpg
+▄P-40F-5 Lafayette,France,II,2.7,615,20.0,11.2,819,595,https://wiki.warthunder.com/images/thumb/6/69/GarageImage_P-40F-5_Lafayette_%28France%29.jpg/800px-GarageImage_P-40F-5_Lafayette_%28France%29.jpg
+▄P-47D-22-RE,France,III,3.7,695,25.0,10.0,885,498,https://wiki.warthunder.com/images/thumb/a/a8/GarageImage_P-47D-22-RE_%28France%29.jpg/800px-GarageImage_P-47D-22-RE_%28France%29.jpg
+▄P-63C-5,France,III,4.0,663,23.0,21.7,887,378,https://wiki.warthunder.com/images/thumb/0/0d/GarageImage_P-63C-5_%28France%29.jpg/800px-GarageImage_P-63C-5_%28France%29.jpg
+Pallier's D.510,France,I,1.3,394,13.0,19.2,576,-,https://wiki.warthunder.com/images/thumb/e/ed/GarageImage_Pallier%27s_D.510.jpg/800px-GarageImage_Pallier%27s_D.510.jpg
+▄PB4Y-2,France,IV,5.3,404,38.0,3.5,599,N/A,https://wiki.warthunder.com/images/thumb/e/e9/GarageImage_PB4Y-2_%28France%29.jpg/800px-GarageImage_PB4Y-2_%28France%29.jpg
+▄PBY-5A Late,France,I,1.7,282,30.0,5.1,0,N/A,https://wiki.warthunder.com/images/thumb/9/92/GarageImage_PBY-5A_Late_%28France%29.jpg/800px-GarageImage_PBY-5A_Late_%28France%29.jpg
+Potez 630,France,II,2.3,426,22.0,8.3,710,346,https://wiki.warthunder.com/images/thumb/9/9c/GarageImage_Potez_630.jpg/800px-GarageImage_Potez_630.jpg
+Potez 631,France,II,2.3,430,21.0,7.4,710,346,https://wiki.warthunder.com/images/thumb/3/3c/GarageImage_Potez_631.jpg/800px-GarageImage_Potez_631.jpg
+Potez 633,France,I,1.7,440,20.0,7.3,710,346,https://wiki.warthunder.com/images/thumb/d/d2/GarageImage_Potez_633.jpg/800px-GarageImage_Potez_633.jpg
+S.O.4050 Vautour IIA,France,VI,9.0,"1,100",32.0,52.0,"1,166",584,https://wiki.warthunder.com/images/thumb/7/7a/GarageImage_S.O.4050_Vautour_IIA.jpg/800px-GarageImage_S.O.4050_Vautour_IIA.jpg
+S.O.4050 Vautour IIB,France,VI,9.0,"1,107",32.0,55.0,"1,166",584,https://wiki.warthunder.com/images/thumb/6/61/GarageImage_S.O.4050_Vautour_IIB.jpg/800px-GarageImage_S.O.4050_Vautour_IIB.jpg
+S.O.4050 Vautour IIN,France,VI,9.0,"1,100",32.0,52.0,"1,166",584,https://wiki.warthunder.com/images/thumb/4/4e/GarageImage_S.O.4050_Vautour_IIN.jpg/800px-GarageImage_S.O.4050_Vautour_IIN.jpg
+S.O.4050 Vautour IIN (late),France,V,8.3,"1,100",32.0,52.0,"1,166",584,https://wiki.warthunder.com/images/thumb/7/74/GarageImage_S.O.4050_Vautour_IIN_%28late%29.jpg/800px-GarageImage_S.O.4050_Vautour_IIN_%28late%29.jpg
+S.O.8000 Narval,France,IV,5.7,730,25.0,16.0,900,450,https://wiki.warthunder.com/images/thumb/8/82/GarageImage_S.O.8000_Narval.jpg/800px-GarageImage_S.O.8000_Narval.jpg
+▄SB2C-5,France,III,3.7,459,23.0,6.1,656,503,https://wiki.warthunder.com/images/thumb/f/f1/GarageImage_SB2C-5_%28France%29.jpg/800px-GarageImage_SB2C-5_%28France%29.jpg
+▄Seafire LF Mk.III,France,IV,5.0,592,16.2,19.5,760,N/A,https://wiki.warthunder.com/images/thumb/3/31/GarageImage_Seafire_LF_Mk.III_%28France%29.jpg/800px-GarageImage_Seafire_LF_Mk.III_%28France%29.jpg
+Super Etendard,France,VII,10.0,"1,380",32.0,97.0,"1,263","1,263",https://wiki.warthunder.com/images/thumb/c/ce/GarageImage_Super_Etendard.jpg/800px-GarageImage_Super_Etendard.jpg
+Super Mystere B2,France,VI,9.0,"1,199",31.0,61.0,"1,265",620,https://wiki.warthunder.com/images/thumb/f/f3/GarageImage_Super_Mystere_B2.jpg/800px-GarageImage_Super_Mystere_B2.jpg
+␙Super Mystere B2,France,VI,9.0,"1,199",31.0,61.0,"1,265",620,https://wiki.warthunder.com/images/thumb/4/4d/GarageImage_Super_Mystere_B2_%28YouTube_Cup%29.jpg/800px-GarageImage_Super_Mystere_B2_%28YouTube_Cup%29.jpg
+V-156-F,France,I,1.0,360,22.0,6.2,740,N/A,https://wiki.warthunder.com/images/thumb/f/f2/GarageImage_V-156-F.jpg/800px-GarageImage_V-156-F.jpg
+V.G.33C-1,France,II,2.7,558,19.0,13.4,800,N/A,https://wiki.warthunder.com/images/thumb/a/ac/GarageImage_V.G.33C-1.jpg/800px-GarageImage_V.G.33C-1.jpg
+Vautour IIA IDF/AF,France,VI,9.0,"1,100",32.0,52.0,"1,166",584,https://wiki.warthunder.com/images/thumb/4/4a/GarageImage_Vautour_IIA_IDFAF.jpg/800px-GarageImage_Vautour_IIA_IDFAF.jpg
+VB.10-02,France,III,4.7,710,24.0,15.4,820,498,https://wiki.warthunder.com/images/thumb/5/59/GarageImage_VB.10-02.jpg/800px-GarageImage_VB.10-02.jpg
+VB.10C-1,France,III,4.0,710,24.0,15.4,820,498,https://wiki.warthunder.com/images/thumb/8/87/GarageImage_VB.10C-1.jpg/800px-GarageImage_VB.10C-1.jpg
+▄Yak-3,France,III,4.3,654,17.4,21.3,685,N/A,https://wiki.warthunder.com/images/thumb/e/ed/GarageImage_Yak-3_%28France%29.jpg/800px-GarageImage_Yak-3_%28France%29.jpg
+A21A-3,Sweden,IV,4.3,640,20.0,15.5,683,445,https://wiki.warthunder.com/images/thumb/3/37/GarageImage_A21A-3.jpg/800px-GarageImage_A21A-3.jpg
+A21RB,Sweden,V,6.7,850,24.0,24.5,787,438,https://wiki.warthunder.com/images/thumb/8/87/GarageImage_A21RB.jpg/800px-GarageImage_A21RB.jpg
+A28B,Sweden,V,8.0,882,24.0,22.0,888,495,https://wiki.warthunder.com/images/thumb/9/90/GarageImage_A28B.jpg/800px-GarageImage_A28B.jpg
+A29B,Sweden,V,8.0,"1,015",29.0,25.0,1102,800,https://wiki.warthunder.com/images/thumb/e/ec/GarageImage_A29B.jpg/800px-GarageImage_A29B.jpg
+A32A,Sweden,VI,9.0,"1,094",34.0,55.0,1160,524,https://wiki.warthunder.com/images/thumb/8/8d/GarageImage_A32A.jpg/800px-GarageImage_A32A.jpg
+A32A Röd Adam,Sweden,VI,9.0,"1,094",34.0,55.0,1160,524,https://wiki.warthunder.com/images/thumb/d/de/GarageImage_A32A_R%C3%B6d_Adam.jpg/800px-GarageImage_A32A_R%C3%B6d_Adam.jpg
+AJ37,Sweden,VII,10.3,"1,948",25.0,190.0,"1,536",N/A,https://wiki.warthunder.com/images/thumb/4/4d/GarageImage_AJ37.jpg/800px-GarageImage_AJ37.jpg
+AJS37,Sweden,VII,11.0,___,__._,__._,"1,536",-,https://wiki.warthunder.com/images/thumb/7/71/GarageImage_AJS37.jpg/800px-GarageImage_AJS37.jpg
+▄Ar 196 A-5,Sweden,I,1.3,320,21.0,7.0,570,___,https://wiki.warthunder.com/images/thumb/6/69/GarageImage_Ar_196_A-5_%28Sweden%29.jpg/800px-GarageImage_Ar_196_A-5_%28Sweden%29.jpg
+▄B-239,Sweden,II,2.3,460,16.0,14.2,761,425,https://wiki.warthunder.com/images/thumb/7/75/GarageImage_B-239_%28Sweden%29.jpg/800px-GarageImage_B-239_%28Sweden%29.jpg
+B17A,Sweden,I,1.7,435,19.0,10.5,620,386,https://wiki.warthunder.com/images/thumb/6/64/GarageImage_B17A.jpg/800px-GarageImage_B17A.jpg
+B17B,Sweden,I,1.3,395,20.0,6.0,620,386,https://wiki.warthunder.com/images/thumb/3/3e/GarageImage_B17B.jpg/800px-GarageImage_B17B.jpg
+B18A,Sweden,II,2.7,465,30.0,7.0,735,467,https://wiki.warthunder.com/images/thumb/1/1b/GarageImage_B18A.jpg/800px-GarageImage_B18A.jpg
+B18B,Sweden,III,4.0,570,27.0,11.5,735,467,https://wiki.warthunder.com/images/thumb/f/f1/GarageImage_B18B.jpg/800px-GarageImage_B18B.jpg
+B3C,Sweden,I,1.3,395,17.0,7.7,430,310,https://wiki.warthunder.com/images/thumb/c/ce/GarageImage_B3C.jpg/800px-GarageImage_B3C.jpg
+▄Bf 109 G-2,Sweden,IV,4.3,682,19.0,23.1,790,437,https://wiki.warthunder.com/images/thumb/3/35/GarageImage_Bf_109_G-2_%28Sweden%29.jpg/800px-GarageImage_Bf_109_G-2_%28Sweden%29.jpg
+▄Bf 109 G-6,Sweden,IV,4.7,668,20.0,19.5,790,437,https://wiki.warthunder.com/images/thumb/2/2d/GarageImage_Bf_109_G-6_%28Sweden%29.jpg/800px-GarageImage_Bf_109_G-6_%28Sweden%29.jpg
+▄Bf 109 G-6 Erla,Sweden,IV,4.7,668,20.0,19.5,790,437,https://wiki.warthunder.com/images/thumb/3/38/GarageImage_Bf_109_G-6_Erla_%28Sweden%29.jpg/800px-GarageImage_Bf_109_G-6_Erla_%28Sweden%29.jpg
+▄Fokker D.XXI,Sweden,II,2.0,425,16.0,14.2,735,N/A,https://wiki.warthunder.com/images/thumb/2/28/GarageImage_Fokker_D.XXI_%28Sweden%29.jpg/800px-GarageImage_Fokker_D.XXI_%28Sweden%29.jpg
+▄Fokker D.XXI-3,Sweden,I,1.7,425,16.0,14.2,735,N/A,https://wiki.warthunder.com/images/thumb/8/81/GarageImage_Fokker_D.XXI-3_%28Sweden%29.jpg/800px-GarageImage_Fokker_D.XXI-3_%28Sweden%29.jpg
+▄Hurricane Mk I/L,Sweden,II,2.3,525,15.0,10.9,660,268,https://wiki.warthunder.com/images/thumb/3/3a/GarageImage_Hurricane_Mk_IL_%28Sweden%29.jpg/800px-GarageImage_Hurricane_Mk_IL_%28Sweden%29.jpg
+Iacobi's J8A,Sweden,I,1.0,414,16.0,15.7,600,N/A,https://wiki.warthunder.com/images/thumb/3/3a/GarageImage_Iacobi%27s_JA8.jpg/800px-GarageImage_Iacobi%27s_JA8.jpg
+J11,Sweden,I,1.3,429,19.2,17.2,578,N/A,https://wiki.warthunder.com/images/thumb/0/0d/GarageImage_J11.jpg/800px-GarageImage_J11.jpg
+J20,Sweden,II,2.0,529,16.0,16.2,740,457,https://wiki.warthunder.com/images/thumb/3/38/GarageImage_J20.jpg/800px-GarageImage_J20.jpg
+J21A-1,Sweden,IV,4.3,640,20.0,15.5,683,445,https://wiki.warthunder.com/images/thumb/8/8a/GarageImage_J21A-1.jpg/800px-GarageImage_J21A-1.jpg
+J21A-2,Sweden,IV,4.3,640,20.0,15.5,683,445,https://wiki.warthunder.com/images/thumb/9/99/GarageImage_J21A-2.jpg/800px-GarageImage_J21A-2.jpg
+J21RA,Sweden,V,6.7,799,24.0,21.0,787,437,https://wiki.warthunder.com/images/thumb/a/a6/GarageImage_J21RA.jpg/800px-GarageImage_J21RA.jpg
+J22-A,Sweden,II,3.0,560,20.0,10.8,670,487,https://wiki.warthunder.com/images/thumb/9/9a/GarageImage_J22-A.jpg/800px-GarageImage_J22-A.jpg
+J22-B,Sweden,III,3.7,560,21.0,10.5,670,487,https://wiki.warthunder.com/images/thumb/b/b6/GarageImage_J22-B.jpg/800px-GarageImage_J22-B.jpg
+J26,Sweden,III,4.3,710,22.0,18.9,901,644,https://wiki.warthunder.com/images/thumb/8/8b/GarageImage_J26.jpg/800px-GarageImage_J26.jpg
+J26 David,Sweden,III,3.7,708,21.0,16.2,853,676,https://wiki.warthunder.com/images/thumb/0/0f/GarageImage_J26_David.jpg/800px-GarageImage_J26_David.jpg
+J29A,Sweden,V,7.7,"1,015",29.0,25.0,1102,800,https://wiki.warthunder.com/images/thumb/8/85/GarageImage_J29A.jpg/800px-GarageImage_J29A.jpg
+J29D,Sweden,V,8.7,"1,040",29.0,59.0,1102,800,https://wiki.warthunder.com/images/thumb/d/d2/GarageImage_J29D.jpg/800px-GarageImage_J29D.jpg
+J29F,Sweden,VI,9.0,"1,040",29.0,59.0,1102,800,https://wiki.warthunder.com/images/thumb/f/f2/GarageImage_J29F.jpg/800px-GarageImage_J29F.jpg
+J32B,Sweden,VI,9.3,"1,140",34.0,101.0,1160,524,https://wiki.warthunder.com/images/thumb/a/a7/GarageImage_J32B.jpg/800px-GarageImage_J32B.jpg
+J34,Sweden,VI,9.0,"1,109",31.0,56.0,"1,193",603,https://wiki.warthunder.com/images/thumb/7/7b/GarageImage_J34.jpg/800px-GarageImage_J34.jpg
+J35A,Sweden,VI,9.7,"2,250",25.0,165.0,"1,417",-,https://wiki.warthunder.com/images/thumb/a/a4/GarageImage_J35A.jpg/800px-GarageImage_J35A.jpg
+J35D,Sweden,VII,10.3,"2,250",25.0,180.0,"1,417",-,https://wiki.warthunder.com/images/thumb/b/b6/GarageImage_J35D.jpg/800px-GarageImage_J35D.jpg
+J6B,Sweden,I,1.0,325,13.7,16.6,560,N/A,https://wiki.warthunder.com/images/thumb/0/08/GarageImage_J6B.jpg/800px-GarageImage_J6B.jpg
+J8A,Sweden,I,1.0,414,16.0,15.7,600,N/A,https://wiki.warthunder.com/images/thumb/e/ed/GarageImage_J8A.jpg/800px-GarageImage_J8A.jpg
+JA37C,Sweden,VII,11.0,"1,997",25.0,199.6,"1,536",-,https://wiki.warthunder.com/images/thumb/2/2a/GarageImage_JA37C.jpg/800px-GarageImage_JA37C.jpg
+JA37D,Sweden,VIII,11.3,"1,998",25.0,200.0,"1,536",-,https://wiki.warthunder.com/images/thumb/0/03/GarageImage_JA37D.jpg/800px-GarageImage_JA37D.jpg
+▄Ju 88 A-4,Sweden,II,3.0,455,30.0,6.8,675,457,https://wiki.warthunder.com/images/thumb/3/30/GarageImage_Ju_88_A-4_%28Sweden%29.jpg/800px-GarageImage_Ju_88_A-4_%28Sweden%29.jpg
+▄MiG-21bis,Sweden,VII,11.0,"2,240",37.0,225.0,1365,N/A,https://wiki.warthunder.com/images/thumb/f/f6/GarageImage_MiG-21bis_%28Sweden%29.jpg/800px-GarageImage_MiG-21bis_%28Sweden%29.jpg
+Mörkö-Morane,Sweden,II,2.3,525,18.0,16.6,756,N/A,https://wiki.warthunder.com/images/thumb/5/5b/GarageImage_M%C3%B6rk%C3%B6-Morane.jpg/800px-GarageImage_M%C3%B6rk%C3%B6-Morane.jpg
+S17BS,Sweden,I,1.0,395,20.0,6.0,500,386,https://wiki.warthunder.com/images/thumb/8/87/GarageImage_S17BS.jpg/800px-GarageImage_S17BS.jpg
+Saab J35XS,Sweden,VII,10.7,"2,250",25.0,177.0,"1,417",-,https://wiki.warthunder.com/images/thumb/2/28/GarageImage_Saab_J35XS.jpg/800px-GarageImage_Saab_J35XS.jpg
+SAAB-105G,Sweden,V,8.3,947,26.0,46.0,1050,N/A,https://wiki.warthunder.com/images/thumb/e/e3/GarageImage_SAAB-105G.jpg/800px-GarageImage_SAAB-105G.jpg
+SAAB-105OE,Sweden,V,8.3,947,26.0,46.0,1050,N/A,https://wiki.warthunder.com/images/thumb/8/80/GarageImage_SAAB-105OE.jpg/800px-GarageImage_SAAB-105OE.jpg
+SK60B,Sweden,V,7.0,792,24.0,22.0,934,N/A,https://wiki.warthunder.com/images/thumb/d/d2/GarageImage_SK60B.jpg/800px-GarageImage_SK60B.jpg
+T 2,Sweden,I,1.0,310,22.0,5.3,480,402,https://wiki.warthunder.com/images/thumb/6/64/GarageImage_T_2.jpg/800px-GarageImage_T_2.jpg
+T18B,Sweden,III,4.3,595,25.0,10.3,735,467,https://wiki.warthunder.com/images/thumb/4/46/GarageImage_T18B.jpg/800px-GarageImage_T18B.jpg
+T18B (57),Sweden,III,4.3,592,26.0,10.1,735,467,https://wiki.warthunder.com/images/thumb/2/21/GarageImage_T18B_%2857%29.jpg/800px-GarageImage_T18B_%2857%29.jpg
+▄Vampire FB 52A,Sweden,V,8.0,882,24.0,22.0,888,496,https://wiki.warthunder.com/images/thumb/1/1d/GarageImage_Vampire_FB_52A_%28Sweden%29.jpg/800px-GarageImage_Vampire_FB_52A_%28Sweden%29.jpg
+VL Myrsky II,Sweden,II,2.3,535,18.0,10.0,650,355,https://wiki.warthunder.com/images/thumb/e/e7/GarageImage_VL_Myrsky_II.jpg/800px-GarageImage_VL_Myrsky_II.jpg
+VL Pyörremyrsky,Sweden,III,4.3,620,18.0,18.5,790,437,https://wiki.warthunder.com/images/thumb/b/b2/GarageImage_VL_Py%C3%B6rremyrsky.jpg/800px-GarageImage_VL_Py%C3%B6rremyrsky.jpg
+A-4E,Israel,VI,8.7,"1,081",37.0,39.7,"1,167",592,https://wiki.warthunder.com/images/thumb/5/5e/GarageImage_A-4E_%28Israel%29.jpg/800px-GarageImage_A-4E_%28Israel%29.jpg
+A-4E Early (M),Israel,VI,8.7,"1,080",37.0,47.0,"1,167",592,https://wiki.warthunder.com/images/thumb/0/0b/GarageImage_A-4E_Early_%28M%29_%28Israel%29.jpg/800px-GarageImage_A-4E_Early_%28M%29_%28Israel%29.jpg
+A-4H,Israel,VI,8.3,"1,087",34.0,55.0,"1,167",592,https://wiki.warthunder.com/images/thumb/4/46/GarageImage_A-4H_%28Israel%29.jpg/800px-GarageImage_A-4H_%28Israel%29.jpg
+Ayit,Israel,VI,9.3,"1,105",32.0,67.0,"1,167",592,https://wiki.warthunder.com/images/thumb/e/e1/GarageImage_Ayit.jpg/800px-GarageImage_Ayit.jpg
+B-17G,Israel,IV,5.3,510,36.0,4.6,516,383,https://wiki.warthunder.com/images/thumb/0/05/GarageImage_B-17G_%28Israel%29.jpg/800px-GarageImage_B-17G_%28Israel%29.jpg
+Barak II,Israel,VIII,12.3,"2,110",22.5,265.0,"1,555",-,https://wiki.warthunder.com/images/thumb/c/ca/GarageImage_Barak_II.jpg/800px-GarageImage_Barak_II.jpg
+F-84F,Israel,VI,8.3,"1,102",28.0,38.0,1187,533,https://wiki.warthunder.com/images/thumb/3/39/GarageImage_F-84F_%28Israel%29.jpg/800px-GarageImage_F-84F_%28Israel%29.jpg
+Kfir C.2,Israel,VII,11.0,"2,374",27.0,204.5,"1,460",-,https://wiki.warthunder.com/images/thumb/7/78/GarageImage_Kfir_C.2.png/800px-GarageImage_Kfir_C.2.png
+Kfir C.7,Israel,VII,11.3,"2,388",27.0,224.6,"1,460",N/A,https://wiki.warthunder.com/images/thumb/8/89/GarageImage_Kfir_C.7.jpg/800px-GarageImage_Kfir_C.7.jpg
+Kfir Canard,Israel,VII,10.7,"2,376",27.0,205.0,"1,460",-,https://wiki.warthunder.com/images/thumb/0/0f/GarageImage_Kfir_Canard.jpg/800px-GarageImage_Kfir_Canard.jpg
+Kurnass,Israel,VII,11.0,"2,140",26.0,190.0,1458,607,https://wiki.warthunder.com/images/thumb/7/7f/GarageImage_Kurnass.jpg/800px-GarageImage_Kurnass.jpg
+Kurnass 2000,Israel,VIII,11.3,"2,140",26.0,190.0,1458,"1,458",https://wiki.warthunder.com/images/thumb/8/83/GarageImage_Kurnass_2000.jpg/800px-GarageImage_Kurnass_2000.jpg
+M.D.450B Ouragan,Israel,V,7.7,942,24.0,28.0,1030,627,https://wiki.warthunder.com/images/thumb/0/00/GarageImage_M.D.450B_Ouragan_%28Israel%29.jpg/800px-GarageImage_M.D.450B_Ouragan_%28Israel%29.jpg
+Meteor F.8,Israel,V,8.0,962,23.0,40.2,999,495,https://wiki.warthunder.com/images/thumb/5/5b/GarageImage_Meteor_F.8_%28Israel%29.jpg/800px-GarageImage_Meteor_F.8_%28Israel%29.jpg
+Meteor NF.13,Israel,V,7.7,962,23.0,38.0,999,495,https://wiki.warthunder.com/images/thumb/d/db/GarageImage_Meteor_NF.13_%28Israel%29.jpg/800px-GarageImage_Meteor_NF.13_%28Israel%29.jpg
+Mystere IVA,Israel,VI,8.7,"1,109",25.0,37.0,"1,166",620,https://wiki.warthunder.com/images/thumb/e/e1/GarageImage_Mystere_IVA_%28Israel%29.jpg/800px-GarageImage_Mystere_IVA_%28Israel%29.jpg
+Nesher,Israel,VII,10.0,"2,160",28.0,140.0,"1,460",N/A,https://wiki.warthunder.com/images/thumb/7/7d/GarageImage_Nesher.jpg/800px-GarageImage_Nesher.jpg
+Netz,Israel,VIII,12.3,"2,156",19.5,305.0,"1,555",N/A,https://wiki.warthunder.com/images/thumb/3/32/GarageImage_Netz.jpg/800px-GarageImage_Netz.jpg
+P-51D-20-NA,Israel,IV,4.3,710,22.0,18.9,901,644,https://wiki.warthunder.com/images/thumb/0/0f/GarageImage_P-51D-20-NA_%28Israel%29.jpg/800px-GarageImage_P-51D-20-NA_%28Israel%29.jpg
+Sa'ar,Israel,VI,9.0,"1,148",36.0,41.0,"1,265",620,https://wiki.warthunder.com/images/thumb/1/1b/GarageImage_Sa%27ar.jpg/800px-GarageImage_Sa%27ar.jpg
+Sakeen,Israel,IV,3.3,590,22.0,11.0,790,438,https://wiki.warthunder.com/images/thumb/a/a9/GarageImage_Sakeen.jpg/800px-GarageImage_Sakeen.jpg
+Sambad,Israel,VI,9.0,"1,199",31.0,61.0,"1,265",620,https://wiki.warthunder.com/images/thumb/d/d6/GarageImage_Sambad.jpg/800px-GarageImage_Sambad.jpg
+Shahak,Israel,VII,10.0,"2,160",28.0,140.0,"1,460",-,https://wiki.warthunder.com/images/thumb/b/b6/GarageImage_Shahak.jpg/800px-GarageImage_Shahak.jpg
+Spitfire LF Mk.IXe Weizman's,Israel,IV,5.7,690,14.8,31.8,774,N/A,https://wiki.warthunder.com/images/thumb/7/7c/GarageImage_Spitfire_LF_Mk.IXe_Weizman%27s_%28Israel%29.jpg/800px-GarageImage_Spitfire_LF_Mk.IXe_Weizman%27s_%28Israel%29.jpg
+Spitfire Mk IXc,Israel,IV,4.3,650,17.2,19.5,774,N/A,https://wiki.warthunder.com/images/thumb/a/a9/GarageImage_Spitfire_Mk_IXc_%28Israel%29.jpg/800px-GarageImage_Spitfire_Mk_IXc_%28Israel%29.jpg
+Spitfire Mk.IX (CW),Israel,IV,5.7,690,14.8,31.8,774,N/A,https://wiki.warthunder.com/images/thumb/9/92/GarageImage_Spitfire_Mk.IX_%28CW%29_%28Israel%29.jpg/800px-GarageImage_Spitfire_Mk.IX_%28CW%29_%28Israel%29.jpg
+Vautour IIA,Israel,VI,9.0,"1,100",32.0,52.0,"1,166",584,https://wiki.warthunder.com/images/thumb/7/7b/GarageImage_Vautour_IIA_%28Israel%29.jpg/800px-GarageImage_Vautour_IIA_%28Israel%29.jpg
+Vautour IIN,Israel,VI,9.0,"1,100",32.0,52.0,"1,166",584,https://wiki.warthunder.com/images/thumb/8/8c/GarageImage_Vautour_IIN_%28Israel%29.jpg/800px-GarageImage_Vautour_IIN_%28Israel%29.jpg
