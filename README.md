@@ -1,5 +1,7 @@
 # Warthunder plane scraper
 
+NOTE: I have updated `scrape_planes.py` to also list the planes's categories, eg. Bomber, Long range bomber. I haven't run this script yet to update the data. I have tested it on just the first few planes and it seems to work okay.
+
 ## Contents
 
 - [Overview](#overview)
@@ -29,8 +31,8 @@ There is a script for scraping and saving to CSV, then a script for cleaning the
 ### CSV
 
 ```
-plane_name,nation,rank,battle_rating,max_speed,turn_time,climb_rate,wing_rip_speed,combat_flap_rip_speed,image_url
-A-10A,USA,VI,10.0,642,29.0,25.3,874,N/A,https://wiki.warthunder.com/images/thumb/0/08/GarageImage_A-10A.jpg/800px-GarageImage_A-10A.jpg
+plane_name,category,nation,rank,battle_rating,max_speed,turn_time,climb_rate,wing_rip_speed,combat_flap_rip_speed,image_url
+A-10A,PREMIUM;Strike fighter,USA,VI,10.0,642,29.0,25.3,874,N/A,https://wiki.warthunder.com/images/thumb/0/08/GarageImage_A-10A.jpg/800px-GarageImage_A-10A.jpg
 ```
 
 ### JSON
@@ -38,6 +40,7 @@ A-10A,USA,VI,10.0,642,29.0,25.3,874,N/A,https://wiki.warthunder.com/images/thumb
 ```json
   {
     "plane_name": "A-10A",
+    "category": "PREMIUM;Strike fighter",
     "nation": "USA",
     "rank": "VI",
     "battle_rating": 10.0,

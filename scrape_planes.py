@@ -46,6 +46,23 @@ def scrape_single_plane(single_plane_url):
         soup = BeautifulSoup(page.content, 'html.parser')
 
         plane_name = soup.find('div', class_='general_info_name').text
+
+        # Find plane category, may have multiple
+        # Represent array as semi-colon deliminated list
+        plane_category_string = ''
+        plane_categories = soup.find('div', class_='general_info_class')
+        plane_categories_a_tags = plane_categories.find_all('a')
+
+        num_of_tags = len(plane_categories_a_tags)
+        loop_count = 1
+
+        for a_tag in plane_categories_a_tags:
+            plane_category_string += a_tag.text
+
+            if loop_count < num_of_tags:
+                plane_category_string += ';'
+            loop_count += 1
+
         nation = soup.find(
             'div', class_='general_info_nation').find_all('a')[1].text
         rank = soup.find('div', class_='general_info_rank').find(
@@ -79,7 +96,7 @@ def scrape_single_plane(single_plane_url):
         else:
             print("Image with 'GarageImage' in alt attribute not found on the page.")
 
-        return [plane_name, nation, rank, battle_rating, max_speed, turn_time, climb_rate,
+        return [plane_name, plane_category_string, nation, rank, battle_rating, max_speed, turn_time, climb_rate,
                 wing_rip_speed, combat_flap_rip_speed, image_url]
 
     except Exception as e:
@@ -94,7 +111,7 @@ def scrape_and_save_csv(list_of_plane_urls, filename):
 
     with open(filename, 'w', newline='') as csvfile:
         csv_writer = csv.writer(csvfile)
-        header_row = ['plane_name', 'nation', 'rank', 'battle_rating', 'max_speed',
+        header_row = ['plane_name', 'category', 'nation', 'rank', 'battle_rating', 'max_speed',
                       'turn_time', 'climb_rate', 'wing_rip_speed', 'combat_flap_rip_speed', 'image_url']
         csv_writer.writerow(header_row)
 
